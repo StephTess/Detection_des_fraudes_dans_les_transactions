@@ -1,501 +1,501 @@
 transaction_id,customer_id,transaction_type,amount,transaction_date,location,device_id,status,is_fraud
-c12ad164-928a-4680-bb3f-3434e176d755,afa883e9-54a9-466a-83ae-bee4b31bf922,receiving,354735.45,2021-08-06 17:16:34,Lake Annashire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-3a6c38e4-b09b-47b1-808e-baa0f98f89b4,82d37122-843a-47fa-a3c8-e06d2f313d3e,receiving,641413.39,2023-08-24 04:06:29,New Brittany,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-b393ca0d-6b41-41e3-9673-9c75484cb98b,1ebc497d-6940-4e77-8800-20a2b75e7676,receiving,427557.6,2023-06-05 16:05:14,North Wyattside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-d8ce7a4d-65c2-4ab0-a584-e5c30db54bff,eea3dc27-026e-4ceb-b472-d4c53baa48cf,refund,174567.71,2024-07-07 21:46:26,Jamesstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-8fc48c44-9e7e-4d36-adb7-28b737cf095d,173a1760-e3c7-47fd-bc27-ff2a49dbd830,purchase,584790.63,2020-12-13 13:16:49,Port Samuel,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-a68b2e0f-2ba3-40d8-8466-c552dc138434,f00cabfd-c424-42e5-a31e-b7b0f7ec1b78,sending,279901.35,2022-12-12 14:21:26,South Erikland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-de53104d-8d57-45e8-b799-bec9bad7e3c5,7d04f2ef-c4ca-4eb5-b8a1-88e8be43f6d5,sending,431335.92,2024-04-17 18:47:42,New Amy,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-60f591d9-b2a1-4e7d-a99f-e4817b503a26,40e5c1e6-ee2a-4105-8b45-f0232b917e54,transfer,125533.75,2021-08-07 02:56:13,West Michelle,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-6a404ead-249f-42b2-aa4e-ef72e7d1a6fc,ea3341c7-a9b6-44d3-9e4d-161efa8b9c16,purchase,211801.46,2024-06-06 12:01:06,Gonzalezchester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-383ddae5-912c-47da-8926-57750db267c8,df054e90-5401-4136-9da1-39ee1c92faf5,purchase,541319.65,2022-01-05 14:55:52,Rodneyton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-bf04c74e-1338-4d5e-8b3f-6d032ddf48f9,08da36fe-d7bb-45fc-97af-8e3937a3300a,sending,717664.91,2021-05-19 07:33:34,Jessefort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-9f621f87-5df9-482f-b224-2953865bcf94,e3378bd1-971a-4436-818a-eccf492c6955,purchase,964503.47,2021-11-03 00:23:32,Flemingchester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-6dd9c31e-2d82-4eda-9dc4-266cd02ac077,66490d15-dc7b-4b8c-a8df-8cd68bbc426f,receiving,208712.51,2022-11-26 19:21:51,South Sharon,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-55b9183a-8bcd-4db3-959b-33b84d9f4ecd,be0eecdf-fd90-4d0c-aed9-0d53b070de26,receiving,604210.8,2020-11-11 23:23:26,New Evelynmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-c2e87ab4-1737-4a03-808e-a5677177db96,5eee92d6-0202-4534-8266-4c6d4976a0c5,purchase,539445.05,2021-04-27 01:39:35,New Kaitlin,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-ae6ae750-f3fb-40fb-9660-afc59a0415e2,1746c844-711f-4156-987f-8c7bdc50781e,transfer,526279.26,2022-12-28 19:16:25,Troyburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-1bcef013-79d2-42bf-b6d4-c3f78df66e17,12e7bba3-3c9f-4409-9e3d-d1fc67cbb15c,sending,139664.24,2022-07-02 16:03:07,Oliviaton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-ffbda1f7-6e30-4a19-8323-253645e51c1b,8bf8a49c-5a62-4d82-83e5-567198f5177d,refund,975132.09,2023-05-27 21:55:41,Port Sarah,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-a18f25ed-42f1-4b22-a70e-bbb2a578e853,a07978bd-3aec-45a3-a827-d44cdea75386,sending,681419.45,2022-04-07 18:37:09,South Elizabeth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-cd9e1197-a9c0-4475-977b-3edeed2236b0,240e43ff-1318-4c3f-8825-038e70f4cbdd,receiving,385424.29,2023-01-09 07:49:52,South Brent,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-f7b25bbf-e655-4e35-8fb8-f9d14adcc01a,a5f6ecdb-4387-4754-8b2f-2d309c2153cc,receiving,198839.73,2021-01-21 16:06:02,Fritzland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-9a4834e9-9ea6-4aa0-8cb0-a371e1a1ebf3,0e5ab7f0-30ef-46c0-9b1b-fb534e61d61e,sending,4880.84,2021-06-22 16:49:30,New Ashley,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-8c0251d1-69de-4e27-8041-a801e1377143,932b6e18-04d2-439d-94e0-79d24622c174,transfer,617153.38,2024-07-21 03:16:29,Andrewmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-1229bf6e-165f-4683-a670-61f8b64b328c,2db75eff-23bf-4ef6-ac6a-719a3eb392d9,sending,830917.11,2021-05-24 21:58:44,Pattersonbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-de3d1b27-5de8-4f7f-8b3f-5f7a8fe0bb89,67aa1afe-ee80-48b7-8a0b-d59d94b65b48,purchase,744803.2,2023-04-17 21:22:21,Molinachester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-081dbe73-4a12-4857-badc-936fa146e740,4cff1d28-79bd-43cb-8bc3-de11e5175b01,refund,836698.15,2021-01-08 18:37:55,Port Angela,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-46f7099b-561b-4f25-84e7-26b52b9fa698,469decad-282d-473c-8a0b-4b9d5a7ad81b,sending,226145.59,2020-11-10 19:59:14,Walkerhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-b6d2ce26-4d2d-4b29-b085-440031af35d2,b1cb6753-31f9-446d-b8d8-1963dfa3f1ea,sending,118235.09,2021-06-10 11:46:35,New Susan,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-1c78cbde-8ce1-4b83-9070-24e2582d7460,10cc93e1-1b57-44a3-a363-d6ca1ffc7a1e,sending,781511.44,2024-06-03 05:43:08,North Normanbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-a4b184df-8e78-4f6d-9f50-c4e50e3d9cfa,2b4a8d18-ff16-4675-841d-068c34aa6d1a,refund,242991.31,2023-01-24 11:50:17,Mckenziehaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-c6dee212-291d-4c34-b155-371b724ebe4a,fdf8328c-04d4-48d2-af04-f0f50a2df23d,receiving,206751.78,2024-07-23 06:56:35,South Stephanie,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-8c7b60f4-71b4-4931-86ab-635fc6db6937,66e52d53-38e6-4b7d-8d69-e0dbd3fc2f73,refund,289877.4,2022-09-19 14:12:16,Valerieberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-0644aa87-0930-4ee6-84ec-9b4be02a4c21,919c146d-d625-4f7c-bdcf-5a86b945a9cf,receiving,843187.72,2023-02-21 03:46:47,Morrischester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-7d2ceff6-0e40-4cee-a639-e1e1ec9dbefd,cc804109-8c5c-4b55-931d-d4f718895e45,receiving,404161.15,2023-02-22 11:13:12,Justinfort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-9072ce0e-e2af-43a6-abf2-5d9dec45d0bf,fbd6e9e1-44cb-4fcf-96d9-22970ab00a4e,purchase,605843.59,2021-10-26 16:27:56,North Jeffreyton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-7dd23ec0-4023-412f-a919-29546a3c7fba,00e219c0-1adc-4558-af36-62b68503512d,purchase,405487.26,2022-12-27 15:28:04,Wattsland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-82f950d7-9422-4aea-8570-4bc7cc7522b5,cc4c0f85-d01b-4a81-80e9-3ade2a011bb9,transfer,680023.02,2024-02-20 03:39:22,Ramosstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-b2701504-63f7-433a-8352-d2e83a663f6b,6eb17198-7930-4038-9ea7-079ef8953ac1,sending,791188.71,2022-01-09 00:56:34,East Jasonhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-a1ab7c72-406c-4d52-80ee-1bc16c0e4fb5,b862f2c3-8802-4ec9-ade8-3b5907903fe6,transfer,46551.24,2022-10-17 11:02:13,Walkerfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-4a9a9a57-581d-4e46-9e60-da9fc2dd0284,eea3dc27-026e-4ceb-b472-d4c53baa48cf,purchase,508105.06,2023-12-04 16:12:02,Lake James,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-14c6e213-9dc0-4ab2-bedf-8a0ac850eb3f,6197a7e6-1f58-45a0-88f0-9f5a42b68017,purchase,11330.51,2021-12-17 04:41:57,New Daltonberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-091ba232-b7a0-4222-8189-77311e449af1,c7b7e8e8-46d5-444b-83c8-ce59e36fb261,refund,631554.81,2023-01-20 15:36:25,Francesburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-ea2e4530-33c3-41b7-96ff-6c88cc44f005,6f0d2009-cb78-4c52-81c5-15659509494d,refund,473068.42,2022-04-03 23:40:15,Port Kristaport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-046c21dd-4c54-4cb9-9747-e11a48446fcb,69b06c63-c675-4381-8334-f2b788f646ab,transfer,344865.43,2020-11-20 19:24:14,Lisaport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-355f82fb-6c50-4d7e-85ef-19ec39aeeb2e,d82bde1e-ad21-45a1-af8f-f05ff48d8faf,transfer,573017.29,2024-01-20 03:47:48,New Michaelstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-ba41dfef-ee19-4f03-ad4f-ecabe5a3ba01,d5850c74-29c9-44d1-9931-5240ffc3ceaf,receiving,486105.77,2023-03-21 07:24:59,North Bethany,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-21f629e6-889b-4219-abb9-ab10f26c6a65,7fa6eda5-7c06-43ef-83e3-3bf1c9dd5ab2,refund,676899.79,2024-02-01 09:55:55,Daviesberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-c441b86d-217f-4a09-9cf1-68b5a8fe8959,8fec2b73-2e88-46f5-811f-378a988a4fda,refund,400510.88,2022-09-04 13:31:29,Paulburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-768fbefa-9c75-48c7-b925-107ed8f3871c,12e7bba3-3c9f-4409-9e3d-d1fc67cbb15c,transfer,361300.14,2022-08-17 04:02:01,Lindseymouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-bfbb1aa4-2ca5-4cc5-8b7a-de03e75319dd,40d912c4-7c95-4f47-8f95-5effe49de7f5,transfer,247770.72,2023-03-07 00:28:36,Kaufmanhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-6aebc382-cf90-425b-99a2-c7b8a47c67b4,8581622c-6e34-45bf-b10c-1c649e1372dd,purchase,739304.09,2022-04-19 21:50:57,North Daniel,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-13be4cb6-df86-44eb-9e56-1c07112b0e04,6197a7e6-1f58-45a0-88f0-9f5a42b68017,receiving,503858.93,2023-06-19 21:07:32,Curtisstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-edf14fc0-5b91-4b39-a9c3-9f642de409d3,21d31a57-68ff-4069-9755-0185e416fbf4,purchase,478734.87,2022-04-11 11:24:16,Kingbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-a3db388e-c0ab-4c9b-bbaf-1cafb14d81d9,9febf81c-4814-472a-a635-83feb1e5e258,sending,17922.56,2022-07-02 07:03:22,South Kimberlyland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-24a3a8cc-a33d-4210-847d-50bf29c4254c,30a14e61-45a8-45c2-b12c-fa5bf182ae9d,transfer,699278.84,2023-01-14 00:55:23,Lake Paulfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-ed011db5-5e3b-4068-949c-15c08113940d,783cb753-7933-40f3-91c5-5a3caa759781,sending,613288.86,2023-01-13 04:02:30,North Brittanyview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-7565d3b1-9ce3-4ff4-9cd3-b33d83d17a6e,8581622c-6e34-45bf-b10c-1c649e1372dd,receiving,637002.75,2023-08-21 19:34:39,Lake Shellystad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-16308cb2-7700-45a6-8fb6-02c56a27fe27,774d0898-944f-4bf6-868e-97cc43774151,refund,314544.59,2024-04-19 04:52:13,Brianshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-2ea75ca1-62e6-450b-a3f3-9132c8a00f88,d348255b-3a4b-4d09-902d-e66cbefef4b9,receiving,227407.86,2023-04-08 16:20:21,New Angela,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-9560f9d0-c606-4f50-81ea-83739e9a8fab,ccc2ea7e-09d2-44a8-998c-e4ed09c01451,sending,453130.52,2021-10-25 04:30:44,South Beth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-2d73822a-ef9c-4d15-a922-27919157f5c0,c008adbc-f039-49b6-a7b7-8aefcaf25f82,refund,487364.05,2023-10-01 17:21:27,Mollytown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-5e420967-8b2c-4d4f-a92b-a350b3e7e07f,a5d11416-93b5-47f9-a845-e590e8c6e69e,refund,982188.53,2024-03-05 12:08:47,Karenmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-3cea00bb-46a8-4ab3-a6f4-65350e61ffeb,af7c2ce9-7f5d-4670-a263-1c84f9944956,receiving,285018.9,2020-12-07 17:27:28,New Rogertown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-9778fa5e-7b07-4365-aa89-90f1908b535a,8d2871d4-410f-4602-bd52-d43a721c988b,purchase,542647.85,2022-11-04 20:24:12,New Tyrone,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-4ab4f99c-3d35-434b-8055-3f30a6493197,5ca63145-6cdb-44c7-a15c-8979673e77b5,transfer,387749.38,2022-11-17 12:11:21,Lake Maria,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-0efc192f-dc6a-4826-86be-084be82d41e0,8e95a60e-acc6-424f-a192-1f3575e06492,refund,50725.7,2021-04-23 11:04:14,Aguilartown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-2813c766-6bd5-4cf1-8e0e-e086528fee4f,6cb9c31f-14ba-4a92-9030-c87d968d5510,sending,554663.09,2022-01-11 12:45:36,Joechester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-1f17d303-2570-4838-8a4b-ce87d995f644,836dfb38-506b-494f-97be-224c3e0d24f8,refund,222273.86,2022-08-27 04:42:53,New Carolinestad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-507c62c0-48b5-425b-8b30-d67858c2caaa,f87e71c4-8974-4266-92b0-4f6e18bc7591,sending,728528.9,2021-08-04 04:55:51,Lake William,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-3fd4a331-c573-4757-9ddf-869e5d80dc34,96fdc5d9-88b7-4d94-8507-965e9110d2fe,refund,878657.56,2021-07-16 03:45:30,West Williamburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-8c428187-234f-439c-834e-cbb19ee02684,268b6d9a-28db-4855-b7b1-83da90222e4d,refund,377172.73,2024-03-09 21:00:24,Mitchellland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-fef0e3a1-0862-4b00-b826-7ec824abb4a9,16de51df-2275-457f-a666-631e7d4f43be,sending,370334.84,2020-12-09 18:21:01,Port Lauraton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-f22b149f-ece1-4549-9878-f4401f6f250e,a86a79a4-a8e7-4d4b-9f0f-6621b2bc162c,receiving,129511.86,2022-09-27 15:59:29,Catherineton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-2930912a-42fa-4c88-a5ed-a59989976843,d91f9b4b-ee1e-4210-8db2-19362c0b4488,transfer,801139.69,2021-11-13 14:38:19,Guerrerostad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-fb8bcb9e-3d10-4903-bdda-01a18511560a,23fc3169-583c-4105-b141-af29a3833903,sending,353346.17,2022-10-14 03:56:41,Romanstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-4d79586f-5f0b-4437-a6a1-62301fbcc68e,f3228fa8-6bb7-4d21-a754-bc96104777fe,transfer,513395.8,2023-07-22 20:09:02,Chandlermouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-16557221-49a3-422a-bd06-170145d0dfd0,8972487b-d8b1-4d0e-9834-7e8b4901764a,refund,430839.92,2023-02-08 08:13:23,East Saraside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-fea7e403-2ea9-4ccb-8ba4-c880b5668a13,3762ba90-99b5-4220-b568-1a2cd37a75cf,refund,393077.42,2023-05-18 05:00:22,Wisehaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-e8f0d0dc-dfee-4a02-88e4-cd8651c4da8b,a23d3a12-6870-45ea-aeb9-008f824e811d,receiving,359743.8,2024-07-28 01:53:14,South Jessicastad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-8561b2d7-e339-4b76-a23a-81f6234bfc54,dcf00cd5-b2f0-42fe-a7d9-1f2f9e0a6625,refund,22337.64,2024-01-10 11:09:12,Roberthaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-fd0fe4e2-9962-4bd8-9e88-c3ec5ad88fda,a2c62832-8e19-4ac5-8cf8-496a5bb4a761,purchase,6956.21,2020-12-19 18:37:38,East Edwardberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-7c8370f1-f668-4078-af73-b2b1478f070f,730ddd33-6978-4763-8098-d1cd6a31a718,receiving,98369.69,2023-09-08 12:44:28,West Kimberly,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-1aae02d0-4d7a-4cde-803e-66f35ace84dd,2db75eff-23bf-4ef6-ac6a-719a3eb392d9,refund,46725.09,2022-10-16 21:45:25,Jessicafort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-4b670c05-c424-4d25-8245-67ca335e637c,70952d5d-d2d4-4db0-b202-26b7a9419599,refund,138079.91,2024-05-10 05:36:39,Hillton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-8c88a8f7-ac9e-4c9a-b284-6845979866e7,d4b5da9b-eef8-4d00-b5e7-59cc4ace16ea,receiving,447305.27,2022-03-13 13:19:09,Taylormouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-07feb54d-11aa-4a91-b3f9-69cd26a17c41,9948212e-3b3e-4a2e-ab91-ac10e96f1274,receiving,234927.28,2023-04-10 16:02:32,Clarkeburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-312c58eb-0d5c-49b4-98b0-6652dae7b7c4,4b92840d-d403-493e-aca7-093650372219,sending,105918.84,2023-06-04 12:53:23,Paulaberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-713e8460-f17f-4721-815c-ca75980643f9,5b087340-8b46-47b1-b059-ab82a7a56a8e,refund,975733.82,2020-12-27 19:33:41,West David,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-594924e8-a05b-4b07-951c-da5cff704e9f,d91f9b4b-ee1e-4210-8db2-19362c0b4488,purchase,32492.8,2023-01-09 08:10:25,Shawnshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-2fe86a1e-340b-4b67-b0c2-5e7035d7827c,d30f10f3-1311-40d8-b983-8c8b0cce900d,receiving,180508.82,2021-06-20 06:56:45,Phillipsburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-8f0cdfe2-4890-46be-b5f7-acd398e803b7,4f4657a4-6292-4bc2-8abf-1920f3d6d2e0,sending,460523.01,2024-01-27 16:52:09,Haleyshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-f4761e5b-0118-4e3e-b033-6ed759e86550,7ec596ea-f30a-4a08-90f3-fd9d94aa7e70,refund,577128.47,2022-10-08 08:42:18,Port Juliaside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-c1cec7ae-b567-4119-b0de-174dc5742388,e3f6b608-29d1-4b00-b6bd-813aab46f44b,sending,172799.14,2023-05-06 05:39:47,Tracyshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-2b73f9fa-f77d-4230-983d-fa40f1c26251,a64b390e-d7ef-4084-b2b1-44eae0401f36,receiving,764960.37,2024-04-27 16:17:45,North Jamesfort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-38bc32ad-f179-4d68-aa05-4743e1afe224,d30f10f3-1311-40d8-b983-8c8b0cce900d,transfer,418923.83,2024-01-21 08:20:12,South Kristyshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-128a34d1-ba6e-49a4-a4d0-391797b69a96,1d273abe-2412-4358-8576-777331a2bcef,purchase,26089.26,2020-09-15 18:43:52,Jacobside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-7dc73ed6-e27b-4937-874f-7e74074eaa43,39485179-86c2-4f93-8e4f-47b2766dab91,receiving,438578.43,2022-01-07 20:01:43,North Jonathanborough,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-6c589014-0006-4946-a605-cc676b35444a,d7a8ec78-1d96-4696-a7d8-726172d0e523,sending,348635.61,2021-06-10 18:49:43,Port Sarah,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-8da33268-df1a-4e8d-a59f-4de32e6347bb,40e5c1e6-ee2a-4105-8b45-f0232b917e54,purchase,159679.01,2023-02-27 03:56:24,Brianborough,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-9b9a6ec0-8ef0-482f-87dd-b1876ff74c91,4fc3b059-3e56-4599-90a0-5975fa587d94,receiving,667393.14,2023-01-11 02:39:57,Lake Julie,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-b0683202-8280-41da-909c-cbfeb88882b1,585f74ff-ef6f-4484-a5a0-a785e3863987,purchase,314213.32,2021-07-13 10:32:14,Lopezside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-18fe2d31-5d78-4bd5-996f-53bb18619cce,6182901b-2878-4651-98f4-af618f262abe,refund,138222.79,2023-12-15 06:57:26,Estradastad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-af78e4b7-9789-4099-9e81-7c11510bf125,d25cdc05-ce48-4afd-8434-06843a42e100,sending,518819.78,2024-01-25 11:35:49,Lake Kennethhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-bfdb45da-081a-4b3d-8be0-158f23416f35,77e76266-52cd-4c40-b9cf-15ba05b4e957,sending,45786.63,2023-01-13 18:11:50,Wrightville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-8b49748a-92e5-473b-862a-17df09c1f3a0,5e4a7a7b-84c0-4684-8476-394073946655,purchase,123022.46,2022-01-29 15:50:57,South Ronnietown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-30cdbd4e-6250-4ec5-a8b2-955b09abe470,fc2d8edc-2242-48cb-be63-1718bd949764,receiving,580479.7,2022-11-06 08:28:42,Lesliemouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-98e6d904-abdf-44be-a1d9-02e9bf1b94a5,d6a15875-52af-4794-8baa-d56c6d09d7b1,transfer,742856.39,2021-06-25 21:36:01,Port James,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-404eea77-2835-471e-9b5c-9f482271f62c,b6aead59-c94f-492a-9f99-979a9442805e,transfer,19629.79,2022-11-16 20:51:07,North Mary,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-90fa2d0f-76c8-404f-95d7-91136d2f7825,6d1e70f6-6cd8-41a5-bbee-fc9ee23518a5,refund,201568.91,2024-04-06 17:36:12,Mariatown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-0f328a69-848d-462f-ac13-ed9b5ea945eb,e511e99c-1737-435d-9010-310e104f0805,sending,56640.25,2021-09-20 04:13:12,Wrightside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-b035fbd9-c8fb-4ebf-8e03-ac2b73c3c553,d82bde1e-ad21-45a1-af8f-f05ff48d8faf,receiving,895193.64,2020-12-17 06:49:49,Port Tracychester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-e84f6fe5-4608-4651-9a26-a52c5ed14f79,cd93b64b-6ff2-4f96-8bff-a44f9f2e41a0,purchase,61093.37,2021-05-16 07:36:48,West Jeffrey,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-2b0905b6-8b13-4355-a4aa-fcc937c0bfae,efbf2e5a-6983-430f-a277-0df902e79095,refund,557203.19,2021-09-06 06:48:25,New Brittanybury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-ab70cc71-2d04-4925-9ea3-4244c51a71ea,03ced9e6-d169-43af-90bb-36fb72a37f3b,refund,98069.5,2021-10-31 15:55:20,Gallegosshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-3eacaddd-c67a-4c3d-8477-81cee8b98afd,5b087340-8b46-47b1-b059-ab82a7a56a8e,refund,207041.34,2021-10-17 10:25:40,East Christine,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-398276ea-f42f-4a5e-83d6-8139680392bf,1117ab80-15c4-43ab-a427-568f661602cc,receiving,755527.68,2022-12-25 22:41:00,Johnport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-cd7d7a2a-e2ff-4bad-8efc-7f08854fe11c,4866aa27-adf7-4733-b982-750cd67b4f0f,purchase,113142.24,2021-08-24 21:54:20,North Michaelton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-6654dc5d-86c7-4668-8a50-63aa4958fac9,68bccf6f-9d1f-491f-9f0b-76e3466404de,sending,108512.84,2023-10-29 04:44:30,Houstonville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-1913e913-116a-4a80-a8d8-e95dba01759e,16de51df-2275-457f-a666-631e7d4f43be,refund,475965.65,2024-04-07 01:00:45,Danielstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-d3b2cd90-017a-4f5d-bf97-95a649ea7c49,82d37122-843a-47fa-a3c8-e06d2f313d3e,refund,472308.46,2023-01-07 16:44:06,North Julia,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-41453a54-a9e3-45b4-a75d-d4f7dd5a4c29,c1b84d29-9bf0-474c-9ee4-4008aa8dabdc,refund,139093.54,2023-09-06 22:20:22,West Jeffreybury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-6ba36783-439a-4f5a-8ae9-583ffbae3b18,0b0f9f00-7705-4ff5-bcf6-71d2c18fa699,refund,357021.62,2020-12-15 20:36:56,Velazquezfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-623bd24b-8cd3-46d5-bd08-c0589ca34d9e,d6a15875-52af-4794-8baa-d56c6d09d7b1,purchase,603860.28,2023-08-17 07:47:55,Danielville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-54d958c8-1d1b-4c9e-9c11-499709f2aeec,815dd6f6-f6ad-4749-99be-6a32b75aaea3,refund,899148.15,2021-12-20 11:23:37,East Jessebury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-cda6e02b-4095-42f7-84a3-ac8f64932500,0fb97bbe-532a-45ac-93d0-2a8f3726e5f2,transfer,649247.0,2022-10-31 05:23:49,Lake Candice,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-aa55875a-6c55-44ca-99ea-8b8b9601a042,d8f6805b-5555-4642-81b3-dae6953fea7c,purchase,744371.23,2024-06-11 21:26:19,New Karen,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-71510d1e-2ebd-4e46-8641-53878c712400,d30f10f3-1311-40d8-b983-8c8b0cce900d,transfer,73360.27,2022-08-09 04:38:48,Leblancmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-a0b6574f-4d0f-4a64-8b91-305ab57a9c0a,fbd6e9e1-44cb-4fcf-96d9-22970ab00a4e,sending,326114.06,2022-02-07 07:23:52,Romanton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-2ed3a956-54f1-4243-b83c-e71946ab65c6,5b087340-8b46-47b1-b059-ab82a7a56a8e,sending,501948.73,2023-06-20 08:28:54,Morenoberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-d80cfb20-c2d4-4b0b-80ed-c7451276485a,3d979812-bc8a-4942-99b6-df9daae271fa,receiving,219900.25,2022-02-05 13:15:05,South Joshuabury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-b3017f72-dc90-4535-b084-e861220cdf86,828a743b-a6f0-4a5b-bed7-e72b9959f68f,refund,379079.36,2024-03-11 19:13:47,Kristyview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-f60c1b3a-2450-4089-ad23-8d22059ff21c,32724a34-3207-48f6-8859-0b591dcf9319,refund,847861.39,2021-12-31 11:44:57,Stephanieborough,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-2ba765c0-b232-4f6d-a41b-96dd450392d6,d7a8ec78-1d96-4696-a7d8-726172d0e523,receiving,520629.31,2020-08-24 02:30:14,Hallborough,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-7c2d6546-e262-43d9-9350-af32a41e2ae5,dc0efaab-4ffc-4468-ad8e-8f0f6843d313,transfer,237780.39,2022-03-12 23:14:00,Flemingberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-1095b6ef-dbd4-4b51-85dd-9d3081ca756a,dc8280dc-7568-4953-9b6e-4d381d88de0a,receiving,896056.21,2024-07-27 22:24:06,Port Todd,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-855217cd-9b6c-402f-92e6-c3da1b5e0f1c,6c1465e2-cc5f-4633-b4f8-21d2adffe61c,sending,253791.56,2020-12-10 02:13:50,East Brooke,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-b64b0d56-951f-4f93-984c-fa8c52b135a2,d42bc201-a16f-4cfb-b2c6-95a9be46b5db,receiving,732557.53,2021-10-07 00:04:16,Pattersonshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-2b125a91-4a72-46fa-bae5-e29739b04814,8d2871d4-410f-4602-bd52-d43a721c988b,refund,124726.43,2020-10-16 16:23:49,Amandahaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-25189d2f-177c-40e9-9d39-877020103de1,8933d9fb-b018-4f8a-a74e-f524883febb1,receiving,184019.63,2022-01-08 00:23:03,Lewisbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-4adf1323-3e1d-48c3-abea-515716c552a5,72788a9f-213a-4363-8de4-a42e30defe04,sending,252042.9,2023-09-10 22:11:23,Riddlefurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-ef08e584-a731-4546-a754-b77fec555343,f62e98b3-53e6-46d6-b468-e6fdf27c3928,sending,837998.53,2021-07-14 04:56:23,Huffberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-1e3cb0ef-3353-49e4-8dd1-a62235e0f1b9,4f4657a4-6292-4bc2-8abf-1920f3d6d2e0,receiving,635854.24,2022-03-02 20:31:08,West Amanda,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-8b5434c9-ed95-4336-8c29-8cb7706f5bd9,6185b8da-a3dc-4697-ad11-750161b8c751,sending,204644.19,2021-05-19 14:49:41,Stephanieview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-68c6bdd9-c4c2-4a34-9bb5-1f1dd85d990e,d09fcc69-c233-4d88-b36a-bcdc8ed8a45d,sending,772524.82,2023-02-04 06:05:39,North Julie,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-abcdf467-9eeb-47d4-8a93-1dd4065b8c83,55b3c9f8-3833-426a-ae73-17d612e25b99,sending,285094.18,2023-09-13 04:57:23,New Jessica,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-e12b24a3-0bba-4568-ae4b-1c15742636a6,8c261108-50e3-43fe-894d-bcb0ebda94ad,purchase,847411.88,2024-06-02 16:52:22,Vincentchester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-02739d03-47c7-4a62-aa29-702b22403031,6b93e9df-56fa-4da3-aeed-69fad70c9006,purchase,564966.93,2021-12-25 19:02:17,West Bradley,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-c85c219a-defa-42b6-bb05-37fd8423ee11,7766e524-de77-4ccf-8f45-96df8b317996,purchase,413592.3,2024-06-14 11:29:38,Dickersonfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-73ce5d48-3b2d-4b7e-86eb-49fd94ef7b33,040369e3-a163-4d40-8eaf-8921e9f6ed45,sending,485429.63,2023-09-28 03:28:58,Lake Justinland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-c5d1657c-a7ce-4c92-8e84-d918a62365bf,4538ac07-dce6-4f7e-827c-fb475d108040,sending,18403.27,2022-07-11 04:29:11,Lake Glenn,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-a68ccb7a-f718-42f2-82d9-40612649eeaa,08da36fe-d7bb-45fc-97af-8e3937a3300a,receiving,888088.99,2021-11-09 04:47:27,Phillipsbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-ed0dca4f-bc49-4bd0-b476-f4aaeedbbef9,b43c476b-8d35-455f-aa57-e4d66b374682,receiving,678887.46,2021-04-14 00:35:05,Derekstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-da533eee-26e1-4048-88be-0dae03e3a1e4,c9f42497-de63-40df-9b07-da15d710e200,refund,891989.05,2022-04-08 22:19:17,Woodwardville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-a3a209e5-721a-494c-9ef8-429ad7da2bd8,70e159b2-c9b5-4d04-973a-2844cc61101a,transfer,417407.26,2022-10-02 02:26:18,Martinville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-65ad4088-9b65-4d7d-abbb-b2547bf2c193,16c756cb-6462-43cc-a55b-59d3e8274dc3,refund,661821.03,2022-12-07 06:41:55,Tranbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-04183534-e675-4504-9f65-bc79365fac86,c1f4a7f3-ff73-42f2-8552-07fe4dd35220,receiving,73592.3,2021-03-14 00:41:53,Lake Victor,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-5a4d3d61-2bcd-49fc-afa8-04a5913f739d,730ddd33-6978-4763-8098-d1cd6a31a718,sending,611677.5,2022-01-17 23:33:11,Wallacefurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-724a7e9c-4d21-4404-93f3-f20dbd889fae,a2dc68ad-9c65-466a-9f81-61b2924883d4,receiving,787033.99,2022-12-22 19:44:59,Port Robert,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-7a88cbfe-7d74-44ed-9c41-289175ded3c5,1746c844-711f-4156-987f-8c7bdc50781e,sending,491596.78,2024-08-05 13:56:07,Josephmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-32922bc5-29f2-414a-a0a6-a7b663376841,be5b6e2d-4790-4651-a39f-9ca576714c10,sending,763197.2,2023-10-10 21:06:49,Ericmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-b85dae7f-65bc-49f0-813e-88c7e366d326,42b4e643-5795-481d-bac6-6e06db904957,purchase,593241.92,2022-12-12 06:47:49,Port William,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-c81e6155-7c5d-45af-b29f-9e39fd345d22,2e017015-3b06-4bf0-bcc7-04103981584c,receiving,480458.81,2021-08-26 21:25:57,Rebekahville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-68866e13-8773-46fe-be95-d2286ef1578f,5c81aa74-eecd-4f0d-b178-6d45489a7b7f,receiving,783714.15,2024-04-25 22:53:53,Stevenston,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-513c9342-69ca-4a4b-ba6f-1ad3e6296e3d,4452e8c1-06a1-4d51-8fb3-29b3fa800367,purchase,434333.89,2021-12-12 15:43:46,East Julie,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-f2a441a8-1007-4fcf-b924-5086e43d86ed,5408d5ba-39d4-4259-80e6-69a78cb831a9,sending,322057.09,2021-06-02 21:29:05,Lake Loganbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-529e2e90-1dbc-4ba1-8500-7ca9c2973d85,0fb97bbe-532a-45ac-93d0-2a8f3726e5f2,transfer,952971.47,2022-07-30 09:39:55,Haydentown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-adb71f81-686b-41f1-b8dd-2ca82c764b9a,805c190e-0738-4690-a311-4e06bef193f8,purchase,223063.6,2021-03-22 10:57:12,Kimberlyborough,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-a6ec0b36-ab3e-4b6d-b752-70b269073f7c,2bf40697-8728-44ef-84c7-98671a540b29,purchase,127627.38,2020-10-31 10:03:44,Davidshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-e91cea9b-3ef4-4d75-9ff2-d9347cb7f7ce,4fc3b059-3e56-4599-90a0-5975fa587d94,refund,508595.08,2022-05-28 00:19:02,Rothberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-ba2267ee-b890-415e-b494-d2eabad79531,0fccd84e-a7cd-4c01-9694-adca3cbd621e,sending,319274.72,2020-10-11 05:57:20,West David,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-0127131d-6ca0-4670-8333-55b504f91df6,d4ca4a7b-0a91-4dff-a5b2-0803e9dffa85,sending,913178.18,2020-11-30 09:22:16,New Frederick,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-ad158355-cf0b-4173-8a1e-d9e6718ce4af,f3228fa8-6bb7-4d21-a754-bc96104777fe,sending,244856.28,2022-06-25 11:05:13,Denisefort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-76e34f64-603c-403e-9d14-77c1f8915fb0,2b4a8d18-ff16-4675-841d-068c34aa6d1a,purchase,565316.88,2023-06-28 21:41:21,Huntertown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-edcd9ca0-183b-4f31-95e8-1d749e9192b3,14a134e5-bdf7-48af-8544-50817efebc4b,transfer,490127.45,2023-12-16 18:39:26,Rhodesstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-57a64f85-7c2e-4fcf-b808-86f8551dbf5c,95a1fc8b-522f-4353-a278-f76ee8c82302,transfer,933375.3,2023-08-03 09:33:05,Smithland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-dd30c85a-2896-40e3-8431-644ac6e42738,c2dc8c19-2b67-4a15-a95f-f18497d49017,transfer,339715.38,2023-05-06 23:20:01,West Darrell,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-dfd96324-a91d-4e47-9bcf-db2b46faa368,ec7717c4-9912-408d-baaf-8b315accbfb3,refund,20593.93,2023-07-12 04:02:20,Lake Davidfort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-014fc40e-519d-427d-9ea5-05d0501e8403,cea0ed6b-bb82-4609-bc12-5b24ef3e5807,sending,872059.6,2021-10-24 14:56:25,Garciashire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-633a742a-6874-46df-b53d-0be343c64e1f,3d979812-bc8a-4942-99b6-df9daae271fa,receiving,581899.01,2022-07-25 07:06:34,Taylorberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-857ba453-8b71-49ba-96b1-25cca54d02cc,3cfb84b1-d13e-430d-8289-d0a19510f7e7,purchase,252957.36,2022-09-19 23:56:33,New Chad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-5cebeaef-c990-4093-952c-60831594615c,15ae380b-85ee-4753-8f94-d357b0f4a092,purchase,960217.51,2022-11-19 08:52:40,Port Nicole,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-490bbf6b-5196-446e-9548-dc8dd3db436a,eec44bf7-34d8-4841-b9e9-dbf64e1a2c81,sending,326400.91,2024-03-06 06:31:30,Port Katherine,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-0c2ebab3-e2c9-402f-8e82-3d2d27febb0e,5fe31bbb-8264-40e0-b05b-1d2293a0985c,refund,497519.95,2020-10-20 09:37:51,Bowenmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-36276f75-e924-4b28-998e-eac007d4c32e,25ddb605-4b7c-44de-8c6c-6125696e7561,transfer,469195.87,2023-10-24 18:23:33,Emilystad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-58250225-e2ed-4132-adc5-16bdc31cdaef,69c0c055-9e46-46f2-8349-0bd46ed227b8,transfer,320189.02,2022-01-01 18:24:10,Port Patrickfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-a9292f08-b2c6-4311-93b2-75f2437b9331,34584be8-39a0-4178-a8ef-cff5f75ce873,sending,811173.06,2022-03-30 17:33:05,Christinahaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-7cbc49fa-0fe1-4461-beba-b65cc0f2fb4b,c5778ba0-640f-4094-9866-c31b41fbd4de,sending,257586.15,2021-05-02 12:49:41,East Kimberly,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-f37bbb9b-be03-4970-b160-e39178a5d71f,a64b390e-d7ef-4084-b2b1-44eae0401f36,refund,191016.87,2023-03-30 12:28:22,Wesleyport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-5ff5196d-6c93-4bc7-b4cf-4031f695dff2,c44c562e-3fe8-4501-983d-22709e3bb0f0,refund,141508.7,2023-12-07 15:45:04,New Katherineton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-1b26d7f6-5503-4ec0-976c-1e83f4c2a836,90563c2b-f46a-43ff-90e8-2b376b2d8d33,refund,269442.38,2021-03-13 12:09:30,Williambury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-868a98b0-564f-49cd-8432-b8614627ee7d,45a7051b-aef1-4c56-ba37-15d54c3e4acb,refund,823742.89,2021-02-17 22:00:04,Sarabury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-448bb641-e0f3-41c5-a3a5-afd0cbd65bb1,a5f6ecdb-4387-4754-8b2f-2d309c2153cc,receiving,405797.9,2020-12-18 13:47:00,North Rebeccatown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-aa1ec24f-7f10-469c-afce-7c8e235be543,2d29b3a7-88a3-4d9e-a4ce-1e417e2c71be,refund,479361.24,2022-08-06 19:19:38,Devinfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-87ec27af-628c-47fd-be86-b76cfa8e10d0,dad8a535-f50f-4a83-8b0f-37a7a07b2451,refund,947741.63,2024-05-01 22:49:36,Frenchmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-7715cfe6-f863-4a74-977f-3e69cc9a763b,a23a3ba4-3ac3-4f7d-87fd-60bc6e1aedb8,purchase,381984.11,2020-10-03 18:19:47,New Cheryl,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-f95d481a-4bb3-4834-aad1-e0a17c2180ae,2e232aa2-1315-4b75-a09c-9e1573863ca1,refund,677092.4,2023-09-11 06:25:05,East Thomasborough,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-1df20a69-9318-48f2-b7f5-65f84f49b86e,35bc01d6-b58b-4111-9454-6260209b363f,receiving,271824.81,2021-07-12 21:39:02,Mooreport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-98464fbc-2b59-4ade-9a5c-89cafa7565ca,a5f6ecdb-4387-4754-8b2f-2d309c2153cc,transfer,472020.99,2022-08-26 20:07:07,Johnsonstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-52786c27-ed1a-4c1b-89f2-c8473e7fbee5,68bccf6f-9d1f-491f-9f0b-76e3466404de,sending,436663.9,2021-02-10 14:35:11,East Angiemouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-d5673082-4075-4fd5-a13d-b880add88685,e9145ee4-82e0-484d-bc31-9ed516200ac6,receiving,971024.58,2021-11-29 06:35:03,Simpsonshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-ffa51879-4523-4410-b28b-45a5ef863de7,e534d2cd-7bf2-4898-aeae-20dd469f0714,refund,137875.51,2021-04-08 19:20:50,North Charlesmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-8a4f107f-721c-4678-9787-95360c0563c1,7f05c04b-1abf-4da8-ad3e-c7f9e2a0b0a0,purchase,601081.36,2023-08-02 15:37:56,Hawkinsstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-00543c34-5b4f-42c9-a5e5-9906839694af,d7a8ec78-1d96-4696-a7d8-726172d0e523,receiving,438868.14,2021-09-25 09:06:54,New Isaiah,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-2c283aaf-71b1-4c66-90a6-206fb0a7385c,e83f8f36-037d-48f2-bc90-1bb1e7f73098,purchase,48316.59,2020-12-14 21:47:52,Hancockshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-b1356782-0a0c-4ea1-807a-40c12cdbcb2f,c48b6fd7-e1b5-47cb-846d-4371d79e1a3f,purchase,997148.96,2021-04-16 12:54:01,East Michael,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-350a8fea-c12c-45c7-a3cb-128a28e82a20,15ae380b-85ee-4753-8f94-d357b0f4a092,sending,142327.61,2021-02-20 18:44:38,Lake Crystalside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-cc7ed911-1e3c-4920-809c-f47b5f0328d9,0fb97bbe-532a-45ac-93d0-2a8f3726e5f2,purchase,801766.41,2024-04-09 18:56:56,New Roberttown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-5fcd8e5e-d512-4fc9-b4bf-644af7b33951,a4e34690-00eb-45fe-9111-c28679ffcdd6,receiving,52168.68,2021-09-08 21:26:05,Perezfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-ba63be15-40f1-4046-8a3b-c9e31af9b33a,3cfb84b1-d13e-430d-8289-d0a19510f7e7,transfer,961558.45,2022-12-20 10:28:43,Evansport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-a38fe528-e330-46cd-b04b-7cd7340ae69f,f00cabfd-c424-42e5-a31e-b7b0f7ec1b78,receiving,464948.25,2024-03-05 05:37:32,Saraview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-1084b846-fd2e-4866-8256-4d185d1b6453,e416ff4b-548c-4366-9437-52338e37c99e,purchase,265337.06,2020-11-10 15:46:22,Davisshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-4bb21105-0a07-48c2-ba63-3f531bb30ea9,9800e362-8bfa-4db7-80f3-057751bac012,purchase,541144.05,2023-08-31 01:28:36,New Matthewside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-722bd7c6-c3f4-4ade-acd4-1a8fd70a7bbf,82d10b17-47a2-4c61-a756-a885bd964869,transfer,641963.99,2022-12-19 12:49:26,Batesburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-45c3d7bb-55da-4405-9929-f096346e4dd8,9946ef2e-c769-4955-babc-e7703903c4ea,transfer,533216.37,2022-09-01 18:49:19,Cortezfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-5ebd4168-fc35-4060-9a6a-7e38fdc0dffc,0eabe658-2bce-47a9-a2b1-3696f4fd09bf,sending,833737.36,2022-12-15 16:14:40,Johnport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-53186d8e-bef0-498c-b7cb-d3b5a4cd5cee,61264cb5-6a53-4099-9490-5fc450b96919,transfer,927343.2,2021-04-24 06:21:11,North John,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-e5b68922-ea76-4bbe-bd5c-e6e76c301b66,3c685c74-b92c-463a-8b64-dfac0e01e341,purchase,347444.38,2022-01-03 08:59:49,North Chloeland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-2df8bc0e-4896-4061-bec5-09b0a5e50200,40e5c1e6-ee2a-4105-8b45-f0232b917e54,purchase,112597.22,2023-10-20 15:44:08,Crystalhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-c578322b-acdd-46cb-91c0-43ffc7a9d37f,019d47d9-775e-4901-82b8-7a35f7bb27f8,purchase,887936.65,2022-07-25 14:35:48,Walshburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-9160490c-9003-4847-8846-58333dbfc4fd,6197a7e6-1f58-45a0-88f0-9f5a42b68017,transfer,538449.36,2024-02-19 13:01:52,Lake Danielle,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-95b10ead-ba01-44fd-bc12-e514dc9ad34a,d7a8ec78-1d96-4696-a7d8-726172d0e523,refund,881756.92,2020-11-02 05:10:05,Port Chadhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-1f0c27cd-e0fd-4ae5-96d9-47af16f76750,3cfb84b1-d13e-430d-8289-d0a19510f7e7,receiving,550540.71,2020-09-03 09:42:32,Jessicaview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-1379ee60-7cbc-498d-a632-e5aae5680565,4c9977e8-c48f-48c6-839f-13c72dbbfd5d,purchase,711111.13,2021-06-14 14:55:54,East Ricardo,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-17301837-a5cc-4ead-8206-fa4a1f402058,6197a7e6-1f58-45a0-88f0-9f5a42b68017,refund,412294.86,2022-04-06 17:03:32,Schneidershire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-a38f4b6c-c285-4cbc-b36a-de51f2f2136a,0ee84def-dd26-4c84-8700-f1c645a10c7c,receiving,821832.51,2022-06-30 02:05:49,Port Annport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-2dd152aa-5443-41aa-ae09-9d129c55cd05,151ae23e-5176-42c3-aef3-23f85542f94d,sending,812985.59,2022-03-21 13:56:57,Deckermouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-53077f13-2cb9-4e29-98dc-0830a1e0fac4,de6c9787-3b58-490a-81a9-294527143766,sending,476475.07,2024-08-01 05:05:07,Williamsside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-794b4f74-d0d2-468d-9c6e-5e945117dc9f,ff5a2174-7775-487a-8a68-a9b0d111e229,sending,994723.83,2024-08-04 16:48:43,North Amanda,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-d522eeda-1fbd-447b-bc89-f91843094f54,2730f1ca-8987-44b5-8f58-404b72eedc3e,purchase,963128.59,2023-06-05 02:55:43,Lake Lindashire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-5378c203-4438-41b6-a841-4fde9e3f45b9,575686c7-b32a-454e-b9ef-88aea66fca7a,receiving,108107.7,2022-01-08 15:24:22,Cherylburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-af9e0e8a-82d3-4543-aa37-0b2a70630d06,09e85f6f-80d3-4b06-9f6d-ebaad23253c4,transfer,391446.96,2022-02-20 07:39:59,Richardsonmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-d5424191-d4f6-4d4e-a271-f0ee06161645,d5850c74-29c9-44d1-9931-5240ffc3ceaf,refund,573952.12,2022-05-15 04:50:30,Romerochester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-11e1ce08-067f-451a-bf9a-a28ed843ac7a,6f0d2009-cb78-4c52-81c5-15659509494d,sending,296916.86,2024-03-29 11:25:27,New Nathan,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-d3daa370-6d8c-44e3-86b2-58b3dbce84c5,e511e99c-1737-435d-9010-310e104f0805,transfer,430002.96,2024-05-20 05:50:04,Johnsontown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-68b3eaab-5193-419c-b60e-ceda6c5c5983,caee4a6f-2b5e-4223-a55b-04f45ad10698,refund,781847.3,2022-05-18 21:40:25,Anthonyfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-d5d43c0e-fc21-4317-aa7c-8b7471e8ac9f,b7db9760-1be6-40f4-84c5-40f09839c72f,purchase,475519.18,2023-03-01 04:54:58,Wilsonbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-1d92abd1-4deb-422f-9109-538a1c888bd7,73421c23-0435-4ca7-9069-62f47536b2d2,receiving,827763.39,2022-03-26 05:57:57,Port Jeffrey,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-50098405-ec59-4848-a09c-9b316ecb2b72,40f317e7-5536-4253-8fd6-1cf347eacf77,receiving,438254.79,2022-01-23 10:59:42,New Jessicaborough,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-bb82ec7e-f23c-4de9-b630-42029a76fcc7,5ad36170-c127-4712-b5da-d7dbb7ce37ae,sending,677336.49,2020-10-20 06:08:53,Port Tiffanyside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-cede2d02-0a62-44ba-8fb0-d399c86f5dc4,1d273abe-2412-4358-8576-777331a2bcef,sending,6348.18,2021-05-19 07:06:38,Tracyfort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-5b77d7dc-e607-4ce9-80e5-23dcb0c87626,f791ff2d-2914-4619-919b-a9efcc988347,sending,932272.85,2021-07-14 11:04:31,Port Ashley,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-8e802076-0c74-45bd-9f5e-43baa97dfda6,1ab1a496-a8a2-427c-b5a9-4b985fa34d07,purchase,930834.77,2024-07-27 00:55:58,West Kelly,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-7991a4d9-dbb1-4441-b8ac-291db2f687ca,a3c61a4b-683d-49af-a2f2-02c724074ee6,sending,561491.68,2023-04-13 21:08:24,Jamesville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-da321d2f-d407-43e8-9362-0b229d2f0e54,ea3341c7-a9b6-44d3-9e4d-161efa8b9c16,receiving,12936.36,2024-04-04 18:45:39,Port Diane,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-50e3df09-0d2a-4017-932b-d46eeb7a75ac,62d3850b-5929-40e3-ae76-b155149dfeb1,transfer,397405.17,2023-12-15 09:18:40,Tamimouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-c72ce106-8ae7-4b39-a1e2-0304d5b44558,64c8d5af-7ab7-4d7a-a5cb-1cd4bf41dd0a,refund,105620.22,2022-05-05 13:58:24,East Kevin,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-25006cc7-1322-47b3-887e-fdba8aaf60ff,10cc93e1-1b57-44a3-a363-d6ca1ffc7a1e,sending,86759.72,2022-05-04 12:47:26,Nathanmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-f03f99ad-1b39-4521-bd2b-f2723fa08e4d,9946ef2e-c769-4955-babc-e7703903c4ea,purchase,77535.13,2023-10-21 21:28:51,Lake Philip,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-b4ac740c-61be-4973-a8d5-1ffede33e3dd,cc854242-5a78-44a0-910c-1d318083056a,receiving,805245.74,2022-09-17 13:07:57,Valdezbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-36af93c7-cfa4-43fe-be87-a67ee0b8674d,7bf140da-e9a2-499c-b870-9051b6ddb547,sending,463010.47,2022-09-21 20:38:46,East Jon,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-7d497d16-894e-4ef2-b8d4-3d026378c781,d8f6805b-5555-4642-81b3-dae6953fea7c,refund,770204.94,2022-12-06 02:51:32,Lake Martha,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-328edbc8-f8fb-4785-a12e-273cd87a2b36,255bce73-e064-4b96-bd76-712eeb53b734,transfer,753807.44,2022-02-08 20:41:06,East Mark,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-de0199e5-8d31-4c9d-8677-582564b8af14,01b39475-4b86-4719-8b57-715eef99c396,refund,592015.55,2024-07-15 23:28:10,Johnsonmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-1d0465b6-2fd3-4cc7-b5f2-c4bc15a79fd0,2e232aa2-1315-4b75-a09c-9e1573863ca1,sending,117682.58,2024-03-16 16:10:03,Baileystad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-55ce000a-ff32-4a21-8d18-e5f6436ed19f,8bf8a49c-5a62-4d82-83e5-567198f5177d,receiving,222763.57,2024-04-23 02:22:19,Port Rebeccastad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-815ec778-f801-41e9-99d6-1c9f098d51da,347dff04-bfaa-4441-8a98-b0cfeafb9062,sending,508028.82,2023-07-11 13:01:03,Delacruzton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-24553892-0cac-4b3b-bfcd-0c39f460e04b,0e7c603b-d5a7-4bbf-bffe-e528ba29dee5,sending,627422.44,2022-09-16 02:55:28,Morrishaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-b591f224-1d44-499f-88c4-0bd200fa54c7,6a57d210-8f89-486c-ac27-abb289bfe48f,purchase,192549.23,2023-06-27 22:42:54,Maryfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-6e73e6ea-9d39-48fc-b824-bdc79dcf8997,2e017015-3b06-4bf0-bcc7-04103981584c,sending,283940.02,2021-09-04 18:40:57,Jessicahaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-3dd9acb9-4f36-45c5-a1e6-b2e17960a68e,566a5059-98f2-40a7-8905-751901e9c589,refund,891610.12,2020-10-13 11:59:44,North Marcusmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-7d3bef8c-adef-4ed7-88f5-fd422d1d0c45,cadd3105-f686-44fe-942b-87396f58a62e,transfer,111288.52,2023-03-24 05:02:48,New Lindsey,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-51a08915-a785-4b75-9166-2f15b62944e5,2c3e3f7c-409d-477c-805c-bfbbf7998bc2,sending,84745.24,2023-10-20 04:14:31,New Roybury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-98048a93-788d-4f12-b604-e6d8c6ad4d72,a86a79a4-a8e7-4d4b-9f0f-6621b2bc162c,purchase,671007.15,2020-10-31 19:33:05,Paulview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-5c2b4787-2c83-4462-949f-cf221a0de69c,fc2d8edc-2242-48cb-be63-1718bd949764,receiving,695935.07,2022-12-01 13:25:14,Port Stephanie,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-22539473-c37e-43a5-a8ff-11b1c8813e48,dcf00cd5-b2f0-42fe-a7d9-1f2f9e0a6625,receiving,314756.81,2024-02-28 16:39:11,New Stephanieland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-76259b71-e6e3-4129-b2e6-ef53f269fd87,b857a3d4-d398-421c-9f94-d4bc2dc47f61,sending,987501.96,2024-02-25 13:31:19,West Kaitlinbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-5f8a02b1-137d-4341-bb1a-cb5a90613e7d,efbf2e5a-6983-430f-a277-0df902e79095,transfer,937106.67,2022-02-15 13:38:00,Watsonport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-c032e2c6-9c07-4aca-9bb3-b4c361ffe8f7,82d37122-843a-47fa-a3c8-e06d2f313d3e,transfer,127771.18,2022-03-18 01:52:56,Lake Victoria,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-b511fa98-b9a0-47ef-8cc5-11b4322370ef,1ab1a496-a8a2-427c-b5a9-4b985fa34d07,refund,454429.34,2023-11-01 00:39:45,Amandaland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-36d52c7b-13ae-48bd-ab54-c8e8dcbe82bd,d81a530f-5572-46d4-814a-8936ada726b9,sending,20897.16,2024-01-26 08:50:39,Orozcostad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-06f67f02-0573-4e2d-8c32-57faacfd98bb,dc0efaab-4ffc-4468-ad8e-8f0f6843d313,receiving,143347.25,2021-12-13 20:23:28,Lake Jenny,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-63b0585f-52fd-488b-b501-4bd6a71bcef2,4c5a0019-ad5c-4beb-a253-156c2234f40c,purchase,464046.9,2021-10-29 19:04:01,Marshallstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-6e883b2f-2be3-462e-884d-4cebd8f8486b,31b62717-58c0-4d0a-84b6-ddb9059f8725,receiving,947212.95,2021-10-28 03:50:29,South Robertville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-b19a71d6-ccab-47bc-bd0f-c8bf042d6f50,cd068641-a21b-4909-a924-7a98a3a60116,sending,678227.74,2020-10-17 16:12:24,Johnbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-1cf09df4-d30c-4c98-a771-a2946aee2291,6ec18168-aca4-4359-966b-f9905bf19f0c,sending,669452.07,2021-03-19 18:00:04,Port Joseville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-159eefc1-856d-40a1-9fa8-674ff359722a,f791ff2d-2914-4619-919b-a9efcc988347,transfer,402534.85,2021-06-26 03:14:40,Ashleyside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-2d75e496-658d-46ff-90ac-8aa5cedba9e0,b7db9760-1be6-40f4-84c5-40f09839c72f,purchase,124440.24,2023-01-13 02:15:46,Marcusstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-828dce92-80de-41f4-9a8b-47b4a3d18d3f,4c5a0019-ad5c-4beb-a253-156c2234f40c,transfer,102375.99,2023-01-07 23:15:27,Johnsonland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-e9420eea-a327-444b-b367-018c83ace0c3,8d2871d4-410f-4602-bd52-d43a721c988b,transfer,13499.46,2022-01-28 21:01:33,Rogersside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-02e773bd-1c04-44f2-be09-b13d26e2a81f,3015ace1-cc82-4884-8027-e1bab5c7a3b0,receiving,392413.62,2024-07-23 17:50:56,Rodneytown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-3ade29cf-97f9-4486-a334-7717b0b65751,347dff04-bfaa-4441-8a98-b0cfeafb9062,sending,908292.49,2021-04-05 07:42:54,East Cindymouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-644d82f3-07a7-4c16-99a2-a1bcbae444ef,70e159b2-c9b5-4d04-973a-2844cc61101a,transfer,718502.81,2020-09-10 07:43:07,New Wendy,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-0fa722a4-9b1e-4ab5-b91a-f579ba402003,a1d7afe1-913a-486c-814a-27687e91e196,transfer,991544.46,2024-05-25 13:37:02,North Keith,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-e0669ca3-057a-41ab-b858-9abb54a5902b,5fe31bbb-8264-40e0-b05b-1d2293a0985c,transfer,292318.42,2021-07-23 19:56:11,South Tammyfort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-049df48f-99fa-48c8-9922-6baf9c3356eb,472aa779-8b18-463a-abee-e165eec572e7,purchase,456391.96,2022-06-24 10:31:37,Meganshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-598686d9-712a-42a4-92bc-307416cc92df,ec6818df-473d-41d8-ba03-1711b66287e5,receiving,91854.25,2023-02-16 09:44:50,Youngtown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-a83a3b32-ddfd-4245-af1f-05ebf9de9454,7aa2cb8d-4a7f-40f7-919c-7ca029dd3649,refund,589225.03,2022-09-17 12:08:38,Julieshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-1c262bcb-c8f7-4a2a-98ba-c666e993beb6,d0d4704c-63b1-47e9-a4c7-dfc2b31fa41b,purchase,147373.01,2022-10-04 01:01:51,Schultztown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-6f4f847b-fb2f-44de-a712-5d82adfd119b,21af142c-68a8-42bf-8a14-6479e9dd2a0f,sending,479731.08,2022-11-10 20:45:33,Sethmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-8d202030-6616-402c-81d5-65f32863c3ec,0da46e21-58e4-4d68-af90-bffaac76ae65,transfer,882334.1,2023-06-04 20:36:00,Lake Feliciabury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-9be17ca6-c7ec-4150-bb43-94f6438a2e18,23fc3169-583c-4105-b141-af29a3833903,sending,410003.07,2021-07-01 16:07:27,Sawyershire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-b5037e6c-ec3a-4b69-8efc-3a6980e87edc,c6554fd5-a246-48e4-9dc2-d420ae17db36,receiving,841168.53,2023-01-09 08:17:24,Carriefort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-ec2ab361-3d03-46a8-a4a1-f86c98aafbf4,dbb0d426-966d-4fe7-814a-55b1677c9daf,sending,571564.99,2023-11-15 23:32:10,Roymouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-4dc64e22-6217-4606-96e8-366856493310,c5efef76-12dc-4fe5-a103-92acf4cc2c5d,purchase,70888.06,2022-10-19 10:07:05,Lake Victoriaton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-89013f4d-5209-475c-8ef0-963dd292e008,9800e362-8bfa-4db7-80f3-057751bac012,receiving,433705.27,2022-11-25 08:40:21,New Tracy,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-6c92f097-bb97-4c5c-8ed1-244e0510d148,69b06c63-c675-4381-8334-f2b788f646ab,refund,113024.1,2020-11-08 21:07:57,Lake Nathanville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-69542c68-4698-43d2-9bad-8bdeaf232b9f,4c5a0019-ad5c-4beb-a253-156c2234f40c,transfer,784598.79,2020-10-09 22:40:05,North Donnahaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-8b54f74e-31fb-4861-a19b-3c69fc6437b7,8581622c-6e34-45bf-b10c-1c649e1372dd,refund,171696.32,2022-09-15 10:30:15,Matthewburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-7012bd89-b741-4eb7-b91e-9a720ce4818f,95dd1966-cf36-4392-b8dd-f16bf1a89337,transfer,517521.65,2023-07-24 11:21:05,Christopherfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-2efab354-08ce-4fe6-9082-2e2fd0bd5797,6f56547b-11c1-4a02-8e4a-12741002c073,refund,311915.43,2023-07-05 23:07:26,Port Sandraville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-0ba3b713-2218-486d-b2eb-d3f5e8a5018c,798e1dc8-00a5-412b-a8ee-68548737b330,purchase,445360.84,2023-11-06 18:20:43,Markfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-56b577b7-1038-4487-ab68-d1f95e262b1a,95dd1966-cf36-4392-b8dd-f16bf1a89337,purchase,197577.38,2022-05-18 00:47:39,Zacharyborough,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-b8437d85-14f6-40ee-9ffe-9833787fbe9e,02d44e4c-ee4e-4736-9103-c1e81b28977b,purchase,983326.34,2020-08-15 15:56:25,North Cynthia,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-8c924114-a8c0-44a3-bf52-e28f33abdd51,f147f10e-1b53-4137-9ac3-ccc0d96ee261,purchase,812549.76,2023-04-06 09:21:32,Hodgesside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-1eff1bfb-a805-48f9-b38d-8f266b55b521,32724a34-3207-48f6-8859-0b591dcf9319,purchase,972631.85,2023-08-22 13:31:55,North Crystal,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-c799cd07-9652-40a1-a250-b340604d2060,e200f23c-d3a4-43ec-99b5-5d9ed198db59,receiving,879864.52,2024-05-27 15:02:11,Port John,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-4398c630-65c5-4454-9046-00d7906cc535,459ea46a-9b8c-483c-8eb5-da59b978bd8f,transfer,792382.52,2022-12-08 03:10:54,Port Samuel,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-ba6b3c80-5d01-4293-8d19-cc741ce5de9d,a2172475-9ec6-4237-a155-393274987c6d,transfer,316807.1,2022-02-06 18:35:55,North Margaretland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-691c4478-3a91-4aab-a635-2a073008d2b7,9966914d-509e-4913-af32-413ae1d56c0d,transfer,668696.63,2024-03-08 05:29:23,Turnerton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-f45dd0d0-8db0-4234-b752-bfb17add6bfc,689f1352-d0ba-4626-80c4-e2c922682ec9,refund,240725.89,2023-01-16 21:29:17,Lake Anthonyland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-9ad8e720-b4ad-4633-ac42-9e01e74d1d6d,7a16daa2-b846-48ba-99db-04ffd8574083,transfer,551822.89,2024-04-28 08:34:49,Lake Tina,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-e40435c4-f0e6-418a-9ec6-3166115fa682,6f56547b-11c1-4a02-8e4a-12741002c073,purchase,120394.62,2024-03-16 14:41:09,Millerhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-625a3a6d-f8b3-4027-9697-87b583da3fae,8bb73ace-e98b-4a6c-851e-4f8177c26588,transfer,357144.03,2022-07-17 23:58:34,Port Megan,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-2400ac87-8d80-4825-9b6d-67a42d9cf1f2,df054e90-5401-4136-9da1-39ee1c92faf5,refund,571569.85,2022-06-13 14:43:11,Rosefurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-ab40ce61-a13c-42af-aa67-b0bf75038b96,dc0efaab-4ffc-4468-ad8e-8f0f6843d313,transfer,297257.16,2021-06-28 15:58:08,North Kayla,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-f8847f53-c23e-4f38-b6cd-c726b448d737,9948212e-3b3e-4a2e-ab91-ac10e96f1274,receiving,897031.14,2021-04-07 20:56:07,Padillamouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-c4ecb26b-3022-4ad6-8b05-884bd2ea253e,268b6d9a-28db-4855-b7b1-83da90222e4d,transfer,421666.46,2021-09-25 18:31:23,Whitechester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-732b274b-3ed2-4c7c-bdc4-80233c3ab43f,65e82d1a-3b32-46bf-bec3-858e68e7981a,receiving,641249.52,2020-12-21 06:03:13,Barnetttown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-5e64fbe2-087c-4683-993c-e1ab0796e94e,2a65e8b7-0a00-49fa-9bce-cae6830dbdf2,transfer,736137.19,2021-08-10 06:57:47,North Christine,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-3934d594-2802-4fad-a04d-f5acb6a0b080,e65237de-4dd7-4610-b740-35d869115402,refund,458382.64,2022-01-01 10:15:41,Melissachester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-6598bd98-1308-42ce-9418-0fdec4c248a3,b434e865-28b8-4cab-81de-5898c186de05,sending,522522.53,2023-09-23 04:24:51,Lisaville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-b457db0d-6ff7-4ab0-809b-2af0247f0325,c48b6fd7-e1b5-47cb-846d-4371d79e1a3f,refund,550216.28,2024-05-26 14:46:51,North Aaronport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-e77f60c3-c54d-42bb-badc-8f9bb8570044,25ddb605-4b7c-44de-8c6c-6125696e7561,refund,276942.81,2022-10-21 08:52:56,Gonzalezville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-fab7c899-ecd7-4006-8111-69d03153b422,8c261108-50e3-43fe-894d-bcb0ebda94ad,refund,244041.44,2021-02-27 08:52:00,Marybury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-361b4080-c257-423f-b4c8-663387d1b169,9b79411e-adfa-4a8b-bf7b-bca376f48795,transfer,433365.42,2023-05-11 21:31:51,Port Paul,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-1a27b52b-7ed2-4e26-b1f6-6bda29e76038,1117ab80-15c4-43ab-a427-568f661602cc,receiving,326997.71,2023-12-06 02:57:51,Priceland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-3648f77e-d437-40e3-8429-7aca5a956dcc,ea3341c7-a9b6-44d3-9e4d-161efa8b9c16,transfer,315245.59,2023-01-29 02:30:39,New Jasontown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-06a205f7-668c-4c21-b8a2-5ed7d7b34bbb,8bb73ace-e98b-4a6c-851e-4f8177c26588,receiving,801575.7,2021-06-09 01:04:22,Elizabethburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-888da6bf-4247-4c6a-a725-e92add62ff47,70e159b2-c9b5-4d04-973a-2844cc61101a,receiving,163631.86,2023-01-25 04:08:43,North William,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-a90115da-950d-46a3-9d18-0e77b4d6c457,16de51df-2275-457f-a666-631e7d4f43be,receiving,240494.17,2021-11-26 20:43:40,Sanchezberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-291adde0-4b77-4266-ba3a-b9ac9130eeac,b643b3ca-f9f1-4212-8b04-a706d837f3d9,receiving,660358.01,2022-05-18 07:11:11,Matthewsshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-a5fb0c44-6f5e-4c4d-97fc-c1aa6d3ca78b,6ec18168-aca4-4359-966b-f9905bf19f0c,purchase,706199.33,2024-04-06 19:56:56,Nortonberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-d16ad7a1-6ce2-4937-b191-c311fc9ee353,543e1881-29f7-4baa-b407-99e9578605fc,transfer,679215.78,2023-09-26 11:16:05,South Carol,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-0e30f6ec-32af-441c-a748-b08fda47a9fc,2fc96c12-d53e-4e70-993a-51fc7fb338f8,purchase,358839.46,2024-05-19 18:45:53,Tracyville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-3cbc65ad-4685-468b-bc98-809d2f7fcc01,798e1dc8-00a5-412b-a8ee-68548737b330,receiving,81640.7,2023-10-31 22:18:46,South Anna,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-035c547e-2b31-4db4-bbe6-28079078cf8c,268b6d9a-28db-4855-b7b1-83da90222e4d,receiving,368315.4,2020-11-21 06:45:08,Port Matthew,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-50299e3e-20f1-40c9-aa55-fb7567c68e85,1600257d-f3a0-43dc-af13-71f4e43243be,transfer,864428.23,2021-03-16 11:20:33,Higginsmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-0ad2198a-1d96-41c6-bc6d-80f22cb412fa,03c130c2-b966-4d5e-bb35-79b4e19914cd,purchase,737514.4,2023-08-09 11:22:25,Lindseyton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-79d2d2b6-3f3a-42da-b757-ecfd3c8c244a,8e6e7182-d19a-4fe2-9bf5-159f82880154,sending,895515.83,2022-01-12 06:52:21,Olivertown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-7dd88006-796d-40f1-890a-e337437db1ed,670db068-36d1-4d1c-a630-5b882d4dd483,purchase,697710.08,2022-11-29 18:03:18,Charlesstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-83ad28fb-260b-4df6-ae2c-6552409485e5,139749e5-db45-4655-a641-5479a65004d5,refund,9732.62,2021-06-06 12:05:19,New Jessicaville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-7c40dc36-2df1-44d1-8b5a-38a73cb012a5,fbfd1cbc-212c-47c8-93a7-9096ceeaf518,sending,983787.07,2023-08-15 18:58:22,North Kelsey,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-41014694-fd60-48f6-88d8-12b39da9a095,d8b3557f-a61f-40ca-aa51-a56c0777aebf,transfer,306293.67,2021-05-03 19:53:15,Maryview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-f19ecdf1-93e4-4cfe-bcd5-560b85b5d59e,8972487b-d8b1-4d0e-9834-7e8b4901764a,transfer,232682.88,2023-03-15 13:03:03,Chadtown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-145bcded-2488-4f6d-b67d-9a5db87898d0,f281cb92-bdd6-403b-a926-205bcda4c7ef,purchase,325237.75,2024-08-04 06:09:54,South Michelleshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-1fb05ab1-82f5-4663-ba23-b335f88cbfa0,2fc96c12-d53e-4e70-993a-51fc7fb338f8,purchase,163699.81,2020-08-07 03:12:09,Beltranport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-4907ab17-efe4-434e-8c90-f16b3f1b6ae9,19aa5e9a-2346-4dbc-bb26-83561da295c0,sending,316817.23,2021-03-29 13:47:44,East Margaretburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-28e2666e-cafa-4699-a9f7-829369c407c3,6c2c5203-13ba-4bda-80c5-e69aba5e4342,receiving,387076.1,2022-05-27 05:23:01,West Amy,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-bda42a12-5bf5-47ff-93f8-da07e95af220,e416ff4b-548c-4366-9437-52338e37c99e,purchase,455208.87,2023-12-25 08:52:21,Williamsmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-22b3ce71-8544-4e2d-b674-511bcce271c9,15ae380b-85ee-4753-8f94-d357b0f4a092,purchase,945505.81,2022-12-12 21:21:44,Austinview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-ca129b9c-8974-4aec-abb5-aa7075866272,68bccf6f-9d1f-491f-9f0b-76e3466404de,purchase,812347.12,2024-05-13 03:39:46,Lake Deborahside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-caef88e9-e7dc-4c46-9d0c-b261a59e3730,574eb000-6c1d-461b-a20d-d95717d93633,transfer,116146.33,2021-12-23 18:39:14,Hillburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-e0d57f8f-1a22-4eb9-8074-81c6d767931c,ba2e7ce5-d1e5-40da-be41-78280965f8a4,purchase,328519.83,2020-10-06 01:14:10,Lake Alexandra,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-a01c9912-a676-444c-9237-85a9f2c23bd5,e83f8f36-037d-48f2-bc90-1bb1e7f73098,receiving,44491.09,2023-03-14 14:43:01,North Vincentview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-6d882d80-87ca-4135-902c-34068667cff2,4cff1d28-79bd-43cb-8bc3-de11e5175b01,sending,111218.43,2024-04-07 11:19:24,Lake Nathaniel,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-1b9cbcd8-9be9-4740-b7b7-97a77efe0892,64c8d5af-7ab7-4d7a-a5cb-1cd4bf41dd0a,purchase,801209.75,2023-12-28 05:47:30,Stewartport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-1754bfa6-f7f1-42ac-b7c7-170241154ff3,6f56547b-11c1-4a02-8e4a-12741002c073,transfer,413018.15,2022-08-22 09:13:02,New Hayley,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-ec995a6b-fa59-4c05-8347-9446d9ca31fa,7ed5c19e-1529-4f0b-8115-d3d8b471908f,refund,580684.14,2022-08-19 04:11:30,Jennifertown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-d00c3d81-91a3-40d8-a569-4d2bfbcb4a69,02468d10-db02-4825-a704-367482f957b4,refund,334357.4,2020-10-08 08:21:39,Andrefort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-55c6a54e-5afe-4258-b342-c00de4ed8c55,a71c4c75-ed85-42c7-ad1c-84878daec39e,transfer,612547.3,2024-04-05 08:41:48,Levystad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-fc4278c9-5d10-42b0-a9b3-5d63c1059a7e,01b39475-4b86-4719-8b57-715eef99c396,purchase,344758.75,2020-12-15 23:04:47,West Sandra,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-1afc4488-7783-475e-af5e-396e93a0439b,c2134cfb-9059-4057-8a1a-150d4ccd6086,transfer,502506.35,2023-08-07 18:49:08,East Carrieport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-0542bb29-7878-44f8-bd49-c0e657b7f814,d82bde1e-ad21-45a1-af8f-f05ff48d8faf,transfer,952311.89,2022-06-05 04:17:03,Timothystad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-621abaa2-7888-42f5-93c8-9db4ea322958,e753c56b-9628-4809-90ce-e17a4118f1a9,transfer,397696.01,2020-08-27 02:22:30,New Julieside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-b6d318b4-e271-488a-bfa4-ca4af96cfa13,6ffe3b4b-ae3c-4358-a584-3290a1f18217,sending,477417.72,2023-09-03 12:54:20,West James,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-bb6e2f2e-6340-4e8e-869a-8f6453664634,3cfb84b1-d13e-430d-8289-d0a19510f7e7,sending,16457.49,2023-03-18 09:13:05,Reginahaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-6d48d767-fc07-4a9b-8234-f4c1dd261bd9,af7c2ce9-7f5d-4670-a263-1c84f9944956,sending,253570.22,2021-04-14 16:02:16,New Pennyfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-1be80281-90d1-4fae-a384-8732f5ea9a99,5a57d21e-c337-46aa-9622-14c8c8b9656a,transfer,955941.54,2021-05-04 15:46:02,North Angela,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-ca4c35f3-fba2-4d4e-9d0d-bbd9a0c6143e,019d47d9-775e-4901-82b8-7a35f7bb27f8,receiving,153438.96,2022-06-25 04:56:29,South Brianfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-c026b714-b431-4719-b158-4a7bc89a53f5,25c84b6c-03e8-491b-aa7b-20ddfcda9d65,transfer,792132.64,2023-03-28 00:04:28,South Theresachester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-3488cb91-49df-4da0-8946-104f7696a38e,de6c9787-3b58-490a-81a9-294527143766,refund,81043.79,2021-12-09 14:53:09,Lake John,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-9f34298b-7ecb-4cbf-9980-1889e55557a8,566a5059-98f2-40a7-8905-751901e9c589,refund,787725.44,2021-07-17 21:55:17,South Danielton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-4fc7ef73-ac97-4c6d-85bb-e90fe0dd29ab,eb563855-d8b1-42a6-b28e-64b2e13fa580,transfer,665521.93,2023-03-05 05:57:25,South Joyceville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-7960cdbd-b1fa-4e79-94dd-8a343541e4c6,b6848322-803d-48f6-b848-66f0c0f4f2cc,purchase,698114.38,2020-10-04 14:24:02,Matthewmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-43e172a1-63b0-4297-a350-53dfe153c399,a5a420c6-f795-4703-a05a-fd847230064c,transfer,110227.32,2022-10-20 20:40:24,Tiffanytown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-e2c68f7f-d445-4325-aa7f-b0ffe5f917ac,3f029f49-f353-43e3-93b8-7f080b71eff0,purchase,448359.77,2023-05-23 15:41:38,Lindseyside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-beb4489f-a6cd-40e4-a5e0-77d933a8fc24,815dd6f6-f6ad-4749-99be-6a32b75aaea3,sending,256494.21,2024-07-21 08:24:02,Burchville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-ea1a2ec7-c9e6-4ac9-961c-2d2b8d31a6f0,901d244c-880b-493f-af62-53678e1c0ce6,refund,943210.67,2023-09-21 20:19:57,North Joshua,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-386c82dd-252b-4bde-8d8d-c4139902f644,a99bf8ae-878d-4681-89f9-bb097210f931,transfer,261439.49,2020-10-04 08:17:29,Murraymouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-47c4846e-989a-4c5c-9e4b-a3e0e04cb0b6,8f83660a-707f-4258-ac31-ef2e2030946b,purchase,62670.56,2022-04-14 18:35:47,Rickymouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-d87ffdbb-3593-486d-b8e1-b4d0162c9190,fdacf41c-9e55-4899-af33-e11c988574b7,transfer,75581.93,2021-04-28 10:48:11,New Williamchester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-f316718f-4c04-469e-9909-8129f27e560e,eb563855-d8b1-42a6-b28e-64b2e13fa580,purchase,779415.6,2023-08-23 18:48:19,South Josephhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-7ea8a207-a1d2-49f1-8dd5-cb6181a81119,4866aa27-adf7-4733-b982-750cd67b4f0f,transfer,431342.26,2020-08-13 04:56:28,Piercemouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-5a212ef9-235d-44c6-b7e4-a30a2678b466,02097d47-6659-4fa4-a751-a317baefe8e5,receiving,113633.76,2024-04-03 07:40:53,Stephenmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-cb9130aa-c9d9-4c51-abe8-549693be8da4,25c84b6c-03e8-491b-aa7b-20ddfcda9d65,refund,244007.84,2022-09-05 23:52:08,Davisburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-3c939ef5-de5c-4a6a-ba5a-cacfc72c6683,6db3f7d1-76c8-45e5-a87e-ae75aec1e641,refund,109915.86,2024-03-26 10:35:29,Blacktown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-22728975-6c92-4234-a671-919931497472,ba2e7ce5-d1e5-40da-be41-78280965f8a4,purchase,940439.43,2020-12-23 11:01:49,West Ivan,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-1f576f07-9cc3-47b3-896f-e9a390abc93f,cd93b64b-6ff2-4f96-8bff-a44f9f2e41a0,purchase,268641.12,2024-05-20 02:40:43,Martinezmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-862e3b1c-ce0c-40f7-a689-f58ea94171bf,9800e362-8bfa-4db7-80f3-057751bac012,purchase,341051.29,2024-07-20 13:21:34,Hoffmanside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-150a77c9-cecf-46b5-803f-e5ade8bff0b8,cfb48cca-529c-44cb-b64b-a34652aff588,refund,525851.3,2023-03-20 17:32:07,Anthonychester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-ed99c436-8fc0-4db3-9f58-f9d1c188ee50,240e43ff-1318-4c3f-8825-038e70f4cbdd,receiving,303999.11,2023-12-30 07:20:03,East Heatherborough,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-1a3ef087-3e04-4850-9926-4bcff3035962,5fe31bbb-8264-40e0-b05b-1d2293a0985c,receiving,126709.22,2023-06-10 08:17:19,Robbinsfort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-432b3297-c420-4db5-b5eb-cd0c7daa7ac0,8b8c587b-3edc-4f23-8094-e5477962c0c6,sending,489240.51,2021-03-23 09:33:51,New Patriciamouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-c87345a4-630b-4443-a687-988163398b51,798e1dc8-00a5-412b-a8ee-68548737b330,refund,645653.63,2021-10-10 01:20:41,West Dwayneberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-637e4e32-dba6-4e0e-9bf6-0586080cf397,d91f9b4b-ee1e-4210-8db2-19362c0b4488,purchase,996080.61,2021-06-25 02:05:28,South Brandi,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-a34f411e-d9f7-4dee-8367-1ab338b65e4a,ff699bd1-a031-4d5c-8175-a54cf7960aca,refund,124445.49,2023-05-17 07:17:22,North Amy,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-d16f121d-e5ec-45e7-9948-0352b4b7a644,2c3e3f7c-409d-477c-805c-bfbbf7998bc2,sending,872395.05,2021-06-03 05:30:23,Port Veronicatown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-df38cf96-3aaf-4956-97ed-8026de2e4ca0,5e4a7a7b-84c0-4684-8476-394073946655,transfer,29071.83,2021-05-06 08:28:27,Ramirezmouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-59f9766e-cc0a-4867-9d98-38913705a722,83712c04-fc01-42d8-92d3-3d9f9fa7c25c,refund,810044.57,2021-08-21 04:38:56,East Ashleyfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-394304cb-446c-4a42-b56e-f5b6d322c065,fdf8328c-04d4-48d2-af04-f0f50a2df23d,sending,247231.12,2022-08-08 15:48:58,Shepherdchester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-94d40408-afc6-4c04-82c6-6d70565d68cb,380f6274-6c23-4029-b719-19a1b6fec117,refund,854207.68,2024-06-24 18:43:56,Lesliestad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-ac43e4b9-7c71-438b-8544-0af40bacb262,2fc96c12-d53e-4e70-993a-51fc7fb338f8,receiving,732293.72,2022-02-16 07:25:07,Arielland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-ecd42a6e-7b58-446d-940f-3966ae454b96,3cfb84b1-d13e-430d-8289-d0a19510f7e7,refund,348274.23,2023-03-07 07:23:09,Angelaburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-857786bb-275a-4340-bade-67966e4638e9,40d912c4-7c95-4f47-8f95-5effe49de7f5,refund,215677.43,2021-04-23 15:13:08,North Craigville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-bca25616-74b0-4473-b0f6-de581dc3ddf2,fdacf41c-9e55-4899-af33-e11c988574b7,sending,705129.61,2021-10-04 14:47:36,East Zacharyberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-f6661760-e16c-43d0-a406-8f0710cef672,8e95a60e-acc6-424f-a192-1f3575e06492,transfer,488705.92,2022-01-22 03:31:37,Tarachester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-59d2062b-82de-44a8-b005-4ac73bca2eba,474bd808-8553-4a14-b329-2ca1f389b175,sending,743692.86,2022-06-05 13:59:58,Lake Garyburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-0c4b0994-3583-479b-b4b8-2f8170dfab07,7e353a66-43c4-46af-aa3a-b85d86443c85,receiving,451393.73,2022-03-19 06:13:52,Lake Denise,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-c63c01e8-8efb-43c4-a06c-bf5878ba14eb,ce5ded28-1873-4857-8116-7324142d6ada,receiving,179840.77,2023-07-04 01:05:02,Jenniferberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-658d3209-647d-4301-a862-a12fceba8b45,cd068641-a21b-4909-a924-7a98a3a60116,receiving,658372.21,2022-04-25 08:00:05,South Julieshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-cf3255d1-ed51-4a0f-a748-a95a2859271f,bd010077-20f3-4545-8a0f-e009f4ba4b74,sending,802508.76,2021-01-16 01:56:54,Andrewport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-892484fb-8ec5-40a7-9fd2-2a8169f7966c,08da36fe-d7bb-45fc-97af-8e3937a3300a,refund,730890.54,2022-01-02 15:43:40,Lake Nicole,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-fd503f6c-0180-457c-b123-cbd493e5149e,fc2d8edc-2242-48cb-be63-1718bd949764,receiving,870008.19,2022-06-07 09:59:04,Port Kerrimouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-8ad7d5bf-3b2b-4cc6-83f8-e161a6b9b405,67aa1afe-ee80-48b7-8a0b-d59d94b65b48,purchase,567430.5,2023-03-06 22:26:17,East Melissaport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-df88a796-882e-409a-964e-653d52330c69,ab418e60-2e16-411f-802e-2e77c2d49151,refund,714402.24,2023-06-17 07:44:17,Johnland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-eb9e9af2-ed4d-43b6-9555-fb9f92ba4c40,b90f0551-cb4e-41af-afef-c7ced1af573b,transfer,172128.9,2021-11-09 04:44:28,Amyberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-db000900-cbfa-491e-876f-3fc8650e48be,5c0a1535-d4af-46a8-bedc-2f7b2bb06a56,purchase,832808.57,2021-02-27 07:20:16,Port Johnside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-c7aac291-4278-413b-80b2-22877ee35b7c,d7a8ec78-1d96-4696-a7d8-726172d0e523,transfer,813626.49,2024-06-16 13:40:00,Smithstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-19840f53-4ae3-4bce-980c-1c02c7faa646,670db068-36d1-4d1c-a630-5b882d4dd483,purchase,60953.2,2023-05-15 01:03:51,Boonetown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-6eaa0e5b-cd79-4a11-8495-25ceadb96f77,be5b6e2d-4790-4651-a39f-9ca576714c10,purchase,405192.59,2022-01-01 20:35:29,North Jefferyberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-053f6d83-9248-41aa-9b9e-cc9cd80cd116,6ec18168-aca4-4359-966b-f9905bf19f0c,transfer,12949.02,2022-10-23 02:01:14,Port Kevin,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-935ed9aa-b677-4f0f-98c6-5310e40c8f85,fcb710e5-b30f-4d55-9a44-2fecce192145,sending,48805.44,2023-03-19 17:02:36,West Williamshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-a951128d-0c84-4edb-85c4-b1feeca4fc63,f53138f0-e776-4aca-a4cf-93b5c5a73e1e,sending,400147.93,2024-04-26 08:35:39,East Stephen,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-011c81ca-5e94-448d-9a3d-a7487ed1d101,03ced9e6-d169-43af-90bb-36fb72a37f3b,receiving,742716.89,2022-12-08 01:58:33,Nataliefurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-46ff1d7a-dc29-4e45-afc2-cbe88b164432,5b087340-8b46-47b1-b059-ab82a7a56a8e,refund,76210.44,2024-02-13 06:59:56,Natashahaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-444817a6-5ece-4cf8-9dab-4d543a48e5db,8f83660a-707f-4258-ac31-ef2e2030946b,transfer,199240.94,2021-06-28 18:35:00,Kathleenburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-edc661ef-7284-408f-b776-e4b2d36479b7,2bf40697-8728-44ef-84c7-98671a540b29,purchase,162625.99,2021-07-22 21:15:01,Christopherhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-a99eb0eb-a830-41d7-8364-332d2fe521f4,08da36fe-d7bb-45fc-97af-8e3937a3300a,purchase,508886.42,2023-12-09 20:40:18,Port Carolyn,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-61dd9188-cf98-4be7-9cab-15868adc9ee2,a2c62832-8e19-4ac5-8cf8-496a5bb4a761,purchase,455862.08,2024-07-27 18:35:44,South Frank,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-02c80043-5b06-40f0-8262-f07b17683285,b3b42528-665b-403f-883a-12a0f2db6d09,sending,37374.12,2022-11-28 17:46:54,Nealstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-f4b01250-b4bc-462c-915f-64a5e3e146e6,d4ca4a7b-0a91-4dff-a5b2-0803e9dffa85,transfer,377282.28,2021-01-13 03:14:23,East Amyton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-d35b66e6-73d9-4dc6-a993-6c2392f5524f,66490d15-dc7b-4b8c-a8df-8cd68bbc426f,refund,160965.9,2022-10-08 19:54:02,Pierceberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-335c252f-462a-4b9b-94e2-e50d63250416,02468d10-db02-4825-a704-367482f957b4,refund,107824.55,2022-03-23 10:18:12,Lake David,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-d8511d96-c4e1-4cbf-a055-b1623a6249e7,73cf786f-fc9a-4f1b-937c-5b6c488e7ed3,transfer,844174.5,2021-04-18 23:43:19,Port Sarahberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-776f3f8e-2624-46a0-9541-051f8e66adae,fc53e175-540c-4574-a4c7-2291b39ccc8b,receiving,204632.81,2020-12-21 03:52:45,Johnton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-25813a6c-6561-444b-b723-60888170194e,4866aa27-adf7-4733-b982-750cd67b4f0f,transfer,678726.89,2023-08-20 20:18:45,East Brianport,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-edc7edae-994f-4ac0-aa30-b121717d167b,7477f027-83ea-4fa8-8f56-17aa47f2f650,purchase,19666.15,2021-08-07 05:08:18,Natalieview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-35f3ed92-ef65-4e5e-8b44-9518fa6c49a6,70952d5d-d2d4-4db0-b202-26b7a9419599,receiving,210021.97,2022-04-06 21:42:50,Dannybury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-4253019b-3ae2-4373-a941-0280e41f7cb7,8c261108-50e3-43fe-894d-bcb0ebda94ad,refund,118160.48,2022-09-27 16:09:19,Christinechester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-45e56c4a-ee74-4337-b859-8471afaacbf4,7aa2cb8d-4a7f-40f7-919c-7ca029dd3649,purchase,422263.54,2021-01-24 09:33:11,Lake Veronicashire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-83e2a1ec-b8b0-4c1a-8091-13221f75671f,73cf786f-fc9a-4f1b-937c-5b6c488e7ed3,refund,255853.75,2023-12-02 18:59:47,Lake Courtney,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-98267d11-5a53-4ce4-9981-a208bfc16863,77034a5f-6c3f-462a-8073-5ef4dd5fd570,transfer,228589.13,2024-07-16 15:15:30,Barrettburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-a1764431-6b9f-4277-ae6c-937e5598c2a8,72788a9f-213a-4363-8de4-a42e30defe04,receiving,971088.55,2023-10-12 20:30:28,Priceland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-46404c59-8611-4cf6-82c9-98d15fca38f6,d99caf6a-566e-4810-9cb8-1abdda3ad283,refund,134518.59,2024-04-12 18:57:04,Theresaberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-214c4cd8-59e6-423a-bc11-133620623ecd,33edbc70-d6d1-4f41-b353-0ba2e4fb3a7f,transfer,328288.27,2023-07-24 12:45:57,East Jack,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-b15588b3-be12-491b-8f45-f68fee0aaa0d,8972487b-d8b1-4d0e-9834-7e8b4901764a,refund,267875.69,2021-10-11 18:56:14,Barnesville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-519fb663-6f76-45a4-9574-a16619ae78f4,ec6818df-473d-41d8-ba03-1711b66287e5,transfer,766325.86,2021-02-24 12:50:49,West Maryside,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-d8123f68-979f-4551-8126-cb231e38e971,255bce73-e064-4b96-bd76-712eeb53b734,sending,801903.95,2024-03-20 20:27:17,Crystalchester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-8c21a9c4-2395-457e-aa55-8ac146accab4,3e3cf759-ad3a-4d24-800e-cb3cb9b2af3a,transfer,633165.33,2022-09-19 04:07:02,Richardsonbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-a687404a-99b1-4048-a4e7-eb8064a298b7,8b8c587b-3edc-4f23-8094-e5477962c0c6,refund,71974.23,2024-02-06 02:47:13,Port Stacey,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-8e334720-5a69-4602-9c45-d2911047958a,7661e8a4-1f78-4f96-904c-2cc493ce6382,refund,52326.6,2021-12-08 13:32:03,Davischester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-04fa2558-7fca-4fd3-a9ec-56be3ec75e11,6f0d2009-cb78-4c52-81c5-15659509494d,purchase,836107.57,2021-01-14 17:04:12,North Ryan,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-7afe355a-694b-46c9-a11a-e196fda7174c,5ad36170-c127-4712-b5da-d7dbb7ce37ae,purchase,30852.99,2021-12-13 21:40:19,West Amber,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-a7449873-8019-4cd6-ba45-add46d1f4aff,95dd1966-cf36-4392-b8dd-f16bf1a89337,refund,351205.65,2020-11-16 14:21:21,Charleston,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-8ed18ef3-040c-4d23-8b36-185f075ae1f4,0794b24a-ec1a-4727-8897-26dd85ad6f94,receiving,984198.61,2022-02-27 07:26:55,Cooperland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-3c106537-861c-46de-b748-3f289f60c21c,0eb29836-5433-412f-83ca-a2289a9dc5ac,purchase,659879.36,2020-09-12 02:58:46,New Hannahbury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-dd2ea3e9-beb0-4d7f-8a14-34a59910b885,472aa779-8b18-463a-abee-e165eec572e7,sending,466038.64,2023-05-17 14:49:13,Apriltown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-66423f45-c862-47db-9011-8ad49e230548,cc804109-8c5c-4b55-931d-d4f718895e45,receiving,719100.72,2022-03-14 19:54:12,Nicoleburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-98ce4a06-2265-4850-b97a-4e5bf45087f4,dd171b1f-8ab4-41b8-9237-4002e2bae86b,receiving,200155.93,2024-04-06 18:42:57,East Jerrybury,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-f93bca8e-fbb3-4d94-8da5-67f891701484,50f9da42-9e66-40d6-9868-4b08b9a0ccbf,refund,481121.49,2021-06-11 02:57:35,Sanderston,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-8d51c4c0-0993-4332-9922-3c8174cada02,8d2871d4-410f-4602-bd52-d43a721c988b,refund,578716.73,2021-06-25 10:40:37,South Wendy,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-2d83ac32-ccbd-4ffd-a4ea-b0fff50fb2d0,6197a7e6-1f58-45a0-88f0-9f5a42b68017,receiving,459702.14,2023-07-20 16:02:13,Lake Robertshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-8a5cac67-7f53-43a3-9bbb-762810355a4c,4efbe64f-b8fd-4e8a-b524-24ab5241a2d5,receiving,456573.18,2022-01-19 05:06:01,Lake Henryfort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-cf6761af-9780-4ec7-897f-315f87964c57,c2dc8c19-2b67-4a15-a95f-f18497d49017,refund,297531.19,2021-03-22 12:59:58,Traceyview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-d147db10-93db-4b80-81b2-34610c2a0a15,27bfce3e-a2ef-4a6b-a2fa-48d98fa93696,purchase,669966.27,2021-06-28 23:56:36,Lake Erinchester,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-b90d1b51-9ed9-46c9-85db-dee667f35aca,44a22c5e-5f1f-49e0-947b-3990172ecb09,purchase,429953.39,2024-04-06 01:05:09,Lambview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-9cf5cb4b-525e-446b-b71c-96e6b1c4efa0,1aa1c094-8266-4fe8-a9b3-fd4d91074ca8,receiving,511721.16,2024-04-26 17:23:54,West Danieltown,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-714f0738-1982-459f-b9da-4ca9f6b66e03,d1fa9cca-545a-4980-8458-63d1f81ec062,transfer,360729.9,2021-07-05 19:52:32,Mendezstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-e256b0b3-2a79-4347-9a0a-91d0f626e8e0,3752f1be-795a-4d6c-b8b1-c7a446595396,receiving,775254.43,2021-12-08 22:04:53,Bobbymouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-0deb50e9-9851-4bbe-a088-1345259f792f,fbfd1cbc-212c-47c8-93a7-9096ceeaf518,receiving,863952.73,2022-09-14 18:07:08,Jacobshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-25e561df-b255-4893-b91a-fb317e772bac,8933d9fb-b018-4f8a-a74e-f524883febb1,purchase,176523.71,2021-09-23 07:15:29,South Alex,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-1837ec79-5e41-4290-ae4a-4e81ea50dcaa,0eabe658-2bce-47a9-a2b1-3696f4fd09bf,transfer,401216.63,2022-07-04 21:24:02,Clarkberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-838d4dcd-f011-4ea8-8c1c-689f6f79a6b7,32724a34-3207-48f6-8859-0b591dcf9319,transfer,570365.24,2023-10-10 16:26:51,South Kenneth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-6420d74b-ab8c-4d3d-97f4-5b33a92c28d8,30a14e61-45a8-45c2-b12c-fa5bf182ae9d,purchase,126594.19,2024-03-05 20:51:37,West Lisaville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-09ac535a-78cb-45b7-8a4e-80792a9ea594,7ec596ea-f30a-4a08-90f3-fd9d94aa7e70,receiving,492517.04,2023-02-08 04:59:22,New Kathryn,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-173ad386-844d-4d0f-982a-1d49df00d98d,2cfd31c0-ad8a-4793-9924-f5d25bbe7c68,purchase,777130.81,2022-05-31 21:07:44,Davisfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-31bfc7de-5a47-4c96-a1a6-9135f5334715,b1a1efcd-2310-4a9d-89cc-1f920f69e071,refund,50467.53,2020-12-13 17:41:00,Graymouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-021751da-3cbf-49c3-ba28-937f3c16a862,4b136361-bb20-4221-85e5-3642498f6354,purchase,879822.98,2021-04-26 02:13:57,New Pamelaburgh,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-a569392c-f250-4e2c-b681-15c26ba6840f,a23a3ba4-3ac3-4f7d-87fd-60bc6e1aedb8,refund,341577.79,2023-04-13 18:44:14,East Zacharyberg,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-a10cb625-5832-4b05-9ad1-fd70ec2085fd,6db5f4bf-a9b5-45b9-947e-5852364123ed,receiving,16547.89,2021-11-06 19:28:22,New Angela,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-eb1b2200-c172-47af-a9f2-4f2916afe581,e65237de-4dd7-4610-b740-35d869115402,transfer,640645.15,2020-08-23 00:53:12,Richardshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-2b28cd49-bf60-4ca5-aa0c-77b92308fc1b,2b4a8d18-ff16-4675-841d-068c34aa6d1a,receiving,66149.36,2022-03-19 10:24:33,Washingtonfort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-fdcc47c3-9091-4b78-a36e-d1eb96fbc20b,91899251-d50b-4620-9946-10a60f6abf3a,receiving,504942.23,2023-08-18 10:38:02,Dennismouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-773a41bc-58fc-4dc3-9b3e-3d8b8f2b4832,c008adbc-f039-49b6-a7b7-8aefcaf25f82,transfer,526788.45,2021-04-24 20:38:06,West Amandamouth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-927b9466-3806-46f5-85f0-dcbab36174d7,c5dbf089-aa07-45a4-8c45-409e4f8f1a21,refund,752500.31,2024-01-24 19:39:18,Emilyton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-c1f26557-2970-4c4a-9294-8bffd7377066,255bce73-e064-4b96-bd76-712eeb53b734,sending,898771.05,2021-04-19 15:02:37,Mendezview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-b2f5e234-9ce8-4c96-8106-d757073cb458,623fc3bd-3bb1-47d0-8489-cd2507b6f0f7,refund,579540.41,2024-06-02 21:53:49,Lake Erinstad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-da463f20-73ed-4cbe-b86e-fa9b113de195,139749e5-db45-4655-a641-5479a65004d5,transfer,614853.7,2022-05-31 20:06:16,Port Justin,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-46f8a767-c6a1-42b9-8048-dfadf053a17f,a1a53111-8981-4f0d-bf51-ed4c31b76765,receiving,895099.24,2021-07-31 05:52:08,West Christopherfurt,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,False
-815249ad-69d9-40cb-9d9e-991b118c6f28,d348255b-3a4b-4d09-902d-e66cbefef4b9,transfer,858960.63,2020-10-30 08:42:37,Lake Joannville,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,True
-b11974bd-c637-474f-bb5d-6eb9800f7ca6,172f0e07-9565-4239-b7da-82948dba3ea4,sending,393596.41,2024-02-16 12:15:20,Amyland,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,True
-24285b21-592e-4be2-b42c-f8d3b407a3e3,66490d15-dc7b-4b8c-a8df-8cd68bbc426f,transfer,362281.13,2023-11-01 11:05:43,South Williamview,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-554b28b6-79d4-4c56-a860-6df809a91e9d,1746c844-711f-4156-987f-8c7bdc50781e,receiving,244332.22,2022-07-20 14:59:32,East Daniel,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-33158b49-2a3f-4daa-89c4-b3977a0c4f58,d8f1282e-62d7-45e6-ae51-90b9b0ff5797,purchase,178176.37,2021-06-06 07:45:12,Lake Mitchell,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-7fa54480-9f5d-4ea0-99a8-e01c385ef903,8bf8a49c-5a62-4d82-83e5-567198f5177d,transfer,581307.36,2021-08-17 22:04:37,North Elizabeth,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
-36fea680-e475-492f-bde2-d371e9d79fba,a23d3a12-6870-45ea-aeb9-008f824e811d,sending,982636.65,2021-02-24 01:18:01,Johnton,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-28f72347-cca0-4d6d-ab63-e484319ca74b,00e219c0-1adc-4558-af36-62b68503512d,purchase,318660.18,2022-11-26 11:11:42,Powellfort,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,success,True
-bf5f2109-9e5e-4053-819c-9a99882b225f,25c84b6c-03e8-491b-aa7b-20ddfcda9d65,transfer,384832.21,2024-07-15 14:14:45,Lake Justinshire,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-a8a07662-b692-4a3b-abae-9aa7df49726d,edbfe105-8224-4f9c-a7c6-d1532e5a54bb,transfer,38369.37,2022-03-08 02:17:01,Johnsonhaven,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,pending,False
-c5690d84-979a-4373-bce2-86a9e75fb463,4f357b6c-c620-4759-adef-58dd01c0476d,transfer,173316.92,2021-06-08 21:35:31,South Jessicastad,0b059ddd-e2c8-44b9-bb1f-afd57012ea4a,failed,False
+e96cdafe-8393-4250-a7ee-79bff664f709,645b4a76-a7e6-40b7-8d75-bf1eb7d47362,receiving,53296.21,2022-11-01 13:24:52,Port Ariel,d03b8867-c71b-422a-b089-870754415764,failed,True
+1167387c-6810-48d1-a101-fc887c73b40a,79ee5ca3-6891-4827-88c4-f8f5f11099f0,purchase,125173.81,2021-05-13 12:38:27,Amyhaven,d03b8867-c71b-422a-b089-870754415764,failed,True
+8d22f681-869e-4b2f-bbcd-47ed787b9410,6373ce66-cb21-4242-a9c2-1ebfaf9f3f34,transfer,500530.28,2023-12-03 16:02:04,Robinsonmouth,d03b8867-c71b-422a-b089-870754415764,failed,True
+b2c18958-a90c-4e8c-b52f-afa39c47b1c9,6b4a7711-5f55-4e92-bdef-1882cedc668b,purchase,761882.36,2021-01-20 12:45:32,Meghanmouth,d03b8867-c71b-422a-b089-870754415764,pending,True
+83bdf2ff-ae22-4862-b81e-6b0822e22c45,04ade9ea-661f-480a-9c0a-e6cc2845fea1,receiving,872337.12,2022-10-16 17:03:24,Port Jessicaborough,d03b8867-c71b-422a-b089-870754415764,pending,True
+aa35f53b-720c-482a-8e8f-93cd63cb4436,1329f31a-973b-405b-bc00-d4715eabe5af,purchase,619836.24,2022-07-12 12:35:28,Deckermouth,d03b8867-c71b-422a-b089-870754415764,success,True
+362899b8-ba4a-47fb-a673-31be5541d4f5,99621f42-2073-48c6-8de5-12059909ab14,sending,527875.04,2022-04-17 21:07:45,Lake Tim,d03b8867-c71b-422a-b089-870754415764,pending,False
+a16b8137-887b-440d-996d-bc30776af5d4,015a7926-3c9c-4a17-970d-a38a1e38aa8d,purchase,618060.76,2021-08-05 00:50:01,South Edward,d03b8867-c71b-422a-b089-870754415764,failed,True
+86af5198-cf17-4edd-a3cc-d994bafc45f7,2c537a7a-eaa0-48ab-92c9-d5f3958738a1,sending,330121.92,2022-03-01 22:49:35,Penatown,d03b8867-c71b-422a-b089-870754415764,failed,True
+244609d6-1455-44a2-bd1b-d2affe777899,5d113e35-b3dc-4a8d-bd2f-5cfe2cac24f6,sending,759968.78,2021-08-05 19:15:23,Rosarioville,d03b8867-c71b-422a-b089-870754415764,success,False
+1191459f-7fa0-4496-a6c9-3f4fb4d502b7,87c40d78-34f3-4d0e-9df7-5fca684780ad,transfer,397784.94,2022-07-28 01:40:47,West Dawnmouth,d03b8867-c71b-422a-b089-870754415764,failed,True
+cbe7fed8-01b5-4353-91fe-6c3b2e2804d9,79d64d5c-de9c-4a91-98fd-8e2d823bc7d1,purchase,6393.34,2020-10-20 05:42:25,New Marissa,d03b8867-c71b-422a-b089-870754415764,pending,True
+bcf85127-8a47-4f2a-88cc-5ca0e0ccb07e,ad2020eb-b468-4737-806d-ef23bdc0f959,refund,912853.3,2022-10-03 00:20:48,West Kaylaview,d03b8867-c71b-422a-b089-870754415764,failed,True
+5235edf0-0055-4129-bd92-396269f37e06,1b867fc7-7f9d-496e-b523-e6a58c5591f2,transfer,859696.47,2022-10-01 13:40:53,Robertsshire,d03b8867-c71b-422a-b089-870754415764,pending,False
+6ff8e795-140d-40e8-825e-2f374dc512b5,0d458fe4-8e09-47e3-89f2-d22aeca1f8c6,transfer,526928.71,2023-05-12 17:25:38,West Robert,d03b8867-c71b-422a-b089-870754415764,pending,False
+78ad4826-9d23-4141-a82b-87baf5be7cd3,1961008c-f5a1-4b85-9084-bf06dc6419e5,transfer,85583.5,2023-10-13 13:28:53,Fisherstad,d03b8867-c71b-422a-b089-870754415764,failed,False
+29fcd27f-86e4-472b-aa33-f03246e585b1,61057d63-eafc-49e2-bc13-3f49fb7ae88f,sending,975434.39,2021-02-09 05:22:42,Amyfort,d03b8867-c71b-422a-b089-870754415764,success,False
+93e11d2e-7217-444b-ba79-7778935f2080,ad2020eb-b468-4737-806d-ef23bdc0f959,receiving,741738.34,2024-05-05 03:13:54,North Jennifer,d03b8867-c71b-422a-b089-870754415764,success,True
+fd1fc3f3-178a-4e72-a781-2ac5824bb9f2,d3358a73-f064-4653-bcb3-0b2f430e2ef9,refund,157290.84,2020-10-12 01:55:24,Port Joseshire,d03b8867-c71b-422a-b089-870754415764,pending,False
+0a5584d3-ad42-46a7-bd9a-ea8e8022b6a1,e7a194e3-9c57-48a1-a91e-c051f11d1d53,purchase,119460.31,2024-07-29 19:11:34,Laurahaven,d03b8867-c71b-422a-b089-870754415764,success,False
+eda8f513-7268-4e22-8b59-9e66359ef0e1,26e232f1-25f6-4584-a3f6-f01297c30b13,sending,716683.18,2021-07-04 10:27:26,North Bryantown,d03b8867-c71b-422a-b089-870754415764,failed,True
+666cf4bb-affc-42da-86ab-e130bbcdb0ff,a3b4d500-ad4b-406a-844a-20fd0d9c439b,sending,262088.14,2021-03-29 19:09:32,South Paulchester,d03b8867-c71b-422a-b089-870754415764,failed,False
+1ef8377b-310b-45f8-8e2d-46f2e84c198b,75a1fc01-37df-45ab-bd73-358ebda0ecef,purchase,509820.93,2023-09-24 19:40:30,New Kimberlytown,d03b8867-c71b-422a-b089-870754415764,success,False
+95784785-f6d7-470e-9cff-9bb769cba29d,c2337e62-bbf6-42ca-8372-b3c6059234e7,refund,251862.27,2022-01-23 00:53:31,New Sherry,d03b8867-c71b-422a-b089-870754415764,success,False
+f32627e2-8224-40f6-8e4f-af2d62e6bdb1,b9c16d8b-d192-4249-8ef3-4fdb247e772c,transfer,819682.78,2023-06-27 01:43:50,Murphyhaven,d03b8867-c71b-422a-b089-870754415764,failed,True
+cc8ec0ad-9936-40b0-ab8e-052c10f2bd08,b9f8d5f6-288a-4a0c-a4ed-34e6c483d786,transfer,230345.28,2021-11-27 22:04:04,West Daniel,d03b8867-c71b-422a-b089-870754415764,failed,False
+a3a4efd3-2954-4aa5-96b0-0951ae20171b,5e104b11-f7c6-430c-876a-7b1281b4eeab,transfer,836568.36,2023-11-29 11:15:56,East Aaronshire,d03b8867-c71b-422a-b089-870754415764,failed,True
+2f55ff68-02bd-4c01-9a21-1bf7f662e667,7256f7f4-caab-4c9b-910f-bfc1fc1a793f,sending,120288.2,2023-02-06 09:03:09,West Amber,d03b8867-c71b-422a-b089-870754415764,success,True
+dc01d577-eef8-4356-b722-41cf9ffb89bf,bb7a23af-4f2a-40bc-9541-b320ef77ebef,transfer,306798.96,2021-03-16 00:27:19,North Randy,d03b8867-c71b-422a-b089-870754415764,pending,False
+ec3e94a0-3bb0-4186-a536-61c60f00a087,ce17a9a2-e407-42f9-9665-fb8ca45f3905,receiving,720426.79,2022-02-02 10:57:06,South Alexside,d03b8867-c71b-422a-b089-870754415764,pending,True
+88a85dc1-4498-4188-942d-6413e82fc427,52683b38-d34b-42d6-8437-831f3d27264a,receiving,348843.05,2023-01-12 06:59:19,Kimton,d03b8867-c71b-422a-b089-870754415764,pending,False
+1fef8121-f06f-484b-8178-333977c0ceb9,40f1f317-cffe-45ef-a99f-a162e2f87229,sending,94046.68,2023-06-18 20:59:25,Juarezchester,d03b8867-c71b-422a-b089-870754415764,failed,True
+34bd9af4-703f-4f5c-9b77-0496d07d1e86,a4b03e32-d710-4a0e-acfd-3bf85feafdcc,purchase,450477.86,2021-04-19 07:01:58,Morganmouth,d03b8867-c71b-422a-b089-870754415764,failed,False
+43ce06e8-7c70-41bc-bbb5-ccf60c6c4509,1295b59a-43f1-4e11-952b-14c803054322,sending,560905.1,2023-04-17 03:11:27,North Dianaview,d03b8867-c71b-422a-b089-870754415764,pending,False
+ea54bddd-fd6b-4f8f-a45d-2130b1c64818,1dda8af6-1764-4cba-86b2-2ca096c769ce,refund,475605.13,2023-10-03 05:21:05,Kelleyville,d03b8867-c71b-422a-b089-870754415764,failed,False
+1654fae0-5607-4df4-8cc5-89f10afeb9f2,7e8dc61e-1798-4d6b-a536-030e677ed0c9,transfer,344206.97,2023-08-28 03:20:06,Johnville,d03b8867-c71b-422a-b089-870754415764,failed,False
+09b0bca9-8dc1-4995-8ee4-8dfd560af183,c06b6a92-a626-42c4-b327-cf95abbc1f78,refund,333645.87,2023-09-08 05:01:28,East Timothy,d03b8867-c71b-422a-b089-870754415764,success,True
+bd44e309-ebd5-4113-a0ae-38f7d6966e84,a35fd036-5154-4bc3-9138-0ca51780f52a,receiving,827296.46,2021-02-27 10:49:37,Snydertown,d03b8867-c71b-422a-b089-870754415764,success,False
+8c6ddbb5-0649-469b-b94a-2716c7fa7a57,90b7b1f8-721f-4f37-bf0f-c1a935e7c06c,sending,958203.12,2022-09-16 16:20:08,North Kimberlyberg,d03b8867-c71b-422a-b089-870754415764,pending,True
+f852cadb-cbc7-4c8e-85fe-f6dac8798337,42e6fd40-be14-4b95-bc0f-88a89f6c6e6d,refund,747156.55,2020-12-24 21:42:22,North Anthonymouth,d03b8867-c71b-422a-b089-870754415764,pending,True
+ec3efa48-736f-4cd8-aa97-b0530c70ce07,0040985e-2890-436a-a8ce-526e34ad12f6,purchase,12537.4,2023-10-15 16:07:44,Cunninghamview,d03b8867-c71b-422a-b089-870754415764,failed,True
+db447580-e5df-4444-b155-ddf697069563,f953f5d6-96d6-4995-a647-0f0252a4f226,sending,775873.72,2024-03-17 04:27:58,Lake Brandon,d03b8867-c71b-422a-b089-870754415764,failed,False
+c80180c4-2e45-42c0-8fcb-ececb2b7008c,1a90aa79-728b-4966-baef-7f54091909ee,sending,259254.28,2021-07-20 20:22:22,Victoriaport,d03b8867-c71b-422a-b089-870754415764,success,True
+1696be27-4935-4135-8922-998a27952e0b,5f1f9aa6-d6dc-4e73-a90d-9e9ad49df4ce,refund,415347.83,2022-08-28 18:39:41,Mendozaview,d03b8867-c71b-422a-b089-870754415764,success,True
+548d5abc-97eb-4a3b-bc8d-16e0a33f4846,a78b1f5e-bbd4-4f29-944f-6afc876aed43,transfer,456341.17,2021-10-25 18:49:08,New Stevenland,d03b8867-c71b-422a-b089-870754415764,success,False
+dd7d72f0-bc3d-4de9-9f73-c83756c32b60,78c65172-cf20-47e7-bd31-5d7327e1d750,sending,298204.11,2021-02-11 09:41:49,Stephenport,d03b8867-c71b-422a-b089-870754415764,success,False
+d99d97f5-efea-4ebc-8a21-5b372b9540c2,c74252a1-62d3-424b-bf54-c22b62a36a79,purchase,552289.46,2022-06-22 22:15:42,New Williamborough,d03b8867-c71b-422a-b089-870754415764,failed,False
+ddb708e5-a18b-4664-9342-d1ad1c99528b,d3358a73-f064-4653-bcb3-0b2f430e2ef9,sending,704683.46,2024-02-03 14:05:21,Smithberg,d03b8867-c71b-422a-b089-870754415764,success,False
+41088ce9-dd8a-4678-b39c-95bb6c869d31,95a2a7a6-6e08-4af2-a26e-c4aaace2edd8,sending,63208.73,2021-09-23 00:21:20,Hallhaven,d03b8867-c71b-422a-b089-870754415764,success,True
+b3ee18ad-07c0-4590-b24b-e5c7d7d3e2e5,458c76e4-8ea0-4bfa-9a3c-cf425811d69a,transfer,868865.03,2021-12-31 12:32:56,West Davidburgh,d03b8867-c71b-422a-b089-870754415764,pending,True
+8742d691-3dc7-47a9-8d7a-b3af9fb97663,d5774a20-18a8-4dba-9385-130753c49dc5,sending,7945.25,2023-11-08 23:45:59,Robinsonfort,d03b8867-c71b-422a-b089-870754415764,success,False
+4d502d09-ff23-4f0b-9f56-f3e82b89b7c9,20e77066-4c00-4446-bb78-b84738db7310,sending,125097.12,2023-01-02 15:29:44,Burnsberg,d03b8867-c71b-422a-b089-870754415764,failed,True
+bbfc083a-6ca7-41c6-889a-15debb265431,76329c1d-b40a-4c88-9282-0ab33194399a,receiving,95358.21,2021-04-16 20:26:57,New Anthonyside,d03b8867-c71b-422a-b089-870754415764,pending,True
+b7cc399b-bcad-4245-aca5-02ef392880f8,2196b0b4-b8ce-4069-90c4-cbdef0ac9a84,receiving,141942.77,2022-07-04 11:19:34,Acostaton,d03b8867-c71b-422a-b089-870754415764,failed,False
+7b56b142-cd0f-410b-b237-01ddef18666e,f24348a8-a36e-4c7c-9002-e7e4db6eaf3f,sending,107785.96,2020-12-10 01:31:09,South Toni,d03b8867-c71b-422a-b089-870754415764,success,True
+5cc42424-863f-4936-9168-fd4975338123,3f5ebd4d-c6a3-4946-8e27-c8765737a55d,receiving,377548.25,2022-08-06 14:08:30,Wheelerbury,d03b8867-c71b-422a-b089-870754415764,success,True
+411fbe7d-a872-4dc6-9207-8e83a6ac2b78,c341f5e9-2b2b-46dc-a9df-8dd6880aed51,sending,521841.01,2023-01-19 03:04:36,Cohenfort,d03b8867-c71b-422a-b089-870754415764,failed,True
+b3894d4f-1c68-4cb8-89dd-2a53b219b009,b3b6649f-114a-4629-9605-a1bb798e3030,transfer,733128.25,2023-03-18 16:42:10,New Jeffrey,d03b8867-c71b-422a-b089-870754415764,success,False
+c783965c-9b8c-4633-9182-693e75fdef7c,2b83fdf2-2bfb-4de2-89de-7d706c43fe7e,purchase,977193.62,2023-09-20 01:45:09,Christopherburgh,d03b8867-c71b-422a-b089-870754415764,success,True
+84675fe1-161c-4f57-9591-8a12a2c77f3d,6373ce66-cb21-4242-a9c2-1ebfaf9f3f34,transfer,595791.03,2021-03-26 17:30:47,West Jennifer,d03b8867-c71b-422a-b089-870754415764,pending,True
+9823c91a-25e3-4046-bdee-95efd36834dc,34d07b24-c28c-4caa-998e-4d07d40b6c27,transfer,124568.26,2022-02-25 06:40:29,West Michaelbury,d03b8867-c71b-422a-b089-870754415764,pending,True
+71b72faa-b7e5-47f5-bcc0-fa8143ccdd71,878ea58b-668a-411c-af48-7c804b78422d,sending,485810.81,2023-08-14 03:34:42,Sheilastad,d03b8867-c71b-422a-b089-870754415764,success,False
+b010af96-eff4-46b9-923f-2f0dc78d97f8,4304a851-1735-4136-9223-b4970eced177,purchase,244095.76,2023-09-09 15:18:43,East Larry,d03b8867-c71b-422a-b089-870754415764,failed,True
+1632bc2f-63d9-4964-b87b-74ee0bdf87c1,4ae8afbc-1564-4a1f-83a4-c6e01c1f330c,receiving,462148.43,2024-05-31 18:10:32,Fosterfurt,d03b8867-c71b-422a-b089-870754415764,success,False
+2b73f4db-4b9b-4cc4-b5f4-bef51ab57918,b9f8d5f6-288a-4a0c-a4ed-34e6c483d786,sending,664080.34,2020-10-24 10:22:23,Porterstad,d03b8867-c71b-422a-b089-870754415764,pending,True
+214652e8-42e0-4d10-a543-8e2bc9b17dd0,a03d6964-1c5d-432a-b0ae-3f6f03900c1e,transfer,917931.94,2024-03-10 00:00:06,West Lori,d03b8867-c71b-422a-b089-870754415764,success,False
+b3a2d705-d39d-41da-827e-761e3b610a23,76329c1d-b40a-4c88-9282-0ab33194399a,refund,991291.66,2023-02-16 20:12:07,New Courtney,d03b8867-c71b-422a-b089-870754415764,success,False
+b8195dc1-6427-4170-9d89-13baed26e2e1,c18aeee3-a51d-4109-af9c-98316019adfa,sending,443368.61,2023-06-24 16:43:15,Wernerburgh,d03b8867-c71b-422a-b089-870754415764,success,False
+36165561-3b81-4899-aeea-1a9620518fd0,5c5e8681-7a4e-429f-8703-2ec3d9276a0c,transfer,817182.51,2020-08-09 13:57:05,Jacquelinemouth,d03b8867-c71b-422a-b089-870754415764,success,True
+f5d8065b-d5cf-4195-bebd-9f352848d6ab,08d61183-8b5d-4b71-9db8-02e979d12a7e,receiving,3393.58,2021-11-29 11:08:40,Danielborough,d03b8867-c71b-422a-b089-870754415764,pending,True
+aff4b56f-956d-4601-a992-6fe896562788,97d87507-491d-4ff1-9d08-a2a5e4e39321,sending,166620.3,2023-08-23 21:11:08,West Rodneyton,d03b8867-c71b-422a-b089-870754415764,success,True
+400975b8-0bb7-4128-b115-5c1eaa719e47,5617714e-849b-4542-ad4e-4f354308e22f,transfer,133796.62,2022-11-12 22:41:10,South Paultown,d03b8867-c71b-422a-b089-870754415764,success,True
+6388f8f5-f4c3-4c90-a990-dc33a23ae548,8cdddf5a-97c3-4e3f-bd9f-b2c9229a2ab2,sending,834823.7,2024-01-13 14:19:59,Lake Sarahmouth,d03b8867-c71b-422a-b089-870754415764,success,True
+e7256fc7-bc8d-4cad-86b2-39269772058d,d28692b5-9d46-45fd-bead-010df3cd25d2,transfer,388379.02,2022-02-26 02:24:19,Lake Karen,d03b8867-c71b-422a-b089-870754415764,failed,False
+5c81278f-0e44-4dcd-bfa0-0ed69079a1ba,252cf046-8469-4fad-ba69-828fc71c1e89,transfer,645196.04,2023-01-14 13:09:57,Davisland,d03b8867-c71b-422a-b089-870754415764,pending,True
+0ce60813-4dd6-478f-b846-90dd49730b23,32383905-d691-42e4-9082-d477946fa727,purchase,767337.79,2021-03-11 03:12:11,South Christopher,d03b8867-c71b-422a-b089-870754415764,failed,True
+3d48bf11-8682-4cdc-afa9-6b2e7623c835,7d1dd843-0e87-4920-8425-0c37954c42b8,receiving,250359.98,2023-04-12 06:08:05,West Sarastad,d03b8867-c71b-422a-b089-870754415764,success,False
+0c3a1460-d409-4d43-a918-e051834b03b4,6d0fba08-034b-4a02-b1f0-6e735d798c46,purchase,881863.76,2022-07-03 21:44:10,New Gregshire,d03b8867-c71b-422a-b089-870754415764,pending,False
+6e06f369-cad9-48e7-8d27-dd27fef6824c,2b5eee38-235e-4de1-b9e0-ea9ce98e6b07,receiving,191061.37,2022-07-01 19:50:56,New Ashley,d03b8867-c71b-422a-b089-870754415764,pending,False
+11feaaf2-f83a-4310-bdb7-64503c09787c,a8dae573-a8f1-4153-91bf-4e0a75245e50,refund,473722.66,2021-12-26 08:09:06,Port Dylan,d03b8867-c71b-422a-b089-870754415764,success,True
+2499fcc5-6887-4672-a4dd-b5fad88a5411,3bbab3e8-1c18-43e1-a3d8-c8407bd81e1c,refund,238431.73,2022-09-26 21:17:55,Lake Michellefort,d03b8867-c71b-422a-b089-870754415764,pending,True
+8aa6938f-5610-4faa-9838-755a35279285,971baf7c-505b-4600-bccf-6fca28f1d755,sending,410940.91,2022-02-24 12:19:12,North Barbara,d03b8867-c71b-422a-b089-870754415764,pending,False
+fb9654ae-55fc-43b2-926b-9fa94b037342,c18aeee3-a51d-4109-af9c-98316019adfa,purchase,824350.65,2021-09-11 14:06:28,New Geraldville,d03b8867-c71b-422a-b089-870754415764,success,False
+d0548326-fda5-43b2-924f-05d9bbb89a2d,8f1e4418-fb36-46dc-b379-ed41a1ad648b,receiving,189210.65,2022-12-25 11:36:15,North Danielhaven,d03b8867-c71b-422a-b089-870754415764,pending,False
+c059485e-21de-4231-baed-1091dbd23328,147f8a57-2436-4ca2-9196-81ca7385f58f,receiving,982579.68,2021-12-07 14:13:09,North Derrick,d03b8867-c71b-422a-b089-870754415764,pending,True
+b0449273-5ef9-4ce0-8944-5836873dc772,2ec8287d-f196-469f-b1c5-240bafa6818f,transfer,559136.18,2023-08-08 05:20:19,Williamfort,d03b8867-c71b-422a-b089-870754415764,pending,False
+0c2a36ed-aad0-460a-9db0-5a3433ea2b8f,ad2020eb-b468-4737-806d-ef23bdc0f959,receiving,843826.74,2023-12-09 13:39:35,Walkerchester,d03b8867-c71b-422a-b089-870754415764,success,False
+2c51c509-2d74-42ca-a571-b01e6f6350fa,d3358a73-f064-4653-bcb3-0b2f430e2ef9,receiving,80461.62,2023-12-28 02:30:26,Parkview,d03b8867-c71b-422a-b089-870754415764,success,False
+2d84a308-385e-4d9b-905d-55faa43db3f2,6fa5a9c6-ead0-4bdb-b37a-714f951599b3,sending,874132.78,2023-07-23 15:15:19,Jenniferville,d03b8867-c71b-422a-b089-870754415764,success,True
+cf94a07f-a8df-4fa1-9c64-6d0153bacd58,9033d6aa-f155-460a-979b-bdd1f1f8307d,purchase,397455.48,2023-09-10 05:45:12,Lake Michael,d03b8867-c71b-422a-b089-870754415764,pending,True
+fa060b32-4f28-4c24-ab18-ffede675a0a7,7fa1ea32-a9f4-4469-b93e-41207cb7f3cb,refund,238224.91,2022-10-16 04:01:21,Zimmermanview,d03b8867-c71b-422a-b089-870754415764,pending,False
+95119641-fdf8-47b3-bf4b-23167e0908dc,0d539a13-bd56-43f1-b5ef-6267a0a3c1c3,refund,524015.87,2023-06-13 11:51:03,Phillipfurt,d03b8867-c71b-422a-b089-870754415764,success,True
+78ad5bca-f0e4-4ece-9bce-3f4a03213517,c647b694-2cbc-482a-8898-108fb31993e5,sending,795024.7,2022-05-25 11:32:05,New Amandaside,d03b8867-c71b-422a-b089-870754415764,failed,True
+2d6916c1-a53c-4c60-b5e2-4409a3867694,9ec16a8f-a335-4365-8e6e-8f58b4d793ea,transfer,860883.27,2020-09-12 23:00:37,New Lynn,d03b8867-c71b-422a-b089-870754415764,failed,False
+e3a98e16-d54a-4d24-91fa-0ddfd7b32a99,5d113e35-b3dc-4a8d-bd2f-5cfe2cac24f6,transfer,388768.09,2023-12-05 19:09:34,Grantview,d03b8867-c71b-422a-b089-870754415764,success,True
+58e9e3be-b05d-4d6e-b9ce-21593df15895,97a2dc84-11b6-40b5-ac4e-b96f357a9a25,refund,440857.98,2020-12-31 15:16:40,Lake Jamesfurt,d03b8867-c71b-422a-b089-870754415764,pending,True
+b03fa5ef-3072-4718-8ea1-61637d6b0693,1e1cf311-85b2-4f22-bd54-409f7798c4bb,purchase,226635.7,2023-03-28 17:51:19,South Dorisview,d03b8867-c71b-422a-b089-870754415764,success,True
+d2bfa5dd-258d-4acb-87ab-1825d0e983aa,55b7c729-b095-4329-935d-0a9e2efffcec,transfer,585368.02,2021-05-07 09:39:57,Adamston,d03b8867-c71b-422a-b089-870754415764,success,False
+03ab72fd-f7af-4b63-9e76-40a9471d5126,ca23b94c-a92f-4899-9cbb-068da20fd70a,transfer,578085.8,2020-08-30 22:48:38,South Kristina,d03b8867-c71b-422a-b089-870754415764,failed,False
+8508e717-6b45-4f21-bd2a-1b320ae30a50,5c5e8681-7a4e-429f-8703-2ec3d9276a0c,refund,411381.56,2022-08-19 05:40:32,Monroefort,d03b8867-c71b-422a-b089-870754415764,success,False
+b796cfed-03ba-4e6e-ad2a-4845b7865373,82edef09-796b-42a6-9c1b-2cee6d918e74,sending,304583.27,2021-02-15 00:50:47,Port Tommy,d03b8867-c71b-422a-b089-870754415764,success,False
+75b1a71d-e4bd-41ce-b876-1d38918b4c3b,dc50171b-93b2-4a4e-9938-f3a18436d8ea,purchase,789683.88,2021-05-28 06:12:24,New Jasmine,d03b8867-c71b-422a-b089-870754415764,pending,True
+59f52044-db13-495c-beb6-eecdecc30126,8dfa11f0-c8aa-4376-a420-58f55747eed8,sending,946955.68,2021-12-01 15:05:12,Hernandeztown,d03b8867-c71b-422a-b089-870754415764,pending,False
+5710f353-597d-4dcb-9bff-c60bf6260efa,458c76e4-8ea0-4bfa-9a3c-cf425811d69a,receiving,556031.12,2021-03-04 03:31:46,Andreaton,d03b8867-c71b-422a-b089-870754415764,success,False
+88a284a6-707d-43db-91dc-46a4df113fea,5e104b11-f7c6-430c-876a-7b1281b4eeab,receiving,815998.51,2022-10-25 08:34:14,Davidview,d03b8867-c71b-422a-b089-870754415764,pending,True
+443e156d-eb67-4919-8a8d-fe30d5b8c52b,22649408-6d0c-47d5-a12d-13ea996d038d,purchase,394044.45,2022-08-23 13:15:47,Jesseland,d03b8867-c71b-422a-b089-870754415764,success,False
+d08fd8e6-5e50-4935-9b97-a75390a82872,c341f5e9-2b2b-46dc-a9df-8dd6880aed51,refund,654179.46,2023-03-31 00:36:21,West Kathleen,d03b8867-c71b-422a-b089-870754415764,failed,True
+8ad20715-d04a-4b5d-9aed-42174dd8106e,dc50171b-93b2-4a4e-9938-f3a18436d8ea,refund,552898.57,2021-07-22 16:57:40,Hansonville,d03b8867-c71b-422a-b089-870754415764,success,False
+cdd91ab5-eec4-4774-9000-74297a494932,d1c90bdf-92a1-4fed-829f-129dfa36d24a,sending,801713.72,2020-11-15 15:59:31,Port Jasonstad,d03b8867-c71b-422a-b089-870754415764,success,False
+f405722f-8539-4ebc-9ce1-979bc3ae87cf,a93ddf72-cc1e-4052-8481-ab7bd48a26ac,sending,219049.72,2021-09-30 07:01:06,Davenportville,d03b8867-c71b-422a-b089-870754415764,failed,False
+2bf116e3-4041-469e-8625-7c173ba31c3b,73d40829-e29c-41a1-9ea4-3ae3231885ab,purchase,233835.77,2024-06-04 05:09:02,Kellyberg,d03b8867-c71b-422a-b089-870754415764,failed,True
+98508b12-1730-41f3-8cb6-b7af15a7d473,5f4df3cf-3b7d-41af-acad-8600c109b73b,transfer,46950.85,2020-12-14 13:21:12,Frazierbury,d03b8867-c71b-422a-b089-870754415764,pending,True
+c1128935-39a6-4f7e-b2f7-96e8a39d446d,6db1c7b1-fc21-4cf7-8feb-0c1bbc2e9c2a,transfer,769223.2,2022-03-30 21:45:49,Simpsonhaven,d03b8867-c71b-422a-b089-870754415764,success,True
+4dc82897-3a86-4eeb-b00b-2f2739305efe,e5e17054-81c0-463e-8ef3-cb9738f22036,sending,809071.53,2022-10-11 03:39:31,North Neil,d03b8867-c71b-422a-b089-870754415764,success,False
+f6bff65f-a717-4098-bbca-4dbdb94c570e,bb42ab79-ce2a-47d0-8bd3-23f049cd67d7,transfer,247891.95,2023-07-11 04:12:54,Christopherton,d03b8867-c71b-422a-b089-870754415764,pending,True
+3a901ee1-d0f1-4461-abcb-34c8c2e63cbd,3601952b-1038-432a-824e-8a361b7a31bc,purchase,700105.76,2023-06-02 04:24:30,South Beverlyton,d03b8867-c71b-422a-b089-870754415764,pending,True
+aa81af3d-780e-4c57-8285-f923ee3d1dc0,c1a2a531-2fd3-486b-af54-e3fbbb52d3bd,receiving,414666.76,2022-07-01 07:20:36,Karenfurt,d03b8867-c71b-422a-b089-870754415764,pending,True
+8a57c11b-4559-49e9-9e0f-cd770a24530b,9033d6aa-f155-460a-979b-bdd1f1f8307d,purchase,720524.86,2021-09-20 22:07:28,Melissamouth,d03b8867-c71b-422a-b089-870754415764,success,True
+1a7de9e8-a8ed-4b68-ad16-66fc9bd21c31,458c76e4-8ea0-4bfa-9a3c-cf425811d69a,sending,421678.63,2022-12-06 01:03:28,Harringtonfurt,d03b8867-c71b-422a-b089-870754415764,pending,False
+7cc8e0c2-231d-4449-a584-17cb3d071bc5,aff135e4-d6cc-4fd7-ab3b-b0d8f86de539,purchase,107146.07,2023-11-28 21:12:19,Lopezstad,d03b8867-c71b-422a-b089-870754415764,success,False
+2d77ecc3-95de-4588-a8bd-12d28a8862c5,ee9bef64-6af3-461e-91ba-66926e26cedd,sending,613326.9,2022-11-21 04:50:21,East Paulchester,d03b8867-c71b-422a-b089-870754415764,success,False
+42853c6e-4b07-4cdc-8647-8a798c67ca98,ecbe5b59-fdb9-48fd-acc9-52b358129eb7,transfer,455465.09,2021-05-06 10:58:58,Kevinshire,d03b8867-c71b-422a-b089-870754415764,success,True
+f78efff0-4efe-445c-8527-a3071c8984bb,feb8bd4c-ff7c-4225-becb-6ba6bd81431a,transfer,7466.48,2020-10-27 09:02:03,Benjaminshire,d03b8867-c71b-422a-b089-870754415764,success,True
+d44a59b7-b687-4377-aded-9bb376560c5b,178f5b73-6409-4acc-a3f7-09a3a3628e79,refund,427313.5,2024-01-09 10:08:30,New Linda,d03b8867-c71b-422a-b089-870754415764,failed,False
+f44458ea-74c1-46be-8d2c-0e858ef80a0f,6a01b90b-bc19-4c6a-9e11-abd55bc26fbc,purchase,969244.78,2023-01-09 16:58:17,Blairmouth,d03b8867-c71b-422a-b089-870754415764,failed,True
+43d446a0-fb0b-4ff8-8232-8264b0c530ea,ecbe5b59-fdb9-48fd-acc9-52b358129eb7,sending,48941.62,2021-03-18 16:12:57,New Tonya,d03b8867-c71b-422a-b089-870754415764,failed,False
+09bbe85e-4ed7-4faf-96d0-b1cfe543feb1,e5e17054-81c0-463e-8ef3-cb9738f22036,sending,783703.36,2022-03-20 02:27:19,Salaschester,d03b8867-c71b-422a-b089-870754415764,success,False
+e0ff5da8-f40e-4e8d-a69e-e0278c3c92db,d72cfabf-0407-4c98-9b26-8c1babbf25dd,transfer,761388.09,2022-07-10 15:32:02,Cherylmouth,d03b8867-c71b-422a-b089-870754415764,failed,True
+d4404f56-ec5c-4423-99af-56e49c3bec7a,edc875bd-584a-471e-a489-fe4416dcdcdb,receiving,394820.64,2023-08-22 02:26:51,Jensenland,d03b8867-c71b-422a-b089-870754415764,failed,True
+4bdb0fe7-cdf0-4681-b8db-ae2810de629a,34d07b24-c28c-4caa-998e-4d07d40b6c27,transfer,546081.3,2023-09-19 00:33:17,West Jenniferborough,d03b8867-c71b-422a-b089-870754415764,success,False
+8be909ad-f462-41d6-a5e8-1f9391cff904,90b7b1f8-721f-4f37-bf0f-c1a935e7c06c,sending,350732.86,2022-03-28 10:42:09,New Michael,d03b8867-c71b-422a-b089-870754415764,pending,False
+732fb443-4a95-4659-b1bc-a5faf52522d3,138b7e3f-4abc-4072-8244-5f539cfac6af,refund,965207.69,2023-07-06 13:29:00,Anthonychester,d03b8867-c71b-422a-b089-870754415764,failed,False
+faa63d05-0df7-47b5-898a-33468f3ba2db,485e46fc-a61f-48f9-8033-d73a6738b6b7,receiving,195829.56,2023-09-22 22:09:16,North Lisa,d03b8867-c71b-422a-b089-870754415764,failed,False
+4e25c1a2-d9be-46bb-befb-e5d2ce8fc8fa,300bc734-fddc-434d-bd6e-42a6aa70cf0c,sending,106288.47,2022-03-26 13:25:55,Lake George,d03b8867-c71b-422a-b089-870754415764,success,True
+def124db-c9f7-49d3-834a-5732eaf0c87e,1b8f1d46-d0e0-4017-a2ae-731207f20511,sending,768754.48,2022-02-26 02:49:34,Stephaniemouth,d03b8867-c71b-422a-b089-870754415764,failed,True
+106185ae-68c6-4096-9748-bde39eff4257,08bfd2b2-62c7-4a92-9657-eec674c6cbc2,purchase,499061.8,2023-09-09 20:05:39,New Karenmouth,d03b8867-c71b-422a-b089-870754415764,pending,False
+1a5548fb-6c70-458a-9cd2-a3a38cde6070,34d07b24-c28c-4caa-998e-4d07d40b6c27,purchase,612982.89,2021-08-06 17:00:57,Stantonfurt,d03b8867-c71b-422a-b089-870754415764,pending,False
+1b515912-30df-427f-8613-aec9247be560,9b768434-4bb9-4423-acee-e1de40aae228,sending,598353.12,2022-09-11 07:05:41,North Christinamouth,d03b8867-c71b-422a-b089-870754415764,success,True
+7f6b2c26-df9f-4d0e-a5cb-9dad9fe69536,b1681ad1-a6c0-4898-beaa-1865a047624c,sending,890125.01,2022-09-08 23:05:03,New Tracy,d03b8867-c71b-422a-b089-870754415764,success,False
+d5363d6c-e866-4115-8a33-3728ce6bddc2,b9f8d5f6-288a-4a0c-a4ed-34e6c483d786,purchase,166457.67,2022-09-06 18:43:06,North Amyview,d03b8867-c71b-422a-b089-870754415764,failed,False
+bcef0b88-dbbc-43c5-bda6-6bc22139cd76,3601952b-1038-432a-824e-8a361b7a31bc,receiving,367477.37,2023-08-20 20:12:03,Howardport,d03b8867-c71b-422a-b089-870754415764,success,False
+44fa8d77-2ce4-4671-8023-1569b1dfb6ea,7ae60e95-05d2-43f6-8d93-52fb14ea1dd2,transfer,848325.03,2023-08-12 13:36:13,South Zacharyshire,d03b8867-c71b-422a-b089-870754415764,success,True
+56dd1d2a-9077-478f-afb5-0cc4222e4a32,d1eb9ebe-5de4-4336-a43a-f71d1b46e62e,receiving,880954.0,2023-03-21 08:18:35,Royland,d03b8867-c71b-422a-b089-870754415764,pending,True
+60f4ce12-9086-417c-ad08-9cf0e80d59b4,34d07b24-c28c-4caa-998e-4d07d40b6c27,receiving,507525.45,2021-09-30 01:16:33,West Joeside,d03b8867-c71b-422a-b089-870754415764,failed,True
+9b99db6e-64bf-45f2-8f2c-747dffb3a7de,a4fbe3a1-f7e9-43aa-95ae-f489d945f195,refund,492715.63,2022-02-15 23:18:15,Johnsonborough,d03b8867-c71b-422a-b089-870754415764,failed,False
+dfd976c7-13db-48d6-ad0f-c47fbdd7504e,252cf046-8469-4fad-ba69-828fc71c1e89,sending,932930.07,2022-01-11 00:39:07,West Nicoletown,d03b8867-c71b-422a-b089-870754415764,failed,True
+a7efcd5f-7b2c-4e26-9e2e-708310579d5d,8dfa11f0-c8aa-4376-a420-58f55747eed8,refund,581369.61,2024-03-24 14:36:06,North Devinborough,d03b8867-c71b-422a-b089-870754415764,success,False
+58f26468-18f4-4e63-9959-2721a092299d,67331360-31c6-4546-94cf-a2f9b8025664,transfer,380914.99,2023-11-20 01:23:58,South Robert,d03b8867-c71b-422a-b089-870754415764,failed,True
+a554759f-fbad-409e-b81b-b0e85938725c,a28f316c-6109-432f-b6ab-51fb50c3d53d,refund,94200.83,2021-11-20 15:47:00,Santiagomouth,d03b8867-c71b-422a-b089-870754415764,pending,False
+d4ea4701-e6be-4a7e-904c-1b3bc5e2dff5,7ddbd055-fb9d-42c0-8ad8-70ac1f2e5148,purchase,374618.64,2023-07-21 02:12:30,Aprilstad,d03b8867-c71b-422a-b089-870754415764,failed,False
+f7ac65c2-582d-4329-9f67-9c3bda8f9dc7,7f0c647d-1e04-443b-b642-b02de8a05b7a,purchase,808226.86,2023-06-22 20:44:22,East Evanchester,d03b8867-c71b-422a-b089-870754415764,failed,False
+9ff69b40-f9a7-4924-b507-b75db037412f,69e40174-cb7c-4de6-bc7b-1d1ac47735eb,transfer,780790.63,2024-05-17 12:57:20,South Markland,d03b8867-c71b-422a-b089-870754415764,pending,True
+89c073af-c4b7-474f-b4dd-0e4f6356fc21,53b7fa13-24df-459c-a42f-102c58018ced,receiving,795041.8,2021-09-06 03:09:24,Maryshire,d03b8867-c71b-422a-b089-870754415764,success,True
+caae4dd0-7d82-43c3-9649-ad8d4e3c16f5,1329f31a-973b-405b-bc00-d4715eabe5af,refund,796313.85,2023-12-02 12:28:01,Lake John,d03b8867-c71b-422a-b089-870754415764,failed,False
+dac15530-e7c6-4e67-8d09-fe31be74c864,015a7926-3c9c-4a17-970d-a38a1e38aa8d,refund,388816.99,2022-09-15 12:15:21,Cherylchester,d03b8867-c71b-422a-b089-870754415764,failed,False
+bc07376c-14c8-424a-bc8c-d73c46dcbb55,a632a340-cea6-4233-876a-2df735288cc5,purchase,683610.2,2022-02-11 06:56:13,Port Alexismouth,d03b8867-c71b-422a-b089-870754415764,failed,False
+3ffe77c2-920e-42d7-a439-572928ccdf66,eda00a24-6cdd-4ea6-9d96-3d64fc8e2846,purchase,277186.43,2021-05-06 19:50:53,West Josephbury,d03b8867-c71b-422a-b089-870754415764,failed,False
+e7ebbd37-1a03-4826-92d7-f0eb193c4abc,564e8d9e-a987-4236-9841-03aa6617aed1,refund,371473.7,2023-05-16 16:43:34,Lake Donald,d03b8867-c71b-422a-b089-870754415764,pending,False
+1161d1cc-d592-4555-bca4-16eaba364f06,1b7f3a9e-083f-425e-9b15-b839748973de,refund,818080.67,2024-08-04 07:54:07,North Rachel,d03b8867-c71b-422a-b089-870754415764,failed,False
+5b1f48bd-c8c8-4644-b8aa-07aab42a52bb,95a2a7a6-6e08-4af2-a26e-c4aaace2edd8,purchase,339708.72,2021-11-08 12:55:20,East Benjaminberg,d03b8867-c71b-422a-b089-870754415764,pending,True
+7f921811-75eb-4160-bf58-7ab5ba32219b,29659116-1d0a-4f25-84cc-ee4be10fca77,sending,833247.29,2022-09-13 14:08:32,North Michellehaven,d03b8867-c71b-422a-b089-870754415764,failed,False
+fa43a0a4-f7b2-4901-abb3-2dae7642186a,0379b3da-f343-4d98-8acd-2eeba7cc983d,sending,782922.94,2023-06-16 12:31:15,West Erin,d03b8867-c71b-422a-b089-870754415764,pending,False
+7116e26d-2497-4bea-8096-2b03276285cd,0040985e-2890-436a-a8ce-526e34ad12f6,receiving,983845.77,2024-02-24 12:50:07,Lake John,d03b8867-c71b-422a-b089-870754415764,failed,False
+04a8b12b-2a88-4cf1-93d5-78e289eb2755,701ff7fd-ed03-49e4-8a19-aab74270bd59,purchase,900960.49,2022-09-13 00:51:28,Boydhaven,d03b8867-c71b-422a-b089-870754415764,pending,True
+1aaf4371-f9aa-429a-b6b2-df564ebf8c1c,169b3c66-5d74-4b64-9056-b86815e6a3af,receiving,879154.55,2021-06-25 00:28:45,Farmerchester,d03b8867-c71b-422a-b089-870754415764,failed,False
+33c4ac6b-60ae-4601-9379-acb1ee330da4,da230f62-cdd6-4a11-b8ff-ca44cda1dbde,receiving,396018.51,2022-07-13 13:25:44,Lake Jennashire,d03b8867-c71b-422a-b089-870754415764,pending,True
+2e7dbd05-911c-4138-87fc-e8ab1a73143f,df856e03-6609-4aeb-9d3b-a31aab8ac47a,receiving,166349.57,2020-12-01 08:59:27,South Brett,d03b8867-c71b-422a-b089-870754415764,failed,True
+dac2f593-92ac-4349-ac24-18db47d203b9,8dfa11f0-c8aa-4376-a420-58f55747eed8,receiving,430439.82,2022-07-11 06:33:17,Doyleport,d03b8867-c71b-422a-b089-870754415764,success,True
+a3d86929-8db5-42ac-9976-7079c5531a2c,1a5b7f24-3f1e-45a5-b7e9-7787a8faf876,receiving,71046.22,2022-12-03 10:34:13,East Samantha,d03b8867-c71b-422a-b089-870754415764,success,False
+36306468-4252-44b9-88c1-ecd27e69185b,1a5b7f24-3f1e-45a5-b7e9-7787a8faf876,refund,117272.77,2023-02-05 15:25:56,Gabriellefurt,d03b8867-c71b-422a-b089-870754415764,success,True
+1bdb28f7-2e7e-4d1c-8d60-0c88550a1c28,67331360-31c6-4546-94cf-a2f9b8025664,sending,345011.62,2021-08-13 01:38:48,West Lisa,d03b8867-c71b-422a-b089-870754415764,success,True
+09550b0a-b2ed-44f4-8e2c-717558d336e5,ae51fb89-b090-4703-9b97-0e5aff8cd369,refund,50276.97,2023-07-03 14:24:00,New Janetview,d03b8867-c71b-422a-b089-870754415764,failed,True
+54d006d9-e394-456f-b3f3-69c01d6da411,e9834cb9-49c4-455a-abd2-7d4b98f5d4b5,sending,97257.29,2021-03-18 09:53:29,Lake Tyler,d03b8867-c71b-422a-b089-870754415764,failed,False
+fb9bf53d-bb40-43f0-8f00-26574dd86d97,ab933591-f3bf-413e-9ff4-397e0e112917,transfer,484828.2,2023-02-19 19:18:20,Jessicabury,d03b8867-c71b-422a-b089-870754415764,success,False
+83e732e6-036b-4c54-82df-9146923b20c6,7120f093-4df5-4549-b98f-b9ffccbb16da,receiving,388640.28,2021-11-07 13:08:53,Lake Michael,d03b8867-c71b-422a-b089-870754415764,success,False
+2d4db1f4-75f6-4e35-ad0f-3549ded03b9f,0a86873c-7d72-4352-881a-44d57be65bc4,refund,893278.14,2022-09-20 18:41:09,South Matthew,d03b8867-c71b-422a-b089-870754415764,pending,False
+227330f9-2a1d-46ce-905f-7678d0f5fea9,ef5c8cd8-aded-4d89-ac36-aababc0e9ee6,transfer,176224.12,2023-09-22 14:49:31,South Shelly,d03b8867-c71b-422a-b089-870754415764,failed,True
+2e1e9995-a933-4761-80b4-2678a331095f,61ba9937-e8b8-4556-a18d-0b90ed4a4928,sending,745376.1,2022-02-28 11:29:10,Isaacfort,d03b8867-c71b-422a-b089-870754415764,pending,True
+13eaea4b-9530-4e84-9355-f65536b8505d,9edfabd6-3691-4733-93f6-f07c36190e52,sending,188871.23,2023-04-28 19:37:46,Parkerchester,d03b8867-c71b-422a-b089-870754415764,success,True
+c08ba891-d059-4fe2-a59e-8b2f91cdc293,1c5c0244-bde0-4cc5-8a85-3609f7949659,transfer,788122.14,2021-12-23 16:22:25,North Vincent,d03b8867-c71b-422a-b089-870754415764,pending,False
+f2c99182-91cd-4dda-9662-b5f208c1c880,bf9524f2-a973-412f-bb9b-941200ff005a,refund,251036.41,2023-12-21 08:24:46,Kevinburgh,d03b8867-c71b-422a-b089-870754415764,failed,False
+04518a41-b622-4074-a0da-0159237e8224,37f21ef4-29f0-4764-9e29-e2ecc92a12bc,transfer,892369.47,2021-06-11 22:38:38,South Carriemouth,d03b8867-c71b-422a-b089-870754415764,pending,False
+cd58f149-98bb-46ab-9ff6-27875095a894,246eac9a-b6b6-4c69-9500-a3660f9a4365,purchase,164183.7,2020-08-25 07:00:19,Joanland,d03b8867-c71b-422a-b089-870754415764,success,False
+31ac6d3b-63a8-481e-a2d5-ee550c68a099,1c5934b6-763d-4e1e-9402-0d7a6093df42,transfer,276261.04,2022-10-18 10:39:24,East Jennifer,d03b8867-c71b-422a-b089-870754415764,failed,False
+1dc9e276-bfb3-474b-a074-a0d1a731e40c,9edfabd6-3691-4733-93f6-f07c36190e52,purchase,498672.95,2022-03-04 09:34:17,Robertsside,d03b8867-c71b-422a-b089-870754415764,success,True
+ee79fb2e-256e-4707-beae-d5450ce7209a,5fd23152-9ffa-455b-b78c-4208184315ba,refund,651333.77,2022-01-16 00:30:55,Michelehaven,d03b8867-c71b-422a-b089-870754415764,success,False
+22ba356e-4b3b-4330-9715-01d2eee91329,f880ef15-bb26-4af7-af04-6ab8ec586988,purchase,955696.6,2023-02-01 22:38:23,Williamsburgh,d03b8867-c71b-422a-b089-870754415764,pending,True
+b0a95609-6eb1-4d97-aacf-bb614e46261e,b1681ad1-a6c0-4898-beaa-1865a047624c,refund,943572.08,2024-01-01 03:47:37,Whitemouth,d03b8867-c71b-422a-b089-870754415764,success,False
+434b44de-6291-4c86-959f-b65fc83a4f5a,46ee4785-1b1b-446b-9097-2568407adb11,sending,838507.14,2023-01-04 19:34:06,Anthonyport,d03b8867-c71b-422a-b089-870754415764,failed,True
+a24d4064-e29c-49d8-a16e-55fec8ab5f1d,b3b6649f-114a-4629-9605-a1bb798e3030,sending,705260.9,2021-09-12 00:00:54,Andradetown,d03b8867-c71b-422a-b089-870754415764,failed,False
+60504f23-6f8d-4ac5-92b7-e865b5075356,701ff7fd-ed03-49e4-8a19-aab74270bd59,transfer,769864.24,2024-06-07 19:42:51,Palmerhaven,d03b8867-c71b-422a-b089-870754415764,failed,True
+5426284c-2530-4042-b58e-6ee2b8292ad1,c8f97cf9-39de-4c19-88dc-6aeb81626cf1,refund,543139.34,2023-03-20 06:33:19,Hernandezport,d03b8867-c71b-422a-b089-870754415764,success,False
+68bcd534-d55d-40cb-9f26-1d45444d3138,7fa1ea32-a9f4-4469-b93e-41207cb7f3cb,receiving,393144.35,2024-02-24 18:37:15,Harrisonfort,d03b8867-c71b-422a-b089-870754415764,failed,False
+3b8d8f2e-b695-4fa1-8824-a9972a3860f1,92e77c43-905b-4e08-b56e-f8fba22fa768,purchase,149745.05,2021-01-07 15:15:18,West Rickytown,d03b8867-c71b-422a-b089-870754415764,success,True
+cb74e757-327d-41cf-ad8a-c8969420b82e,6ad1344f-733e-4179-8fc4-0d7298946c9b,sending,984932.06,2020-09-24 10:34:56,West Kevinville,d03b8867-c71b-422a-b089-870754415764,success,True
+ee7d3d50-ccba-432d-841c-fb7dfc1b3ffe,42ac8977-2d8f-4ed0-8fa1-5eb99581ffff,refund,534583.85,2020-12-11 16:20:33,New Jasonton,d03b8867-c71b-422a-b089-870754415764,pending,False
+173beeaf-68bc-460b-8ff2-32844ca80597,f71f3434-a33c-4697-8bd9-4479b037d615,transfer,56515.08,2023-08-05 23:10:56,Johnland,d03b8867-c71b-422a-b089-870754415764,success,False
+4b66378a-7032-4475-997c-6337c7f0aeba,564e8d9e-a987-4236-9841-03aa6617aed1,refund,122312.3,2023-04-18 15:19:38,Port Susan,d03b8867-c71b-422a-b089-870754415764,pending,True
+820be181-4e8a-4673-ac93-b47a3e3c3831,6e835dc7-c1dd-4138-b633-7ee2e8f4f061,transfer,271618.67,2024-07-13 14:44:30,Christopherview,d03b8867-c71b-422a-b089-870754415764,failed,False
+de48e31e-2290-4e85-ba87-155ab22a85d2,78c65172-cf20-47e7-bd31-5d7327e1d750,transfer,390365.53,2021-11-05 05:00:17,Holdenhaven,d03b8867-c71b-422a-b089-870754415764,pending,False
+19d00e5f-4bdc-4cb9-8bee-ef62d394dc9e,9edfabd6-3691-4733-93f6-f07c36190e52,transfer,257934.98,2021-07-05 14:52:36,Jennaland,d03b8867-c71b-422a-b089-870754415764,failed,True
+d0e0350f-f798-46eb-abf7-c42c33b82f75,ca23b94c-a92f-4899-9cbb-068da20fd70a,purchase,183827.33,2021-02-25 16:57:50,East Hollyton,d03b8867-c71b-422a-b089-870754415764,success,False
+b47a182f-83dd-4b28-b6d9-94674eb832d3,bb7a23af-4f2a-40bc-9541-b320ef77ebef,refund,665065.63,2023-09-30 15:40:43,Robertburgh,d03b8867-c71b-422a-b089-870754415764,failed,False
+9c7b3a86-c019-4358-9698-a271183dc172,246eac9a-b6b6-4c69-9500-a3660f9a4365,transfer,895491.48,2024-07-19 19:44:19,New Victoriabury,d03b8867-c71b-422a-b089-870754415764,failed,True
+4a138ab6-e286-4393-8c62-82b98f3376fe,46ee4785-1b1b-446b-9097-2568407adb11,refund,954982.67,2022-12-26 14:51:30,South Cody,d03b8867-c71b-422a-b089-870754415764,success,True
+cecc0e97-002c-4db8-b6c3-f493fb550459,826a1abd-aba0-4da3-aee4-b3f908a3d44d,sending,613726.04,2020-12-25 14:16:07,East Mary,d03b8867-c71b-422a-b089-870754415764,failed,True
+6c52a6bc-b104-4784-9c18-8a801a33d0c2,1652ea1c-55d0-4c4f-b7ef-a7b26a59b1be,transfer,440876.16,2023-03-25 20:44:17,Hawkinsmouth,d03b8867-c71b-422a-b089-870754415764,failed,False
+2e69666f-9fcf-48cb-ae74-74df1d023eea,4766b8f1-a305-481d-aa51-c8425d48391b,sending,513400.35,2024-04-11 19:56:02,East Colleen,d03b8867-c71b-422a-b089-870754415764,failed,True
+faa599fc-1af8-4d60-b5a4-57338c983dcf,083f5f77-c9d0-4807-984a-a6787c6ac90f,refund,419814.81,2023-05-18 10:21:02,Stephenshaven,d03b8867-c71b-422a-b089-870754415764,pending,True
+52ba8777-1614-434c-b198-85f8b5d3b669,32f362fa-73e9-4a87-b79c-95975d856954,sending,546237.66,2023-05-16 15:47:54,West Brittany,d03b8867-c71b-422a-b089-870754415764,pending,True
+0e6607c6-1a59-44c3-8e34-cca481cb34d1,ae51fb89-b090-4703-9b97-0e5aff8cd369,refund,604308.25,2023-01-26 14:29:31,Lake Jeffreyberg,d03b8867-c71b-422a-b089-870754415764,success,False
+4228e70f-7f07-4320-a25a-1921d93c1bce,6e6b79f9-a2bc-424e-b707-985af49c0b03,purchase,741397.78,2024-08-01 05:02:51,New Meganburgh,d03b8867-c71b-422a-b089-870754415764,failed,True
+47c5963e-52d6-4f94-948c-76e49baa77ec,45307795-fa38-4a0e-97cc-76a01544ec1c,transfer,388742.37,2023-11-10 06:17:13,South Catherine,d03b8867-c71b-422a-b089-870754415764,success,False
+f3caf669-5a31-4ae1-89ad-80c9d3396cdf,0f8fa9f5-7695-4d37-b465-ea58c4490c7d,purchase,729151.11,2023-10-05 04:03:13,East Sydneyville,d03b8867-c71b-422a-b089-870754415764,success,True
+4fdf87a2-cb47-4e2a-abb9-9e5036769f14,ada571d5-335c-475d-8f72-850038a44974,purchase,922407.88,2021-10-18 22:01:09,Jeremyside,d03b8867-c71b-422a-b089-870754415764,pending,False
+48181c34-e07a-4f6f-bacf-f75d01d32cec,f33f3e8f-750f-4e08-9475-2e3b369329f5,transfer,604181.97,2021-08-08 21:07:56,Sheilaland,d03b8867-c71b-422a-b089-870754415764,failed,True
+ca8fbdc5-0e90-4585-9a8a-eb20c247e270,d3a7a71f-fdf3-4185-acbb-35fc23a47934,transfer,310624.54,2024-01-28 06:09:15,East Kellyfort,d03b8867-c71b-422a-b089-870754415764,pending,True
+17e963a6-7ec5-4791-8c89-e86ae902be33,1e48f453-5795-4f57-95a6-c4ff854c8b86,sending,313145.15,2021-11-23 18:15:31,Liuport,d03b8867-c71b-422a-b089-870754415764,pending,False
+666ebaa6-a0a7-4c95-9419-8cfbcb3d8532,ee9bef64-6af3-461e-91ba-66926e26cedd,purchase,391064.54,2020-09-22 05:24:23,Perryville,d03b8867-c71b-422a-b089-870754415764,success,True
+843b245c-a4b2-4030-9a03-08e8835e1627,218f55cc-f62c-4239-ab14-95ef4e2cd999,transfer,73738.38,2024-07-01 23:41:24,Jacksonmouth,d03b8867-c71b-422a-b089-870754415764,pending,False
+88fafb74-3ef9-448c-8ae3-21a6e8e19b7b,59131901-ea24-41e8-b0ce-1eeda4543325,sending,409086.76,2023-05-18 22:40:18,Port Ashley,d03b8867-c71b-422a-b089-870754415764,success,False
+db720b52-acd1-4c6f-b744-414e385dc48c,55b7c729-b095-4329-935d-0a9e2efffcec,receiving,967110.89,2022-10-08 10:01:16,South Samuel,d03b8867-c71b-422a-b089-870754415764,pending,False
+044dd829-79d3-4207-b733-b2b5b7f0980f,d648dfeb-cc7a-4534-94db-32469a3397ed,purchase,212292.88,2023-02-03 05:43:57,New Stephen,d03b8867-c71b-422a-b089-870754415764,success,True
+3574019c-09a2-462b-8ee6-418e924c9205,521b445c-a5c3-4888-a9a4-146db9e0b49c,sending,49724.43,2021-09-11 13:13:02,Potterstad,d03b8867-c71b-422a-b089-870754415764,success,False
+f6d04f09-9d63-49eb-b8ef-3d980fdc5e7f,97a2dc84-11b6-40b5-ac4e-b96f357a9a25,transfer,745556.24,2023-08-03 21:47:11,Port Allisonmouth,d03b8867-c71b-422a-b089-870754415764,success,False
+ab67e643-5e6b-4835-b345-5c241e6f12c9,147f8a57-2436-4ca2-9196-81ca7385f58f,purchase,286671.9,2023-12-22 15:37:07,Jennifermouth,d03b8867-c71b-422a-b089-870754415764,success,False
+88e189a6-5ea8-4b95-ab7f-5e63e90dd4ec,2196b0b4-b8ce-4069-90c4-cbdef0ac9a84,refund,874453.4,2023-02-08 02:05:01,Lake Richard,d03b8867-c71b-422a-b089-870754415764,pending,True
+c2e43b3c-b5bb-4dfc-8473-9898fe7663ea,8f1e4418-fb36-46dc-b379-ed41a1ad648b,transfer,752176.2,2022-10-13 18:00:07,Christopherport,d03b8867-c71b-422a-b089-870754415764,pending,True
+64ae4e65-b017-4019-946e-8e3232debe1e,d04635e7-9a1c-46c0-b679-faa05403ebc5,refund,423546.22,2023-10-11 02:51:01,Reevesborough,d03b8867-c71b-422a-b089-870754415764,pending,True
+e249236a-28c8-4da1-9ff2-2903dea34727,3720721e-2678-4c33-874f-adedfe1469c5,sending,530635.76,2021-08-04 08:25:02,Atkinsonland,d03b8867-c71b-422a-b089-870754415764,failed,False
+b7e9d6dd-1971-42b9-b99f-1a09b9c2a20f,e1b85512-949d-438b-95d2-985fa199b92a,refund,925132.86,2024-07-10 14:25:23,West Beverly,d03b8867-c71b-422a-b089-870754415764,success,True
+c86f5f77-cd22-48fa-b6e0-2fc901972299,1b6d3fd7-ec33-414d-bb44-dcb69b82771d,receiving,477866.76,2021-11-07 05:30:52,West Molly,d03b8867-c71b-422a-b089-870754415764,failed,True
+65da3eb9-e618-4411-b6e9-15558c0a3643,91b0e2e5-6a24-4020-b3bc-ed847c5e4ffc,transfer,624641.75,2022-03-21 22:05:01,New Alejandro,d03b8867-c71b-422a-b089-870754415764,failed,True
+51d0a881-34ed-42a6-8eab-32a65c4447a6,fcddd097-2b2e-4d4b-ae2d-ba47f27f99eb,purchase,145648.53,2022-08-08 20:11:55,East Jerry,d03b8867-c71b-422a-b089-870754415764,pending,False
+5377804b-c5fa-4575-ad96-d33e3d2a5961,22649408-6d0c-47d5-a12d-13ea996d038d,purchase,588798.09,2024-07-02 17:02:46,Davismouth,d03b8867-c71b-422a-b089-870754415764,success,True
+90e5961d-f47f-4a14-8c47-01a82a6fdfc5,791405f4-bd78-4002-8bad-be381e3c75c1,refund,190775.24,2023-12-12 23:05:19,Colonborough,d03b8867-c71b-422a-b089-870754415764,failed,False
+474842d5-69ef-4fa7-8619-91f3278aca58,1b867fc7-7f9d-496e-b523-e6a58c5591f2,purchase,322482.1,2022-08-07 11:36:32,Cabreraville,d03b8867-c71b-422a-b089-870754415764,success,False
+8a5291d0-445b-47fa-b3c3-33a81f7dfe7d,2f29c259-a767-436f-b21a-c668bba06c6f,transfer,935391.88,2023-03-13 20:51:42,East Timothyberg,d03b8867-c71b-422a-b089-870754415764,pending,True
+5932914e-e4e1-4420-8ed6-71c3dadcc10e,01cc7480-7cab-479b-b7c1-dc1a7951ee22,purchase,896464.81,2024-06-29 01:49:01,Heidichester,d03b8867-c71b-422a-b089-870754415764,pending,True
+35349d71-c3ed-4786-8f8b-c74e742dc998,26ceff3e-4871-44c1-b3ba-944289190295,transfer,341237.35,2023-01-18 21:29:23,East Shawn,d03b8867-c71b-422a-b089-870754415764,success,True
+565a67eb-5a9d-490a-a7f3-46b74bec7250,af00d146-874a-441d-b116-374ac7b3d403,receiving,712218.45,2020-08-21 03:12:24,East Larry,d03b8867-c71b-422a-b089-870754415764,pending,True
+aee70f3f-bc9a-498a-aec5-a8373b7ac50f,1b8f1d46-d0e0-4017-a2ae-731207f20511,receiving,700259.24,2022-01-11 06:21:10,Reyesfort,d03b8867-c71b-422a-b089-870754415764,failed,False
+72a763bd-26c6-4ae2-aea7-9647ea4b687c,a10f9e02-fcbc-48c7-b6ef-1461d5bf0bc3,sending,440106.79,2023-01-06 18:47:47,Karenland,d03b8867-c71b-422a-b089-870754415764,success,True
+8af92979-9dff-4e0c-a854-1e96dddb84d8,1b6d3fd7-ec33-414d-bb44-dcb69b82771d,transfer,638001.94,2021-04-30 22:58:22,East Danielleberg,d03b8867-c71b-422a-b089-870754415764,success,False
+1edd5a48-8a28-4388-a2cb-e6ae1ca922b6,8b1da46b-9b54-44d4-8ceb-0c0276bc2a08,purchase,58969.07,2022-12-10 02:21:59,North Timothy,d03b8867-c71b-422a-b089-870754415764,pending,True
+223596af-47ea-4ece-a911-40a26064cf75,e01e4747-f42b-4ecd-a958-8b6f090a3429,receiving,436220.0,2022-09-11 00:36:09,Lake Matthew,d03b8867-c71b-422a-b089-870754415764,success,True
+b59e0ebe-f6a3-4bbf-aeea-21721ad55a35,c0da712b-e8d9-43d9-9726-c6153d3e0041,purchase,619314.9,2021-05-05 22:46:51,Destinyland,d03b8867-c71b-422a-b089-870754415764,pending,False
+07bf9230-8916-415c-ad37-907f9160588a,024fc6c3-de69-4d22-8d48-87590e6141a2,receiving,674052.42,2023-07-19 22:52:38,Robertborough,d03b8867-c71b-422a-b089-870754415764,success,True
+e61bd2bf-909e-43f9-a0e8-9a03949e6607,755a412f-214b-491f-906e-0c0237f4f7c3,purchase,977011.08,2020-09-09 05:31:22,Taylorshire,d03b8867-c71b-422a-b089-870754415764,success,False
+84789b05-0bd2-449c-b3b6-ca6525867bed,82a9c1ba-01d2-414a-853e-184e57027277,receiving,495654.48,2020-10-22 03:00:56,West Mark,d03b8867-c71b-422a-b089-870754415764,pending,False
+e31e46bb-0569-4c71-b472-d4d378795fa0,6f31b1e8-df91-4709-afaa-ed01287233bc,sending,431101.99,2020-10-19 11:23:12,Johnnyport,d03b8867-c71b-422a-b089-870754415764,success,False
+4834f3ef-443e-4274-9926-a13097569c77,150efe02-d10d-4f09-96ef-facbedbcd18c,sending,280690.78,2024-02-12 11:08:54,New Amberton,d03b8867-c71b-422a-b089-870754415764,success,False
+4c39a690-aec2-4081-8cd0-8c97b67f7813,01cc7480-7cab-479b-b7c1-dc1a7951ee22,refund,85744.71,2020-12-06 22:41:33,Wilsonshire,d03b8867-c71b-422a-b089-870754415764,failed,True
+6e5abfbc-95bc-46c4-8e02-a46addac8071,ada571d5-335c-475d-8f72-850038a44974,transfer,145648.16,2022-11-08 20:24:21,Dennishaven,d03b8867-c71b-422a-b089-870754415764,failed,True
+aae36618-8270-411b-9ad9-02add20315a0,878ea58b-668a-411c-af48-7c804b78422d,sending,471692.16,2023-11-06 09:42:34,Reginaldville,d03b8867-c71b-422a-b089-870754415764,success,False
+325d8f00-6d7b-418a-ae8d-6c3941223b5e,0379b3da-f343-4d98-8acd-2eeba7cc983d,sending,439250.18,2022-06-26 06:45:17,Lake Ericberg,d03b8867-c71b-422a-b089-870754415764,success,False
+5f60a8ce-acc0-4d01-9ec5-6c2cc52ba6d3,1a90aa79-728b-4966-baef-7f54091909ee,sending,162521.72,2022-07-16 07:18:42,Alexanderberg,d03b8867-c71b-422a-b089-870754415764,failed,True
+70f4755d-7001-4672-b6f7-2e1daf6bb611,333a3e11-33dd-4f62-93de-2e6fc0d856e7,refund,708252.72,2022-09-14 12:20:46,Josephville,d03b8867-c71b-422a-b089-870754415764,success,True
+8ab1dcee-c8a2-4a18-bb29-08de914e2f14,33908142-b38c-4ece-9892-c7a5c2a10f80,transfer,938794.83,2020-09-07 11:08:18,Port Stevenport,d03b8867-c71b-422a-b089-870754415764,pending,True
+b483d643-9d8c-4731-9a2e-e1cb258f653d,fcddd097-2b2e-4d4b-ae2d-ba47f27f99eb,refund,270830.84,2023-04-08 22:40:27,Hallberg,d03b8867-c71b-422a-b089-870754415764,pending,False
+f22c1373-a8e6-4b8c-b0f6-c69564c8ccd3,e4fefc9d-3341-49f3-8f04-188a12d8c3aa,receiving,171654.3,2023-11-02 13:51:08,Stoneborough,d03b8867-c71b-422a-b089-870754415764,success,True
+a8c314e1-d56b-4a5d-bb78-ad4a23483409,f0af7a13-391d-43b2-98e6-d13e686a1ed1,sending,344455.93,2022-01-28 23:09:58,Contrerasville,d03b8867-c71b-422a-b089-870754415764,success,True
+1037c1fa-fa35-4d49-a71b-292ab0929ed1,d54c858c-1879-421a-993e-b5fa472cbe2d,receiving,226868.61,2022-01-04 22:27:48,New Patrick,d03b8867-c71b-422a-b089-870754415764,success,True
+8e954c7d-f3dd-4752-9716-21edbc9d726c,eac057cf-1164-4f1d-b9cd-c5b379404e27,transfer,944412.67,2023-02-10 04:28:28,Carrollfort,d03b8867-c71b-422a-b089-870754415764,success,True
+40feaff7-f3b6-47cd-a8de-b6c99058b089,8f1e4418-fb36-46dc-b379-ed41a1ad648b,sending,928173.3,2022-12-08 23:17:19,North Michaelton,d03b8867-c71b-422a-b089-870754415764,failed,True
+0194f59e-5380-4d3a-83d4-acd671dfa3cc,edc875bd-584a-471e-a489-fe4416dcdcdb,refund,929159.17,2022-11-09 12:57:12,West Susan,d03b8867-c71b-422a-b089-870754415764,success,False
+0d844085-0cb1-45c5-b64d-3e51962935cf,8823bb19-6c26-4179-bbb6-643ac83d0032,sending,500372.36,2023-12-01 08:55:47,Wongton,d03b8867-c71b-422a-b089-870754415764,success,False
+8743e6a9-32fc-4774-8cb7-5c19c13ac6ce,1c5c0244-bde0-4cc5-8a85-3609f7949659,purchase,485121.76,2022-02-17 11:39:22,Rowemouth,d03b8867-c71b-422a-b089-870754415764,failed,False
+3bd4fc3e-adca-453b-9249-9a100e001afc,521b445c-a5c3-4888-a9a4-146db9e0b49c,transfer,416548.17,2021-11-21 03:01:43,Lake Davidbury,d03b8867-c71b-422a-b089-870754415764,failed,True
+2a4eaace-43f2-4c93-a817-47fdbf1f1064,a78b1f5e-bbd4-4f29-944f-6afc876aed43,receiving,365698.38,2023-09-14 23:58:38,East Tanyachester,d03b8867-c71b-422a-b089-870754415764,success,True
+6a7aec4d-69aa-4204-9fab-f2575fee4da1,0a8a0bb7-cd6d-4a60-895f-27677431d153,purchase,164894.41,2022-08-03 06:25:49,Smithburgh,d03b8867-c71b-422a-b089-870754415764,failed,False
+39975a2c-efa2-4849-a480-bf4e1507acdc,8f1e4418-fb36-46dc-b379-ed41a1ad648b,refund,199488.02,2020-11-24 07:03:39,Olsonfurt,d03b8867-c71b-422a-b089-870754415764,pending,True
+7c40517b-7350-4174-bbe7-5f2f217105f8,510801b9-9cab-4ce3-9d7f-5f22bce937b6,refund,762513.59,2024-06-24 20:22:44,Derrickfurt,d03b8867-c71b-422a-b089-870754415764,pending,False
+3efd95b2-41db-4f3f-b6ae-803cb4757e68,9da6f9a1-0131-4352-8e64-ad41f5dce921,sending,843451.99,2023-07-06 14:51:38,Heathermouth,d03b8867-c71b-422a-b089-870754415764,success,False
+24b9051b-532c-4929-9c7d-008e173a9b5d,628dd70f-16f0-4b57-8f77-03a8d623fc44,receiving,612159.81,2023-10-09 18:18:17,Juliahaven,d03b8867-c71b-422a-b089-870754415764,pending,True
+39f1a35d-105e-4df0-8d57-3fb5618a8474,9936f8f6-7cb3-4758-98bc-305414813ed2,refund,236271.52,2023-06-20 11:09:33,Oliverchester,d03b8867-c71b-422a-b089-870754415764,failed,False
+d4404cc4-b496-42ee-a928-63df582bdd8b,0def01cd-596c-4ade-baa1-685e4b1d20b7,sending,758139.14,2023-02-14 07:24:13,South Anthonyberg,d03b8867-c71b-422a-b089-870754415764,failed,False
+bf22f218-b5f4-4a94-aaa1-698899c94057,b5412736-028f-4c0a-9547-647e6051a47f,receiving,14511.4,2023-09-07 13:53:41,New Crystal,d03b8867-c71b-422a-b089-870754415764,failed,True
+6fd83448-9cc3-49cd-bd30-f82cbd2a41ff,9f56d1be-f2be-4212-b947-79d1dd9d5fb3,purchase,898625.31,2022-01-23 03:03:16,Amandabury,d03b8867-c71b-422a-b089-870754415764,pending,True
+9fa73aaf-7dc7-478a-9f29-6f076fcbd341,6590c7f1-4e57-4e26-bdf5-49e0588d1a58,transfer,49398.19,2023-03-09 08:53:17,Jackieport,d03b8867-c71b-422a-b089-870754415764,failed,True
+9acd971a-7ec5-4587-b544-5f009c8f71e5,701ff7fd-ed03-49e4-8a19-aab74270bd59,refund,928026.6,2020-08-16 19:08:50,Port Kevinfurt,d03b8867-c71b-422a-b089-870754415764,failed,False
+e6e81231-8053-47f8-a8c9-3e5ad73829e3,a4fbe3a1-f7e9-43aa-95ae-f489d945f195,purchase,842372.05,2022-03-09 08:58:39,South Brendafurt,d03b8867-c71b-422a-b089-870754415764,failed,True
+d3f0fcf0-91d5-453d-9eb7-ae211d22629d,0409b339-1e78-4fff-8746-69092b0eca7a,refund,548682.54,2020-12-24 02:12:01,North Brenda,d03b8867-c71b-422a-b089-870754415764,failed,False
+a9fd118f-ab6b-45ba-8ddf-fb9b71ac8371,97d87507-491d-4ff1-9d08-a2a5e4e39321,transfer,870931.49,2024-04-18 22:05:56,Aprilmouth,d03b8867-c71b-422a-b089-870754415764,pending,True
+aed41407-c352-4e1f-b199-b5efe5dc6446,5df5eef7-4c42-40f7-8cb6-6c9acaaea36f,purchase,878691.0,2024-03-07 20:53:29,Durhambury,d03b8867-c71b-422a-b089-870754415764,failed,True
+3c467d4f-dfae-4d29-af22-ccde4a6ef379,0d539a13-bd56-43f1-b5ef-6267a0a3c1c3,purchase,813847.68,2021-02-07 05:08:48,Jonesborough,d03b8867-c71b-422a-b089-870754415764,failed,False
+7822e64a-ca35-4449-806b-056f177c1d06,95992701-4b3c-4de5-974e-4cd51bd2e222,transfer,596396.27,2024-06-01 15:13:03,Howardtown,d03b8867-c71b-422a-b089-870754415764,failed,True
+6f016243-5644-4e2d-a7eb-27df19dfd442,6d0fba08-034b-4a02-b1f0-6e735d798c46,sending,219161.81,2020-09-11 06:34:28,North Kevin,d03b8867-c71b-422a-b089-870754415764,failed,True
+90c83f14-529c-45a6-8314-3979d833da12,4d1ddd8e-72cc-4c54-82f0-b8046acf35a9,purchase,318367.65,2021-06-07 23:09:26,North Lacey,d03b8867-c71b-422a-b089-870754415764,pending,True
+417d89ac-dc50-452d-8e25-74845c04f763,ada571d5-335c-475d-8f72-850038a44974,refund,64234.46,2023-07-20 22:08:39,Lake Matthew,d03b8867-c71b-422a-b089-870754415764,success,False
+6ae8e76b-b14a-4823-b29c-3b2f58427768,46ee4785-1b1b-446b-9097-2568407adb11,transfer,274776.22,2024-02-20 12:13:05,Mackenzieberg,d03b8867-c71b-422a-b089-870754415764,pending,True
+6344747f-aecd-477b-844d-ce435ed4815b,406a5843-d0e2-4fb7-98da-5db06145327f,transfer,683682.74,2022-03-01 16:25:21,Sharontown,d03b8867-c71b-422a-b089-870754415764,failed,True
+63c866b8-64f8-4ee0-ae79-cb388bf504ad,251c1e82-6864-4f40-a054-ff5fbeabf8ac,transfer,299408.82,2024-03-27 21:30:55,North Desiree,d03b8867-c71b-422a-b089-870754415764,pending,False
+5b43e366-0917-4b44-a333-b3551b95c1b5,7c4c7efa-cf05-418a-ae0a-0c82024a9c28,refund,604264.54,2022-07-04 03:25:02,Hillhaven,d03b8867-c71b-422a-b089-870754415764,failed,True
+b99357c5-ae81-413a-b9a1-a0edc5abdf64,64dd5ff1-1e0c-49f5-b728-9f06b6aef624,refund,996607.34,2024-07-10 07:00:01,New April,d03b8867-c71b-422a-b089-870754415764,failed,False
+4743747e-bcc8-496a-8381-cb454991b22c,85807ede-1f1b-4f15-841c-9f934bba5e05,transfer,499606.62,2021-03-29 11:39:40,Roseborough,d03b8867-c71b-422a-b089-870754415764,failed,False
+cc95e2e2-8036-450a-9348-efbfa662b334,5fd23152-9ffa-455b-b78c-4208184315ba,transfer,139429.82,2021-12-26 05:54:01,South Melaniechester,d03b8867-c71b-422a-b089-870754415764,failed,False
+ed1d18ec-84ec-4e2b-ac29-780127e12ab2,c87c11d0-666e-4ced-a817-761133c786db,receiving,149151.4,2024-08-04 14:51:39,Armstrongton,d03b8867-c71b-422a-b089-870754415764,pending,False
+74d58c52-69dc-4b15-a119-7a710cfbf0f9,f953f5d6-96d6-4995-a647-0f0252a4f226,sending,711562.01,2021-07-01 19:02:46,Allenfort,d03b8867-c71b-422a-b089-870754415764,pending,True
+c1c94a0a-03bc-42f0-863f-873abae24021,e9b04b20-80c0-48eb-82a4-ef02c7596183,receiving,242659.93,2024-03-21 01:06:41,Howeberg,d03b8867-c71b-422a-b089-870754415764,pending,True
+23ffee9b-44db-40a1-afb1-eeb1ad99ed19,61057d63-eafc-49e2-bc13-3f49fb7ae88f,purchase,340219.3,2021-04-19 08:26:02,Richardchester,d03b8867-c71b-422a-b089-870754415764,pending,True
+83d95835-6dca-4d1b-98f4-24f5450595a1,1e1cf311-85b2-4f22-bd54-409f7798c4bb,sending,859229.3,2024-01-22 03:31:10,Williamsville,d03b8867-c71b-422a-b089-870754415764,pending,True
+260ab8ed-d2e0-45b9-9fea-93502aa4a1c7,6e835dc7-c1dd-4138-b633-7ee2e8f4f061,receiving,886640.62,2021-08-22 01:20:21,East Aaron,d03b8867-c71b-422a-b089-870754415764,pending,False
+44ec8311-0e58-4188-bf65-8ef97ed0e19f,59162751-e04b-46d4-98ba-fb2d242eb02f,refund,906238.26,2024-01-29 11:06:01,Lake Erica,d03b8867-c71b-422a-b089-870754415764,pending,True
+c2147a84-e142-4aad-b60a-38dd2964467b,5efb2470-35e8-4c18-8a91-b4aa19a58df6,receiving,298576.53,2020-09-23 19:27:35,South Kimberlychester,d03b8867-c71b-422a-b089-870754415764,failed,True
+8dd660fd-b902-4326-ab93-2f6418c31a86,df856e03-6609-4aeb-9d3b-a31aab8ac47a,refund,684819.45,2023-08-14 19:57:32,East Michelleberg,d03b8867-c71b-422a-b089-870754415764,failed,False
+af11fcbe-189f-43ee-a160-02b72d3dcdad,42e6fd40-be14-4b95-bc0f-88a89f6c6e6d,sending,119960.83,2023-03-06 08:55:20,Oliverstad,d03b8867-c71b-422a-b089-870754415764,failed,False
+b3837c70-076c-4db2-a263-8e0d77330162,fd20918f-e622-45f2-9d6b-5abce0095d4d,transfer,506360.27,2022-10-04 23:23:12,Stephanieland,d03b8867-c71b-422a-b089-870754415764,pending,True
+b8604ab2-2a47-4217-84a4-3a92950b30b0,24500840-02a5-4794-9968-c2bb588b5917,refund,473318.15,2021-04-30 06:41:50,Orrmouth,d03b8867-c71b-422a-b089-870754415764,failed,False
+66715bd4-9909-4bc6-83b6-22ee9a890a92,75c2fe50-a1bc-4e57-963e-03597986a17a,purchase,852235.24,2024-06-27 12:11:38,Lake Elaine,d03b8867-c71b-422a-b089-870754415764,success,False
+af510495-aaaa-48bc-9f89-ca79a21ecdef,a9749008-e4c9-4659-ab4f-17cfffbb98e6,sending,754242.35,2020-10-01 10:09:23,West Stephanie,d03b8867-c71b-422a-b089-870754415764,success,False
+1143f497-ec04-43a4-a8df-15f4167eb8b1,7120f093-4df5-4549-b98f-b9ffccbb16da,purchase,816916.03,2023-05-25 13:32:55,East Christopher,d03b8867-c71b-422a-b089-870754415764,success,True
+5059c1dc-d0f3-4f77-8a1f-0b4598e340e3,8512941c-f42d-4d0b-9c76-e918c5a14505,purchase,930409.89,2024-01-19 08:53:28,Port Jeremy,d03b8867-c71b-422a-b089-870754415764,pending,True
+a6431411-8ce0-4468-a152-a591d0f0c9cb,91b0e2e5-6a24-4020-b3bc-ed847c5e4ffc,transfer,648591.25,2023-12-21 19:57:48,Karenville,d03b8867-c71b-422a-b089-870754415764,pending,False
+eb428abe-9d8c-429d-b4e6-09eb1e0aa20e,333a3e11-33dd-4f62-93de-2e6fc0d856e7,refund,705004.68,2022-11-17 13:06:35,Robertport,d03b8867-c71b-422a-b089-870754415764,failed,False
+18c3a503-c44d-4a08-9b18-95cd3400d36b,8b4ffe88-536a-4855-8808-9f1fd78ee3e3,refund,218644.96,2023-10-13 17:11:47,Port Jacobside,d03b8867-c71b-422a-b089-870754415764,success,True
+b4459269-2490-4a88-bc3a-a28696065468,5fd23152-9ffa-455b-b78c-4208184315ba,refund,40198.91,2021-04-18 07:50:03,Port Dawn,d03b8867-c71b-422a-b089-870754415764,failed,True
+9767a38c-23f0-407c-9081-06fa3b784129,024fc6c3-de69-4d22-8d48-87590e6141a2,receiving,868168.1,2023-01-21 16:28:10,Kristinefort,d03b8867-c71b-422a-b089-870754415764,failed,False
+2715bfe3-5f54-47ed-9e5e-dff55c57ff13,725f4c96-0041-41e8-8b0a-504328e3db6e,refund,927589.81,2024-01-12 14:27:33,Andersonshire,d03b8867-c71b-422a-b089-870754415764,pending,True
+88e35a6d-656f-4d8f-b5a3-98747b6bca1b,1a19ebf4-50cd-4482-8738-00c11dea11ab,purchase,835660.45,2021-05-05 12:46:38,Toddview,d03b8867-c71b-422a-b089-870754415764,success,True
+df561746-de3a-43c5-a517-d791254b4735,edcb99ea-1aff-4006-800b-1225a86a075e,refund,549442.91,2021-03-15 10:14:24,South Natasha,d03b8867-c71b-422a-b089-870754415764,success,True
+7d2cb71e-dde5-44fc-ac78-24b8f0724a46,d1eb9ebe-5de4-4336-a43a-f71d1b46e62e,purchase,194538.35,2023-04-09 15:41:44,Benjaminton,d03b8867-c71b-422a-b089-870754415764,pending,True
+d2418c59-be0d-4951-8524-1008ff784f13,521b445c-a5c3-4888-a9a4-146db9e0b49c,transfer,903267.91,2022-03-06 10:27:07,West Kathleen,d03b8867-c71b-422a-b089-870754415764,pending,False
+75a82194-3ac7-4b11-a5ba-2a4afe4d5ca2,d0f59a25-f9ff-4f3f-a11f-800cdef2de77,transfer,846039.7,2023-01-04 13:00:29,Lake Joshuatown,d03b8867-c71b-422a-b089-870754415764,pending,True
+1d4c3534-cfe6-4470-be80-59d15f29358d,510801b9-9cab-4ce3-9d7f-5f22bce937b6,transfer,206239.8,2024-07-16 04:17:15,Geneland,d03b8867-c71b-422a-b089-870754415764,failed,True
+ceb75005-d9b3-45c8-9ffb-563654402822,5696d9e3-aaf9-4fef-bde6-e802548ea285,refund,929979.89,2023-06-01 00:00:21,New Elizabeth,d03b8867-c71b-422a-b089-870754415764,failed,False
+a0b881d5-7e60-4790-b3c1-50c4879bf794,178f5b73-6409-4acc-a3f7-09a3a3628e79,sending,397298.39,2020-08-16 11:59:03,North Kevin,d03b8867-c71b-422a-b089-870754415764,success,False
+ff94ae87-bef5-4495-8988-f4d3e29a7ce6,a698fa70-2cd1-482a-beff-62ca817e4911,transfer,441456.73,2022-07-15 01:46:04,Port Soniafurt,d03b8867-c71b-422a-b089-870754415764,pending,False
+dfba8d71-6b2e-4fcf-b75a-af29662deda9,2e33b513-a638-46da-8d7e-33ccdb14393f,sending,897969.36,2023-03-28 01:36:59,Mooretown,d03b8867-c71b-422a-b089-870754415764,pending,True
+09e90a05-7a5a-4ef0-850e-3bfca92a5be2,d0f59a25-f9ff-4f3f-a11f-800cdef2de77,sending,383212.95,2020-08-20 04:49:12,West Chadbury,d03b8867-c71b-422a-b089-870754415764,failed,True
+2113e7e8-0e0a-4348-b591-e7b7307f2c7e,aa273639-18ee-4771-9b67-5c2259497f67,receiving,202335.45,2024-01-11 19:54:18,North Chad,d03b8867-c71b-422a-b089-870754415764,success,False
+4967fdae-51c2-4755-9d2c-7c3f53b72786,2f48fa37-5145-43f4-a5e6-28037f500485,purchase,936762.1,2022-10-27 16:02:39,Port Kim,d03b8867-c71b-422a-b089-870754415764,success,True
+26cf71d8-220d-4003-9ef4-9db64958c3b5,043d05be-dcbd-4fd4-8417-c695f03675ec,refund,805945.65,2024-06-26 11:58:40,South Steven,d03b8867-c71b-422a-b089-870754415764,success,False
+b44a1fff-cf2b-4f09-b967-d83846b663cf,eda00a24-6cdd-4ea6-9d96-3d64fc8e2846,transfer,508870.67,2023-12-15 23:24:54,Lorishire,d03b8867-c71b-422a-b089-870754415764,success,False
+79d0dee5-fc98-439f-9e77-57b98b04f211,0152a0e3-ca91-47f8-ad2d-85f9a125ef18,transfer,664454.77,2022-11-09 19:00:38,West Amandaville,d03b8867-c71b-422a-b089-870754415764,success,False
+3a948305-3928-4358-9fb6-f2494aed677c,44ada85c-d9cd-4340-82a0-7e65b32c80f7,sending,765328.05,2021-11-18 08:43:15,Lake Joshuatown,d03b8867-c71b-422a-b089-870754415764,pending,False
+1e17bd18-99d8-4565-884f-d68aaf504565,d1c90bdf-92a1-4fed-829f-129dfa36d24a,transfer,772090.94,2022-06-13 21:58:09,Pennyport,d03b8867-c71b-422a-b089-870754415764,success,True
+d5e11bb7-e7b6-4f12-aac4-6b0a6f76abd3,0346050b-6267-40c8-a5af-dc94059ac935,purchase,906404.65,2021-01-29 21:34:40,Joseville,d03b8867-c71b-422a-b089-870754415764,pending,False
+5a7aca2d-2a32-48e0-9f86-ef60a23511a0,046878eb-c7d8-4559-b9d7-e110b13e76a4,sending,324694.87,2022-06-29 10:35:40,New Jeremychester,d03b8867-c71b-422a-b089-870754415764,failed,True
+4573e369-1da0-429b-a124-f1c1f68e637a,c8f97cf9-39de-4c19-88dc-6aeb81626cf1,sending,79735.2,2021-02-18 22:34:58,North Amy,d03b8867-c71b-422a-b089-870754415764,pending,False
+4c2ae49a-9667-4c9a-aab6-067d2d1ab862,3720721e-2678-4c33-874f-adedfe1469c5,refund,684417.18,2023-02-26 17:09:06,North April,d03b8867-c71b-422a-b089-870754415764,failed,False
+d53e65da-5ee4-43a6-93c2-23e77b3d0faa,ae51fb89-b090-4703-9b97-0e5aff8cd369,transfer,987228.78,2021-06-06 03:23:19,North Kelly,d03b8867-c71b-422a-b089-870754415764,success,False
+75d1e365-82e0-46af-b04a-c456924fc0e3,dc50171b-93b2-4a4e-9938-f3a18436d8ea,purchase,768585.24,2020-11-29 08:08:27,Vazquezshire,d03b8867-c71b-422a-b089-870754415764,pending,True
+53957d4e-d307-4e35-8a6d-64479f9bbab5,d3358a73-f064-4653-bcb3-0b2f430e2ef9,transfer,225182.46,2021-03-09 12:53:11,West Erinfurt,d03b8867-c71b-422a-b089-870754415764,success,True
+2dcf3b95-6c10-4b62-84cb-31dc4e2a3090,4223a6f5-4a2d-4fee-8ec8-2315ced6f6ec,purchase,153472.15,2022-09-23 03:23:29,Shawnborough,d03b8867-c71b-422a-b089-870754415764,success,False
+ecafb41b-cb49-403c-acf1-58b574ed1104,c87c11d0-666e-4ced-a817-761133c786db,purchase,675509.82,2024-06-11 20:17:28,Joshuastad,d03b8867-c71b-422a-b089-870754415764,success,False
+df8946dd-0c11-4466-956f-c96339050af3,628dd70f-16f0-4b57-8f77-03a8d623fc44,transfer,619821.12,2021-08-09 08:01:28,Haydenberg,d03b8867-c71b-422a-b089-870754415764,success,False
+ad4b79ea-37db-41f0-812e-5f3f166d474e,299560ce-ab0b-4a36-9034-5796b012cc32,receiving,907014.26,2023-07-03 09:22:01,East Kathryn,d03b8867-c71b-422a-b089-870754415764,pending,True
+545fd779-0804-4914-856e-8da6897f8576,28b63c4d-b988-496d-a69c-1ef77ef687c5,refund,669744.54,2022-11-17 07:45:45,Lake Jefferystad,d03b8867-c71b-422a-b089-870754415764,pending,True
+16358d62-df1d-4d88-909a-e90f21fb9928,1652ea1c-55d0-4c4f-b7ef-a7b26a59b1be,sending,183815.26,2022-05-26 20:46:46,Morganshire,d03b8867-c71b-422a-b089-870754415764,pending,False
+bb3de663-cf6d-4d8f-a70e-2de0632caaba,09627347-3967-4fbf-b899-0296d173b95b,sending,886343.63,2021-09-30 12:06:21,Vasquezbury,d03b8867-c71b-422a-b089-870754415764,failed,False
+5600c89e-ef69-4be2-ba48-981afdb67cd8,ca23b94c-a92f-4899-9cbb-068da20fd70a,purchase,910454.95,2022-08-01 21:19:13,Noahtown,d03b8867-c71b-422a-b089-870754415764,failed,False
+d7a1f0a9-e96f-4735-b4b2-d166b689953e,d54c858c-1879-421a-993e-b5fa472cbe2d,refund,955016.96,2022-03-27 02:06:06,South Emilyfort,d03b8867-c71b-422a-b089-870754415764,success,False
+fb3e6279-73bf-4877-8a76-b3453494d5f5,48381837-4cc7-49f9-9ca3-c8eb68e84d5b,receiving,487819.9,2020-09-24 22:58:27,New Angela,d03b8867-c71b-422a-b089-870754415764,pending,True
+fa151437-b379-45c4-adbe-c602b084b572,b3b6649f-114a-4629-9605-a1bb798e3030,transfer,634153.27,2023-08-21 06:36:02,Jennifermouth,d03b8867-c71b-422a-b089-870754415764,success,False
+b07bba48-7e1c-47cb-a470-ab7477df570b,b53e82e7-ef3e-4e57-b15c-8a975bd5537a,sending,3512.13,2021-07-05 05:03:34,Goodwinhaven,d03b8867-c71b-422a-b089-870754415764,success,False
+0a011387-3175-4f3a-b1a6-d55bee59e560,fa6eecc9-a6a1-44a5-9ebf-28a9799aba37,sending,174193.31,2021-10-30 08:32:41,West Elizabethmouth,d03b8867-c71b-422a-b089-870754415764,pending,True
+9919e078-8485-4c73-9fd3-edadee541013,e9b04b20-80c0-48eb-82a4-ef02c7596183,purchase,25486.93,2022-01-09 10:38:37,Waltersmouth,d03b8867-c71b-422a-b089-870754415764,pending,True
+056ba2d3-73b1-4710-a511-1cd5474868b5,e9b04b20-80c0-48eb-82a4-ef02c7596183,refund,68991.2,2021-11-30 11:50:19,New Christinaberg,d03b8867-c71b-422a-b089-870754415764,pending,False
+a49407cc-4f89-45d0-a1b0-14724c7025bc,37d54f92-6157-4fcc-b364-0a0fa3da1b2e,purchase,213489.32,2022-03-31 23:23:01,Paulberg,d03b8867-c71b-422a-b089-870754415764,failed,False
+5618ec6b-58d4-4bc0-babd-9b2c0eccdec5,1a19ebf4-50cd-4482-8738-00c11dea11ab,refund,789032.58,2023-10-09 07:52:56,North Kevin,d03b8867-c71b-422a-b089-870754415764,failed,False
+1375a1f5-3b03-4057-becc-aeef96f10e1a,b5412736-028f-4c0a-9547-647e6051a47f,receiving,520301.96,2022-06-01 16:38:38,Tammyshire,d03b8867-c71b-422a-b089-870754415764,success,True
+f0c3b2eb-fa81-4f0e-b643-10e2f1253aaf,8a63cf92-934f-483d-8c20-326f85b5784d,transfer,656143.01,2024-06-08 07:30:02,North Paul,d03b8867-c71b-422a-b089-870754415764,failed,False
+9bc43cee-099d-4b9c-83d1-c9423169d62d,722b36cb-545a-4244-bab3-2cb4cf939ba3,transfer,382667.41,2024-02-28 20:48:24,West Gerald,d03b8867-c71b-422a-b089-870754415764,failed,False
+b5770bbe-6de0-4a39-b683-3d82890affd4,d5ce295e-2ee4-4e81-8fda-38005cd30cef,receiving,687243.68,2022-01-15 15:11:35,Weeksburgh,d03b8867-c71b-422a-b089-870754415764,pending,True
+65147246-dc83-4888-8569-47cdc73d1944,c77c42ff-b64c-4fce-af6e-8583402db929,transfer,767074.27,2022-05-13 10:41:39,Miguelstad,d03b8867-c71b-422a-b089-870754415764,pending,False
+8f88e841-5b29-4ef4-93b5-692be4a4da0f,083f5f77-c9d0-4807-984a-a6787c6ac90f,transfer,520881.94,2021-07-01 06:21:39,South Kimchester,d03b8867-c71b-422a-b089-870754415764,pending,False
+d01d8ef1-b00f-4cb1-8e33-1a22dbe5726d,3f5ebd4d-c6a3-4946-8e27-c8765737a55d,sending,833111.26,2022-06-01 20:38:12,East Crystal,d03b8867-c71b-422a-b089-870754415764,failed,True
+c5c0849d-151b-4a9c-ad59-48cbf3c99973,1600167d-6439-426f-9bc8-8aced9244fef,receiving,559416.34,2021-07-12 16:00:12,Port Anthony,d03b8867-c71b-422a-b089-870754415764,failed,False
+98cee753-59b7-4f60-8c4c-320163be3963,28b63c4d-b988-496d-a69c-1ef77ef687c5,purchase,439603.08,2024-02-19 12:42:45,Laurieburgh,d03b8867-c71b-422a-b089-870754415764,failed,True
+e093e142-968c-4261-a0b3-79696788fd73,a93ddf72-cc1e-4052-8481-ab7bd48a26ac,refund,893336.06,2021-03-07 02:43:25,Mooreborough,d03b8867-c71b-422a-b089-870754415764,pending,True
+1813c625-9834-4767-9bde-8197eed126fd,6c233458-04ca-483c-82b8-5aba5f490ec3,transfer,979369.94,2023-09-05 11:33:18,Joshuamouth,d03b8867-c71b-422a-b089-870754415764,pending,True
+f61f1628-e283-4772-a5a2-047c0ab6a11f,d1c90bdf-92a1-4fed-829f-129dfa36d24a,receiving,793272.7,2022-02-12 01:44:25,East Jose,d03b8867-c71b-422a-b089-870754415764,pending,False
+3c323df1-4cf1-4701-be28-c0e756eadf0d,406a5843-d0e2-4fb7-98da-5db06145327f,transfer,302628.88,2023-09-10 02:45:00,Davidfort,d03b8867-c71b-422a-b089-870754415764,failed,False
+cca1ffd8-4419-4424-aa97-d27cb81d0743,777563c0-6428-4c2b-910b-0673001ee06b,transfer,350214.91,2021-01-27 00:27:31,Davidberg,d03b8867-c71b-422a-b089-870754415764,success,False
+e38ba3ca-5052-46fa-b1fd-d42cf354a20c,97d87507-491d-4ff1-9d08-a2a5e4e39321,receiving,574781.0,2021-11-06 21:16:52,Joelberg,d03b8867-c71b-422a-b089-870754415764,pending,True
+4e19210d-59a7-467b-a843-dbc0685c4313,544f9ea6-50e5-4225-826f-a414cc3e4f71,purchase,393261.95,2023-12-03 04:46:50,Port Michelle,d03b8867-c71b-422a-b089-870754415764,failed,False
+49f5c290-47c4-4697-b437-291a26fbbdd1,80ad63d1-d13d-493c-80eb-e759279f37f5,sending,806129.22,2024-04-09 09:49:30,Bradleyside,d03b8867-c71b-422a-b089-870754415764,failed,False
+e610a26f-9297-4edb-99d1-895d5c95ac6e,0040985e-2890-436a-a8ce-526e34ad12f6,sending,607756.37,2024-05-08 10:16:49,Freemanburgh,d03b8867-c71b-422a-b089-870754415764,failed,True
+2a928739-026a-4eae-a727-486fa330abcf,1dda8af6-1764-4cba-86b2-2ca096c769ce,sending,598783.73,2024-06-19 21:35:48,Nicholasport,d03b8867-c71b-422a-b089-870754415764,failed,False
+799f8f09-aba8-4dec-b3da-5446f559c16e,e9b04b20-80c0-48eb-82a4-ef02c7596183,purchase,285108.7,2020-12-11 18:31:09,West Jeffrey,d03b8867-c71b-422a-b089-870754415764,failed,False
+841ab61e-8a4b-49e1-92a9-2a13137b86ea,4767040d-4b20-4b2a-9238-c841e7654b2e,purchase,337474.66,2021-01-29 04:10:04,Port Susanstad,d03b8867-c71b-422a-b089-870754415764,pending,False
+28d1b85c-5c91-483b-895e-ed5a695d15cf,28b63c4d-b988-496d-a69c-1ef77ef687c5,sending,253241.49,2023-01-24 14:30:23,Howardfurt,d03b8867-c71b-422a-b089-870754415764,pending,False
+45571d83-55cc-4e56-b1af-2bee1d2fb798,bcd8a9eb-f11b-4137-915f-5dc66f212dc5,transfer,379972.65,2024-07-08 02:56:02,East Stephanieville,d03b8867-c71b-422a-b089-870754415764,success,False
+feed13fb-beda-4cd6-95de-ad4dac7bc32a,61057d63-eafc-49e2-bc13-3f49fb7ae88f,purchase,239725.56,2022-08-30 10:31:57,East Elizabethland,d03b8867-c71b-422a-b089-870754415764,success,False
+55c89cee-53ed-4a90-b5ef-2e3a926538ed,9c2ce9d6-b686-486c-9bff-6e1b09bc1d0d,sending,545937.66,2023-04-17 05:44:41,Fisherberg,d03b8867-c71b-422a-b089-870754415764,failed,True
+68f9eb7f-e9db-413c-9ccd-2a3c5294dbfd,5e104b11-f7c6-430c-876a-7b1281b4eeab,refund,59660.3,2024-06-13 19:02:27,Williamsside,d03b8867-c71b-422a-b089-870754415764,pending,False
+e97e4465-be4a-403f-9d9a-ba6b92170489,75a1fc01-37df-45ab-bd73-358ebda0ecef,purchase,455763.9,2021-03-20 13:19:15,Jasminebury,d03b8867-c71b-422a-b089-870754415764,success,False
+e7d1229c-3fe9-4ddc-a876-6418963d62ca,5c5e8681-7a4e-429f-8703-2ec3d9276a0c,purchase,204094.8,2023-05-23 00:21:35,Lake Tinahaven,d03b8867-c71b-422a-b089-870754415764,failed,True
+f291fac2-9d6e-42e7-af2f-b325d6a43f60,1652ea1c-55d0-4c4f-b7ef-a7b26a59b1be,receiving,34654.28,2021-07-29 13:06:56,East Stacy,d03b8867-c71b-422a-b089-870754415764,pending,False
+e69f25c2-32c2-4ddc-b3f7-e17cf067ba48,9ec16a8f-a335-4365-8e6e-8f58b4d793ea,refund,404462.86,2022-08-03 20:00:38,Lake Brandonfort,d03b8867-c71b-422a-b089-870754415764,failed,True
+2ed35eaf-86bc-4e7e-b54e-2e25142d40ac,66282438-4b9a-4c6b-831b-72011874eaed,transfer,962746.19,2021-05-17 02:52:57,West Paige,d03b8867-c71b-422a-b089-870754415764,success,True
+e5486392-7cb4-4eb7-8c00-ac3ed5a8e889,a974b189-23bb-41a2-a0ba-7d0afa4cf2e4,receiving,510859.9,2022-11-26 07:49:32,Lindsaymouth,d03b8867-c71b-422a-b089-870754415764,success,False
+3e1a5150-9d9a-4210-80b2-a4c7ff1c5184,7ae60e95-05d2-43f6-8d93-52fb14ea1dd2,sending,709580.75,2022-01-30 08:56:40,Fostermouth,d03b8867-c71b-422a-b089-870754415764,success,True
+0025de67-b8d1-4f83-96e9-f6e1e953c50f,8b4ffe88-536a-4855-8808-9f1fd78ee3e3,receiving,746669.87,2022-03-19 17:52:13,West Andreberg,d03b8867-c71b-422a-b089-870754415764,pending,False
+8db38414-91b5-464b-b044-b9c92d7bf208,1f236b41-cf6d-4c9c-bff5-d9bfd03616de,receiving,436760.25,2022-02-17 11:43:44,Lake Tracey,d03b8867-c71b-422a-b089-870754415764,pending,False
+54d496ed-d6a5-4944-b3d2-9c120d83696b,40f1f317-cffe-45ef-a99f-a162e2f87229,transfer,270003.49,2024-03-25 14:34:21,Scottside,d03b8867-c71b-422a-b089-870754415764,success,True
+4898cf16-7bb6-42b0-8fec-ea1316d62e0b,458c76e4-8ea0-4bfa-9a3c-cf425811d69a,transfer,664574.95,2022-04-05 22:06:51,North Dustinchester,d03b8867-c71b-422a-b089-870754415764,failed,False
+2d8f39b8-94ad-4e41-85ae-2021527dc62e,2a28d56b-c136-42cf-80ac-5b781bbd4248,purchase,263572.27,2021-06-30 17:51:08,Ramosshire,d03b8867-c71b-422a-b089-870754415764,pending,False
+a0492e1e-60e3-4fa0-a6ea-0069023642aa,5c5e8681-7a4e-429f-8703-2ec3d9276a0c,receiving,390862.62,2022-06-15 06:56:58,New Susan,d03b8867-c71b-422a-b089-870754415764,failed,False
+1d25b235-bb3e-4476-9544-247b06c4dc67,04fa6f7d-cfed-4420-8eaf-70bff3503e36,receiving,944531.94,2021-09-22 03:21:14,West Brandimouth,d03b8867-c71b-422a-b089-870754415764,success,True
+c0f59517-73b9-4835-bfbf-0b88b59b4250,015a7926-3c9c-4a17-970d-a38a1e38aa8d,sending,879690.67,2022-07-26 16:12:23,Cassandrahaven,d03b8867-c71b-422a-b089-870754415764,pending,False
+7df2a445-ab3a-4d82-81ba-2163bdf1f2cb,20e77066-4c00-4446-bb78-b84738db7310,sending,298200.92,2021-09-15 21:44:08,East Brandimouth,d03b8867-c71b-422a-b089-870754415764,success,False
+bddb7fab-f421-43c7-a84f-1ddab34c57cf,7eeaf22e-f746-4316-b5a0-7bc357a5d3dd,purchase,858500.07,2021-08-08 09:49:07,East Amanda,d03b8867-c71b-422a-b089-870754415764,failed,True
+5cee839d-7ffe-489e-9e8a-43996de9554b,8c003d2a-a05b-44f3-99b0-abb01929aca6,receiving,523485.81,2021-04-02 14:30:39,Josephtown,d03b8867-c71b-422a-b089-870754415764,success,True
+8a5f5706-2e01-44c8-b341-4687466b06a4,8b4ffe88-536a-4855-8808-9f1fd78ee3e3,sending,293381.15,2021-05-09 11:00:33,Stevenhaven,d03b8867-c71b-422a-b089-870754415764,pending,True
+8e6cc1ca-c4ce-478e-aca6-3ef07f889feb,c09ea74e-bd9c-4db2-8b36-2f9ba61b38bf,sending,590987.07,2021-06-27 15:52:28,Osbornburgh,d03b8867-c71b-422a-b089-870754415764,pending,True
+0d94f42f-217c-47cd-8614-58e8f694d449,e9b04b20-80c0-48eb-82a4-ef02c7596183,purchase,797932.95,2021-03-16 18:23:28,East Christophermouth,d03b8867-c71b-422a-b089-870754415764,success,True
+31be0ad1-e119-47ce-9ab5-e4884f0b20d8,23dba0d8-ee84-431f-adac-03c6d2ba6bb5,refund,561994.17,2023-02-08 17:20:43,Wilsonmouth,d03b8867-c71b-422a-b089-870754415764,pending,False
+cc759c34-5f60-488f-bfc7-1ceca8476ad8,7b6fec5b-4e4f-4f43-9835-4de1a336c479,transfer,709951.12,2023-04-10 10:33:55,South Davidhaven,d03b8867-c71b-422a-b089-870754415764,pending,True
+d046e8b6-de2a-4f4a-bc14-ceb7179bc36c,d1b0682b-e9b9-419c-aa79-58c46b887316,refund,968242.23,2021-05-04 21:39:05,Thomasbury,d03b8867-c71b-422a-b089-870754415764,pending,False
+ab67b699-691a-435e-b3e1-6b44c3a5b2c8,a36d2fb6-1755-461e-9f95-0ae93296083d,sending,476274.07,2022-09-16 11:32:51,Port Rebecca,d03b8867-c71b-422a-b089-870754415764,success,False
+dd445a98-452e-424b-9aa8-9aed0160fae8,fb95a3bb-57fd-4d60-8370-149d8107d63e,sending,228089.81,2023-12-15 17:32:02,North Stanleytown,d03b8867-c71b-422a-b089-870754415764,success,False
+18ed694c-e3a0-48c8-bff7-08dea08547e7,7120f093-4df5-4549-b98f-b9ffccbb16da,sending,778260.87,2021-09-30 22:12:18,Smithborough,d03b8867-c71b-422a-b089-870754415764,pending,True
+29021bac-7609-4461-be66-2aeb7d8836d7,06590518-125a-45e7-a4f8-919a23131cc5,transfer,158611.79,2023-08-24 16:33:53,Port Kathrynville,d03b8867-c71b-422a-b089-870754415764,pending,False
+cfeb7073-8cd2-4925-a1b6-90b17c9a76ab,7f0c647d-1e04-443b-b642-b02de8a05b7a,transfer,703430.31,2023-07-15 05:43:53,Cassandrashire,d03b8867-c71b-422a-b089-870754415764,failed,False
+985f57ac-ac60-4fc5-9ef3-77b547d3e627,2b83fdf2-2bfb-4de2-89de-7d706c43fe7e,receiving,37350.85,2022-02-25 22:20:01,Kendraborough,d03b8867-c71b-422a-b089-870754415764,success,True
+2ca8f85c-15bd-46c3-93e2-27b2e8fb2eea,c77c42ff-b64c-4fce-af6e-8583402db929,refund,387962.79,2021-07-01 05:50:47,Port Vernonchester,d03b8867-c71b-422a-b089-870754415764,pending,True
+ace79cb0-4c25-4c98-98e6-c81fb33f6aa8,acc0637e-73f1-4f74-8efe-f5f29a39ace6,refund,592579.93,2021-04-26 15:19:38,Richardfurt,d03b8867-c71b-422a-b089-870754415764,pending,True
+91bd2f3c-6bdd-412f-bbca-7e6dcbd90a1f,7ae60e95-05d2-43f6-8d93-52fb14ea1dd2,purchase,42477.78,2022-12-20 07:48:10,New Cherylview,d03b8867-c71b-422a-b089-870754415764,failed,True
+22c14d3e-a097-4849-82b6-41bf0fa58be7,6db1c7b1-fc21-4cf7-8feb-0c1bbc2e9c2a,purchase,808807.89,2022-11-15 08:07:45,Smithhaven,d03b8867-c71b-422a-b089-870754415764,success,False
+b69306b3-d1ef-4a12-b594-72df298fe266,050c6c1f-0bbd-445c-b1ce-381386c18d23,purchase,907629.12,2021-09-16 12:27:42,Seanport,d03b8867-c71b-422a-b089-870754415764,failed,False
+2d7b64eb-f456-4c54-b66f-1bd579830e89,e865ef33-627a-4d3c-aa61-014a0ff3d16a,transfer,863369.17,2020-08-15 06:40:22,West Michaelton,d03b8867-c71b-422a-b089-870754415764,pending,True
+e488b0bb-3355-46c4-8e52-ea15a09829b3,a39bd249-895a-4889-a359-20e58e1d3dbf,receiving,104861.53,2023-05-31 01:07:55,East Brandontown,d03b8867-c71b-422a-b089-870754415764,success,False
+387fe0e8-08d1-4f4c-b032-54fc069cc96f,4a0b084a-e8d6-4970-a829-379ee2c894d0,refund,396428.85,2024-03-19 13:07:21,Shaunville,d03b8867-c71b-422a-b089-870754415764,failed,True
+1fe609f1-98de-4f4e-ba52-4d2d5b70de37,80ad63d1-d13d-493c-80eb-e759279f37f5,refund,611734.06,2024-04-04 03:38:13,North Holly,d03b8867-c71b-422a-b089-870754415764,success,False
+60caa58a-31a5-4c11-9a90-01c8ebf0424a,4aa7d219-f888-4599-aeae-e0561289f825,refund,341403.42,2022-11-10 01:26:41,North Sarahfurt,d03b8867-c71b-422a-b089-870754415764,pending,True
+ee1e3496-27fd-419d-8626-e671f4713881,3619026c-17f7-40f5-b9a3-677b9f5df05b,refund,5996.94,2023-12-26 15:18:40,North Hannahmouth,d03b8867-c71b-422a-b089-870754415764,failed,True
+70c46be2-f547-4e35-a0e6-631bd2cc2f96,d55bf159-ab3a-4de1-81c4-dd6bdf0caa8a,transfer,119378.62,2020-08-22 02:45:58,Cohenhaven,d03b8867-c71b-422a-b089-870754415764,success,False
+e0a46992-1b89-466f-85c1-d51a97047775,d1bc64ae-2867-4207-b868-b192b295fbf2,sending,74715.38,2022-06-19 05:52:18,Beckerhaven,d03b8867-c71b-422a-b089-870754415764,pending,False
+ef3cdfc5-1d3b-45ea-bc87-98a457c054fa,ca23b94c-a92f-4899-9cbb-068da20fd70a,receiving,861207.4,2023-11-07 22:57:17,West Rachael,d03b8867-c71b-422a-b089-870754415764,pending,True
+e6e62af3-4d70-4928-88ab-0417c74b6c14,f5eb8039-dfa5-4871-84fe-0c5a6a2c06c2,transfer,918434.78,2024-05-29 15:01:00,Juanborough,d03b8867-c71b-422a-b089-870754415764,success,True
+e53fbe6d-9556-4754-aca3-40edcf79c950,3619026c-17f7-40f5-b9a3-677b9f5df05b,sending,797135.83,2024-05-04 16:48:22,North Marvin,d03b8867-c71b-422a-b089-870754415764,failed,True
+24cdbace-c24a-476a-a639-0db63ba64b14,5e104b11-f7c6-430c-876a-7b1281b4eeab,transfer,28592.91,2023-04-05 23:10:54,Deanshire,d03b8867-c71b-422a-b089-870754415764,failed,True
+1f31503e-2e18-4135-b84f-ccc8da3ecdbf,76f19737-6e6b-4c31-8bd3-3477b15250a7,sending,129405.27,2021-05-14 03:42:15,West Alexanderville,d03b8867-c71b-422a-b089-870754415764,failed,True
+60f1c876-e780-47bb-82a0-92410f552e12,7120f093-4df5-4549-b98f-b9ffccbb16da,purchase,588571.72,2022-12-19 20:35:22,North Kevin,d03b8867-c71b-422a-b089-870754415764,pending,False
+3d9a9b23-17dc-4a0c-b000-22878db72dcb,24500840-02a5-4794-9968-c2bb588b5917,purchase,744523.87,2020-08-13 12:11:16,Ryanmouth,d03b8867-c71b-422a-b089-870754415764,success,False
+128dd3f1-26c7-4381-bec2-2480f766ea7d,06590518-125a-45e7-a4f8-919a23131cc5,sending,441176.18,2021-11-14 01:17:19,Montgomeryfurt,d03b8867-c71b-422a-b089-870754415764,pending,True
+e8c62060-09e1-43ff-8ce8-bcf33073fce2,9a596419-df9d-41bc-857a-23478d650489,purchase,24784.1,2021-11-27 21:30:28,Ricehaven,d03b8867-c71b-422a-b089-870754415764,pending,True
+e87cdc51-1a8c-4f68-9982-882936e34327,e01e4747-f42b-4ecd-a958-8b6f090a3429,refund,101015.41,2022-03-22 19:44:25,Floresfurt,d03b8867-c71b-422a-b089-870754415764,failed,True
+bd8085d4-2721-4422-a0e0-e77945cd8d23,f6112ee3-9f05-4b47-9e04-391ebc07e35f,sending,431902.86,2024-01-08 00:17:37,South Michelleport,d03b8867-c71b-422a-b089-870754415764,pending,True
+0c3628a5-c122-4c63-8a80-f389d46fa1c0,5c5e8681-7a4e-429f-8703-2ec3d9276a0c,receiving,107829.29,2021-12-02 07:55:45,West Ronaldport,d03b8867-c71b-422a-b089-870754415764,failed,True
+56ac6a3f-8c1d-49b9-b391-b37d4fc0f189,b3b6649f-114a-4629-9605-a1bb798e3030,sending,54462.54,2022-01-11 03:14:01,East Michaelchester,d03b8867-c71b-422a-b089-870754415764,failed,True
+62a6304d-29d9-4e90-aab3-4215c55fdda9,6316d11a-2d1b-4d3c-b25f-c9136aeff41e,refund,232524.74,2021-10-28 06:23:48,Lake Matthew,d03b8867-c71b-422a-b089-870754415764,success,True
+d422cd6c-ad17-4e37-b37a-02dbe48d79b5,0a8a0bb7-cd6d-4a60-895f-27677431d153,purchase,118861.26,2022-06-17 12:53:52,Jaredtown,d03b8867-c71b-422a-b089-870754415764,success,False
+cd71ca2e-bbcc-42ee-8658-ff0fa1d949df,0040985e-2890-436a-a8ce-526e34ad12f6,sending,618318.66,2023-12-21 09:33:16,Millerchester,d03b8867-c71b-422a-b089-870754415764,failed,False
+86b86776-589f-4a86-875e-06774d7771a9,67331360-31c6-4546-94cf-a2f9b8025664,purchase,763646.52,2024-04-17 06:19:37,Jeffreyshire,d03b8867-c71b-422a-b089-870754415764,pending,False
+71fb757e-acc6-4946-9ef4-4791b02b9659,924124c4-9feb-4d33-9825-a4554ca1423a,purchase,100121.38,2024-01-09 00:10:09,Port Matthewbury,d03b8867-c71b-422a-b089-870754415764,success,False
+5619e3d3-2421-4291-bb4c-3eabaea88f83,d04635e7-9a1c-46c0-b679-faa05403ebc5,refund,556582.56,2023-06-19 13:05:21,East Erichaven,d03b8867-c71b-422a-b089-870754415764,success,True
+856704cb-ba09-4944-babe-0c8ac1873468,33908142-b38c-4ece-9892-c7a5c2a10f80,refund,539568.19,2023-08-30 06:21:37,Daniellemouth,d03b8867-c71b-422a-b089-870754415764,pending,False
+326708a0-9bcb-4f15-9aac-0957e700183a,70562f43-a0f7-422e-81b5-4daa83ca4849,purchase,822817.58,2022-11-17 14:21:21,Sherriborough,d03b8867-c71b-422a-b089-870754415764,success,False
+372e5c7a-c1e5-4ec5-b4eb-c20f26660334,20e77066-4c00-4446-bb78-b84738db7310,sending,899392.59,2023-01-11 06:20:44,Lisaborough,d03b8867-c71b-422a-b089-870754415764,pending,True
+e538904e-edd5-4ea4-b7cb-0370c6a415c7,1329f31a-973b-405b-bc00-d4715eabe5af,receiving,602872.08,2020-11-21 16:58:05,Port Elizabethmouth,d03b8867-c71b-422a-b089-870754415764,failed,True
+9eafcb44-010a-4999-af9b-f31e93ef0939,ae51fb89-b090-4703-9b97-0e5aff8cd369,transfer,103991.13,2022-03-26 02:03:42,Matthewsburgh,d03b8867-c71b-422a-b089-870754415764,failed,True
+b422f242-50c6-409a-b1dd-ec11d7ccfabc,fa188a72-a30c-4b0c-8ab9-963034a06ea9,receiving,346737.36,2021-08-09 19:14:31,South Joshua,d03b8867-c71b-422a-b089-870754415764,success,False
+fbdc0a9f-f1b1-4295-acc1-c14e7fcad53a,8823bb19-6c26-4179-bbb6-643ac83d0032,refund,11607.16,2022-06-28 05:53:06,Kristinbury,d03b8867-c71b-422a-b089-870754415764,pending,True
+1ce4b6cb-782d-44c7-a050-5f6317066e95,34d0f584-db20-4e38-b704-88c50019cbac,sending,373315.15,2024-04-04 05:11:28,Shermanchester,d03b8867-c71b-422a-b089-870754415764,failed,False
+5b3b1c24-a760-46af-83d4-53bbdbb2ffd2,80ad63d1-d13d-493c-80eb-e759279f37f5,transfer,208989.77,2022-02-11 04:47:01,Mosesview,d03b8867-c71b-422a-b089-870754415764,pending,True
+9a0e3498-d223-475d-a232-a974b5203cda,083f5f77-c9d0-4807-984a-a6787c6ac90f,transfer,545751.43,2020-12-02 03:58:40,East Blakefurt,d03b8867-c71b-422a-b089-870754415764,failed,True
+445e58e4-ea6b-47a9-b994-7e4aa79c6e7d,043d05be-dcbd-4fd4-8417-c695f03675ec,transfer,744736.78,2021-04-06 06:29:42,Lake Robertochester,d03b8867-c71b-422a-b089-870754415764,pending,True
+2ee5a6a9-78be-4ff3-8d2b-82e6238b0215,050c6c1f-0bbd-445c-b1ce-381386c18d23,receiving,127387.9,2022-05-16 11:16:23,Jamesstad,d03b8867-c71b-422a-b089-870754415764,failed,True
+707cc110-bdbe-4793-b985-7070e9859a57,7b6fec5b-4e4f-4f43-9835-4de1a336c479,transfer,827035.15,2021-06-02 02:31:26,Lewismouth,d03b8867-c71b-422a-b089-870754415764,failed,False
+05aa42db-8aef-49ab-961a-76ab3abfe5cd,c2337e62-bbf6-42ca-8372-b3c6059234e7,sending,376963.4,2022-08-16 13:15:08,Juliaside,d03b8867-c71b-422a-b089-870754415764,pending,True
+842e9905-8709-409a-92b8-172d5b9fe2ae,376af0e0-e265-4679-9e32-3e298beff596,purchase,643325.1,2020-10-18 08:02:14,Port Dianaville,d03b8867-c71b-422a-b089-870754415764,failed,True
+697c67d8-5098-429c-af66-40b8cea785b2,7db340ae-4eae-4f1f-92d6-2953b05f6c12,receiving,862071.1,2024-04-06 23:08:42,New Meganton,d03b8867-c71b-422a-b089-870754415764,pending,False
+1a8ba7de-f083-49aa-8a71-237f67e11221,2b5eee38-235e-4de1-b9e0-ea9ce98e6b07,sending,12743.77,2020-08-25 05:21:32,Port Christinamouth,d03b8867-c71b-422a-b089-870754415764,success,False
+98b3d55a-3054-4a08-a32c-ac0635a17c0e,d3a7a71f-fdf3-4185-acbb-35fc23a47934,purchase,55918.95,2022-05-29 07:29:26,Robertport,d03b8867-c71b-422a-b089-870754415764,failed,True
+db52cebe-4338-42b1-b22f-b4cadd14a64b,edc38336-a29e-4dd4-b977-87b5c5aaafca,purchase,438726.09,2022-11-06 20:22:56,Haleyshire,d03b8867-c71b-422a-b089-870754415764,success,True
+4b54cb16-64c7-49da-8a0e-2e9a63a47684,804b80ed-d555-4022-a63f-9b4013b2cac6,transfer,67115.53,2021-09-07 22:28:43,Lisaton,d03b8867-c71b-422a-b089-870754415764,success,False
+bed52ab3-96ec-485b-a782-18858dd637c7,804b80ed-d555-4022-a63f-9b4013b2cac6,receiving,178596.16,2020-11-17 07:19:11,West Melissa,d03b8867-c71b-422a-b089-870754415764,failed,True
+2e761dfd-fe98-4de0-8d8c-1a716d5f3376,8f1e4418-fb36-46dc-b379-ed41a1ad648b,transfer,236393.92,2022-03-22 06:05:31,Garrettburgh,d03b8867-c71b-422a-b089-870754415764,success,False
+e2f82515-647e-4032-8f4e-d3a4624647cc,26e232f1-25f6-4584-a3f6-f01297c30b13,sending,320395.66,2021-08-30 12:47:07,Obrienfort,d03b8867-c71b-422a-b089-870754415764,success,True
+277d80b0-bc5f-4b8d-aa08-305c40960f74,c4f87f00-c4e7-43f0-8123-c81d288d6e46,receiving,145230.46,2021-02-03 23:13:42,North Alex,d03b8867-c71b-422a-b089-870754415764,pending,True
+604886a7-048a-4fc1-9fcf-ccb6d2fd876b,8dfa11f0-c8aa-4376-a420-58f55747eed8,refund,872676.48,2021-09-14 05:11:30,East Beverlyshire,d03b8867-c71b-422a-b089-870754415764,failed,False
+94930803-0060-4939-acd8-e67bfe6bd68c,d7acfc4d-a4cc-4a91-bc13-658e49410efd,receiving,556858.92,2020-12-29 08:59:00,Lopezstad,d03b8867-c71b-422a-b089-870754415764,failed,True
+3ab0dea3-9220-4e68-b0f9-1559d673dd56,8a1f3e94-1314-48f8-8741-bb9b8a464edc,refund,365081.8,2022-12-28 12:54:17,Lake Nancy,d03b8867-c71b-422a-b089-870754415764,success,False
+b56a2819-c850-4c18-8ec8-3389b1d287a1,6d0fba08-034b-4a02-b1f0-6e735d798c46,transfer,85360.06,2021-03-23 06:59:31,North Todd,d03b8867-c71b-422a-b089-870754415764,success,True
+4fd964a6-6632-46e4-b275-40213e1a4fc9,9d73519a-045c-455e-81f7-d68d6bec0d87,purchase,717147.5,2024-04-30 23:58:50,Davidshire,d03b8867-c71b-422a-b089-870754415764,success,True
+4f061ebc-fbcd-45ef-ab5d-9f2e5e3fda40,01354cf7-ee51-4881-972a-c8e47cc57502,refund,921756.99,2021-11-27 09:54:48,Port Franktown,d03b8867-c71b-422a-b089-870754415764,pending,False
+5ce4e581-da58-42e3-b503-4689450ad9d8,9c2ce9d6-b686-486c-9bff-6e1b09bc1d0d,sending,355384.83,2024-03-08 22:53:50,Parkermouth,d03b8867-c71b-422a-b089-870754415764,pending,True
+ace4a74e-ccef-438c-af5d-07f7f24a5da3,c87c11d0-666e-4ced-a817-761133c786db,transfer,803899.23,2024-04-24 05:34:23,Port Natashatown,d03b8867-c71b-422a-b089-870754415764,pending,False
+6271a78c-0928-4a92-aa36-deac54c52bd9,0c85ed40-64e7-4dd2-ad2d-96eb0446050d,sending,412017.36,2023-12-18 03:19:26,Port Jay,d03b8867-c71b-422a-b089-870754415764,success,False
+105f22b4-6e71-4963-918b-f7f811db6256,ce17a9a2-e407-42f9-9665-fb8ca45f3905,purchase,232198.37,2021-10-12 14:39:45,Kimberlychester,d03b8867-c71b-422a-b089-870754415764,failed,True
+206eee1d-e509-446b-b92d-effab434b0bd,4767040d-4b20-4b2a-9238-c841e7654b2e,purchase,137849.57,2023-05-26 10:09:57,North Christinetown,d03b8867-c71b-422a-b089-870754415764,failed,False
+a6e67fdb-40e4-401e-9a51-af39af3fc4e3,ca4ebf8f-c7a0-4c5e-b868-3ae575658cac,purchase,182859.93,2023-11-05 15:12:54,Lake Harold,d03b8867-c71b-422a-b089-870754415764,success,True
+cb9824f1-882a-4a99-8a69-31e4cb8be74b,3bbab3e8-1c18-43e1-a3d8-c8407bd81e1c,sending,427683.74,2020-09-03 20:27:15,Adkinsview,d03b8867-c71b-422a-b089-870754415764,failed,False
+fcd226f0-fb00-430a-b95f-ed63999ee802,5efb2470-35e8-4c18-8a91-b4aa19a58df6,receiving,156342.97,2022-08-31 04:22:10,New Peter,d03b8867-c71b-422a-b089-870754415764,failed,True
+54d67ea0-8359-4e44-ba15-5c5ead78d8ec,2ec72495-4f7a-45c9-953d-d3a8806bd10f,receiving,446753.83,2021-07-22 10:43:50,Ronaldberg,d03b8867-c71b-422a-b089-870754415764,pending,True
+496b2b67-4fc5-4bd6-9b93-9a62b1aba1d3,1e1cf311-85b2-4f22-bd54-409f7798c4bb,purchase,931319.2,2024-07-30 11:20:47,Adambury,d03b8867-c71b-422a-b089-870754415764,failed,False
+ac5e3a15-6d97-438a-97d0-37968361d24b,b6e30142-2964-4703-845e-e3712439b09a,sending,14961.93,2022-07-30 09:44:23,Maryport,d03b8867-c71b-422a-b089-870754415764,pending,True
+d0d93bab-4bde-412b-9046-a3a4ef5071d0,e8f89700-7436-4b42-a8bd-2a6495cf8260,refund,97918.45,2023-03-29 03:58:50,Buchananmouth,d03b8867-c71b-422a-b089-870754415764,success,False
+f78f076c-0921-4d72-8a22-ad04d6bf9cc0,7256f7f4-caab-4c9b-910f-bfc1fc1a793f,purchase,164563.01,2022-06-26 11:29:34,Lake Rebeccaport,d03b8867-c71b-422a-b089-870754415764,failed,False
+053d1325-cc5e-4609-bf38-f4560570a6fd,76b4543f-27db-4d7c-a7d1-d25e5cffa3d9,transfer,342266.72,2020-08-30 17:03:32,Brandontown,d03b8867-c71b-422a-b089-870754415764,success,True
+ef49def5-d5c9-42e3-8a92-b167043298cf,929ba6d0-08c7-4dee-b5f5-821d332ed255,refund,609454.48,2022-02-03 13:00:15,Lake Sabrina,d03b8867-c71b-422a-b089-870754415764,pending,True
+095866fd-cb36-45d1-ae74-535f324f6de6,6316d11a-2d1b-4d3c-b25f-c9136aeff41e,refund,902756.01,2024-06-12 16:07:06,North Amandabury,d03b8867-c71b-422a-b089-870754415764,failed,False
+bc7fcc1a-a692-498d-be83-fee8198ad0eb,251c1e82-6864-4f40-a054-ff5fbeabf8ac,transfer,611402.6,2024-06-19 19:16:00,Lisaport,d03b8867-c71b-422a-b089-870754415764,success,False
+333d472f-2a09-4503-86a3-58747950c3c3,1329f31a-973b-405b-bc00-d4715eabe5af,transfer,4378.66,2021-02-01 09:11:14,Sherrimouth,d03b8867-c71b-422a-b089-870754415764,success,True
+9900a03f-95e3-41d1-98d2-be7f1e2374c1,d1bc64ae-2867-4207-b868-b192b295fbf2,sending,320656.95,2023-01-13 18:10:35,New Jessicastad,d03b8867-c71b-422a-b089-870754415764,success,True
+63f0f26c-b2b1-437f-8216-2208c83c64ed,5e62ffd6-fa3b-4573-84f9-fbd25f6acc9a,refund,987585.75,2024-01-07 11:22:35,Reynoldsmouth,d03b8867-c71b-422a-b089-870754415764,pending,True
+4cde4cf8-28bd-4fcd-8da8-f3a5f68ba001,1b8f1d46-d0e0-4017-a2ae-731207f20511,sending,240534.92,2021-05-30 16:18:44,Lake Kenneth,d03b8867-c71b-422a-b089-870754415764,pending,True
